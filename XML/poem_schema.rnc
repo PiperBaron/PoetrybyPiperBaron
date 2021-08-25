@@ -1,0 +1,24 @@
+start = content
+content = element content {about, poem}
+about = element about {poemTitle, accArt, bgInfo, themes, lineInfo, metaTags}
+xmlid = attribute xml:id {xsd:ID}
+poemTitle = element poemTitle {xmlid, text}
+accArt = element accArt {xsd:anyURI}
+bgInfo = element bgInfo {p+}
+p = element p {text}
+themes = element themes {themePoint*}
+themePoint = element themePoint  {text}
+lineInfo = element lineInfo {lineInfoPoint*}
+lineInfoPoint = element lineInfoPoint {lineInfoPointNum, text}
+lineInfoPointNum = attribute lineInfoPointNum {xsd:integer}
+metaTags = element metaTags {tagPoint+}
+tagPoint = element tagPoint {tag}
+tag = attribute tag {xsd:ID}
+poem = element poem {stanza+}
+stanza = element stanza {stanzaNum, (line | lineGroup)*}
+stanzaNum = attribute stanzaNum {xsd:integer}
+line = element line {lineNum, text}
+lineNum = attribute lineNum {xsd:integer}
+lineGroup = element lineGroup {lineGroupNum, line+}
+lineGroupNum = attribute lineGroupNum {xsd:integer}
+
