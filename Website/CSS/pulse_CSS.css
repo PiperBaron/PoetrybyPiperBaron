@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    background-image: url(../Images/PLACEHOLDER.jpg);
+    background-image: url(../Media/PLACEHOLDER.jpg);
     background-repeat: no-repeat;
     background-position: center;
     color: white;
@@ -13,6 +13,41 @@ body {
     font-style: italic;
     font-family: 'Amatic SC', cursive;
 }
+
+#menu {
+    margin: 25px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.menu-items {
+    padding: 10px;
+    margin: 12px 5px;
+    background-color: #2A2A2A;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    width: 5%;
+    outline: 2px solid black;
+    display: inline;
+}
+
+.menu-items:hover {
+    background-color: #6c0128;
+    color: white;
+}
+
+.menu-items a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu-items a:hover {
+    text-decoration: none;
+    color: white;
+}
+
 
 #audio_button {
 	width: 0;

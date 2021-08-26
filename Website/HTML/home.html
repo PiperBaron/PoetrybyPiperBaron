@@ -1,7 +1,7 @@
 
 <!DOCTYPE html
   SYSTEM "about:legacy-compat">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Poetry by Piper Baron</title>
@@ -15,14 +15,21 @@
     <body>
         
         <div id="main">
+            
+            <video autoplay muted loop id="bg_video">
+                <source src="../Media/home_BG_video.mp4" type="video/mp4">
+            </video>
+            
             <div id="title">Poetry by Piper Baron</div>
             <div class="sub">Senior Project for DIGIT 494</div>  
             
             <div id="menu">
-                <div class="menu-items"><a href="">Home</a></div>
-                <div class="menu-items"><a href="">Poems</a></div>
+                <div class="menu-items"><a href="poems_page.html">Poems</a></div>
                 <div class="menu-items"><a href="">Analysis</a></div>
+                <div class="menu-items"><a href="">Author</a></div>
             </div>
+            
+            <button id="video_button" type="button" onclick="videoToggle()">Pause</button>
         </div>
        
     </body>
