@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+    background-image: url(../Media/poems_bg2.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    color: white;
+}
+
+#title {
+    font-size: 80px;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Amatic SC', cursive;
+    position: relative;
+}
+
+.sub {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    position: relative;
+}
+
+#menu {
+    margin: 25px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.menu-items {
+    padding: 10px;
+    margin: 12px 5px;
+    background-color: #2A2A2A;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    width: 5%;
+    outline: 2px solid black;
+    display: inline;
+}
+
+.menu-items:hover {
+    background-color: #7F8564;
+    color: white;
+}
+
+.menu-items a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu-items a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+#poem_menu {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    margin: 25px 0;
+}
+
+.poem_menu-items {
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+}
+
+.poem_menu-items:hover {
+    background-color: black;
+}
+
+.poem_menu-items a {
+    text-decoration: none;
+    color: #B7C47A;
+}
+
+.poem_menu-items a:hover {
+    text-decoration: none;
+    color: #E00621;
+}
+
+.poem_column {
+    width: 200px;
+}
