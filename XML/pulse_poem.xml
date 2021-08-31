@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
-<content>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="poem_schema.rnc" type="application/relax-ng-compact-syntax"?><content>
     <about>
         <poemTitle xml:id="pulse">Pulse</poemTitle>
         <accArt/>
@@ -21,9 +19,9 @@
             <themePoint>Sound</themePoint>
         </themes>
         <lineInfo>
-            <lineInfoPoint lineInfoPointNum="1">"Empty cavern" and "cavity" refer to the ribcage of the
+            <lineInfoPoint passageRef="l-1 l-2 l-3"><q>Empty cavern</q> and <q>cavity</q> refer to the ribcage of the
                 person dying.</lineInfoPoint>
-            <lineInfoPoint lineInfoPointNum="2">The "beeping" is referencing the sound of an EKG in a
+            <lineInfoPoint lineInfoPointNum="14 15 16">The "beeping" is referencing the sound of an EKG in a
                 hospital.</lineInfoPoint>
             <lineInfoPoint lineInfoPointNum="3">The "long, wooden cage" in this line is a casket --
                 meaning the person dying throughout the beginning of the poem has now
@@ -46,76 +44,76 @@
     </about>
 
     <poem>
-        <stanza stanzaNum="1">
-            <line lineNum="1">Heartbeat.</line>
-            <line lineNum="2">A thunderously loud</line>
-            <line lineNum="3">rhythmic thumping to </line>
-            <line lineNum="4">the soul-giving pumping, </line>
-            <line lineNum="5">bloody beat of</line>
-            <line lineNum="6">life itself.</line>
+        <stanza stanzaNum="s-1">
+            <line lineNum="l-1">Heartbeat.</line>
+            <line lineNum="l-2">A thunderously loud</line>
+            <line lineNum="l-3">rhythmic thumping to </line>
+            <line lineNum="l-4">the soul-giving pumping, </line>
+            <line lineNum="l-5">bloody beat of</line>
+            <line lineNum="l-6">life itself.</line>
         </stanza>
 
-        <stanza stanzaNum="2">
-            <line lineNum="7">Heartbeat.</line>
-            <line lineNum="8">Shockingly dim and</line>
-            <line lineNum="9">a whimpering in the</line>
-            <lineGroup lineGroupNum="1">
-                <line lineNum="10">empty cavern of a</line>
-                <line lineNum="11">cavity left cold and</line>
-                <line lineNum="12">decaying.</line>
-            </lineGroup>
+        <stanza stanzaNum="s-2">
+            <line lineNum="l-7">Heartbeat.</line>
+            <line lineNum="l-8">Shockingly dim and</line>
+            <line lineNum="l-9">a whimpering in the</line>
+            
+                <line lineNum="l-10">empty cavern of a</line>
+                <line lineNum="l-11">cavity left cold and</line>
+                <line lineNum="l-12">decaying.</line>
+            
         </stanza>
 
-        <stanza stanzaNum="3">
-            <line lineNum="13">Heartbeat.</line>
-            <line lineNum="14">Quick series of</line>
-            <line lineNum="15">beeping, backtrack to</line>
-            <line lineNum="16">weeping that crawls the</line>
-            <line lineNum="17">halls of stingingly white</line>
-            <line lineNum="18">mausoleum.</line>
+        <stanza stanzaNum="s-3">
+            <line lineNum="l-13">Heartbeat.</line>
+            <line lineNum="l-14">Quick series of</line>
+            <line lineNum="l-15">beeping, backtrack to</line>
+            <line lineNum="l-16">weeping that crawls the</line>
+            <line lineNum="l-17">halls of stingingly white</line>
+            <line lineNum="l-18">mausoleum.</line>
         </stanza>
 
-        <stanza stanzaNum="4">
-            <line lineNum="19">Heartbeat.</line>
-            <line lineNum="20">Lacking and absent</line>
-            <line lineNum="21">and pounding at the</line>
-            <lineGroup lineGroupNum="2">
-                <line lineNum="22">roof of a long, wooden</line>
-                <line lineNum="23">cage.</line>
-            </lineGroup>
+        <stanza stanzaNum="s-4">
+            <line lineNum="l-19">Heartbeat.</line>
+            <line lineNum="l-20">Lacking and absent</line>
+            <line lineNum="l-21">and pounding at the</line>
+            
+                <line lineNum="l-22">roof of a long, wooden</line>
+                <line lineNum="l-23">cage.</line>
+            
         </stanza>
 
-        <stanza stanzaNum="5">
-            <line lineNum="24">Heartbeat.</line>
-            <line lineNum="25">Hammer to the dirt</line>
-            <line lineNum="26">at the foot of a</line>
-            <line lineNum="27">desecrated stone tablet.</line>
+        <stanza stanzaNum="s-5">
+            <line lineNum="l-24">Heartbeat.</line>
+            <line lineNum="l-25">Hammer to the dirt</line>
+            <line lineNum="l-26">at the foot of a</line>
+            <line lineNum="l-27">desecrated stone tablet.</line>
         </stanza>
 
-        <stanza stanzaNum="6">
-            <line lineNum="28">Heartbeat.</line>
-            <line lineNum="29">Earth-wide quaking,</line>
-            <line lineNum="30">battering and shaking at</line>
-            <line lineNum="31">my bones.</line>
+        <stanza stanzaNum="s-6">
+            <line lineNum="l-28">Heartbeat.</line>
+            <line lineNum="l-29">Earth-wide quaking,</line>
+            <line lineNum="l-30">battering and shaking at</line>
+            <line lineNum="l-31">my bones.</line>
         </stanza>
 
-        <stanza stanzaNum="7">
-            <line lineNum="32">Heartbeat.</line>
-            <line lineNum="33">Hammering down</line>
-            <line lineNum="34">to the molten</line>
-            <line lineNum="35">core.</line>
-            <line lineNum="36">Heartbeat.</line>
-            <line lineNum="37">Fracturing of the</line>
-            <line lineNum="38">crust.</line>
-            <line lineNum="39">Heartbeat.</line>
-            <line lineNum="40">Rhythmic</line>
-            <line lineNum="41">annihilation.</line>
+        <stanza stanzaNum="s-7">
+            <line lineNum="l-32">Heartbeat.</line>
+            <line lineNum="l-33">Hammering down</line>
+            <line lineNum="l-34">to the molten</line>
+            <line lineNum="l-35">core.</line>
+            <line lineNum="l-36">Heartbeat.</line>
+            <line lineNum="l-37">Fracturing of the</line>
+            <line lineNum="l-38">crust.</line>
+            <line lineNum="l-39">Heartbeat.</line>
+            <line lineNum="l-40">Rhythmic</line>
+            <line lineNum="l-41">annihilation.</line>
         </stanza>
 
-        <stanza stanzaNum="8">
-            <line lineNum="42">Heartbeat</line>
-            <line lineNum="43">beat</line>
-            <line lineNum="44">beat.</line>
+        <stanza stanzaNum="s-8">
+            <line lineNum="l-42">Heartbeat</line>
+            <line lineNum="l-43">beat</line>
+            <line lineNum="l-44">beat.</line>
         </stanza>
     </poem>
 </content>
