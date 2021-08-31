@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="poem_schema.rnc" type="application/relax-ng-compact-syntax"?><content>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
     <about>
         <poemTitle xml:id="pulse">Pulse</poemTitle>
         <accArt/>
@@ -19,14 +20,14 @@
             <themePoint>Sound</themePoint>
         </themes>
         <lineInfo>
-            <lineInfoPoint passageRef="l-1 l-2 l-37"><q>Empty cavern</q> and <q>cavity</q> refer to the ribcage of the
-                person dying.</lineInfoPoint>
-            <lineInfoPoint passageRef="14 15 16">The "beeping" is referencing the sound of an EKG in a
-                hospital.</lineInfoPoint>
-            <lineInfoPoint passageRef="3">The "long, wooden cage" in this line is a casket --
+            <lineInfoPoint passageRef="l-12 l-11 l-12"><q>Empty cavern</q> and <q>cavity</q> refer to
+                the ribcage of the person dying.</lineInfoPoint>
+            <lineInfoPoint passageRef="l-15">The "<q>beeping</q>" is referencing the sound of an
+                EKG in a hospital.</lineInfoPoint>
+            <lineInfoPoint passageRef="l-22 l-23">The "<q>long, wooden cage</q>" in this line is a casket --
                 meaning the person dying throughout the beginning of the poem has now
                 passed.</lineInfoPoint>
-            <lineInfoPoint passageRef="4">Their tombstone.</lineInfoPoint>
+            <lineInfoPoint passageRef="l-27">Their tombstone.</lineInfoPoint>
         </lineInfo>
         <metaTags>
             <tagPoint tag="heartbeat"/>
@@ -57,11 +58,10 @@
             <line lineNum="l-7">Heartbeat.</line>
             <line lineNum="l-8">Shockingly dim and</line>
             <line lineNum="l-9">a whimpering in the</line>
-            
-                <line lineNum="l-10">empty cavern of a</line>
-                <line lineNum="l-11">cavity left cold and</line>
-                <line lineNum="l-12">decaying.</line>
-            
+            <line lineNum="l-10">empty cavern of a</line>
+            <line lineNum="l-11">cavity left cold and</line>
+            <line lineNum="l-12">decaying.</line>
+
         </stanza>
 
         <stanza stanzaNum="s-3">
@@ -77,10 +77,9 @@
             <line lineNum="l-19">Heartbeat.</line>
             <line lineNum="l-20">Lacking and absent</line>
             <line lineNum="l-21">and pounding at the</line>
-            
-                <line lineNum="l-22">roof of a long, wooden</line>
-                <line lineNum="l-23">cage.</line>
-            
+            <line lineNum="l-22">roof of a long, wooden</line>
+            <line lineNum="l-23">cage.</line>
+
         </stanza>
 
         <stanza stanzaNum="s-5">
