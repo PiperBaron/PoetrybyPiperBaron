@@ -1,236 +1,183 @@
 
 <!DOCTYPE html
   SYSTEM "about:legacy-compat">
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       <title>Pulse by Piper Baron</title>
-      <meta name="keywords"
-         content="heartbeat, heart, death, loss, injury, illness, health, grief, depression, sadness, mental-illness" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <link rel="stylesheet" type="text/css" href="../CSS/pulse_CSS.css" />
-      <link rel="preconnect" href="https://fonts.googleapis.com" />
-      <link rel="preconnect" href="https://fonts.gstatic.com" />
-      <link href="https://fonts.googleapis.com/css2?family=Amatic+SC" rel="stylesheet" />
-      <link href="https://fonts.googleapis.com/css2?family=Bellefair" rel="stylesheet" />
-      <script src="../Javascript/pulse_audio_JS.js"></script>
-      <script src="../Javascript/pulse_line_info_toggle_JS.js"></script>
+      <meta name="keywords" content="heartbeat, heart, death, loss, injury, illness, health, grief, depression, sadness, mental-illness" />
    </head>
    <body>
       <div id="main">
          <div id="title">Pulse</div>
-         
-         <div id="menu">
-            <div class="menu-items"><a href="home.html">Home</a></div>
-            <div class="menu-items"><a href="poems_page.html">Poems</a></div>
-            <div class="menu-items"><a href="">Analysis</a></div>
-            <div class="menu-items"><a href="">Author</a></div>
-         </div>
-
-         <audio id="audio" src="../Media/heartbeat.wav"></audio>
-         <div id="button_div">
-            <button id="audio_button" type="button" onclick="aud_play_pause()"></button>
-         </div>
-
          <section id="about">
             <div id="background">
                <div id="bg_info">
-                  <p>Pulse was written for a Creative Writing course in April of 2019, when I was in
-                     my second year of college.</p>
-
-                  <p>The idea of this poem was to communicate that "silence is deafening," the
-                     absence of a heartbeat growing louder and lourder. A person close to the
-                     narrator of the poem is dying, and their growing feeling of grief in
-                     represented through the symbol of sound.</p>
-
+                  
+                  <p>Pulse was written for a Creative Writing course in April of 2019, when I was in my
+                     second year of college.</p>
+                  
+                  <p>The idea of this poem was to communicate that "silence is deafening," the absence
+                     of
+                     a heartbeat growing louder and lourder. A person close to the narrator of the poem
+                     is dying, and their growing feeling of grief in represented through the symbol of
+                     sound.</p>
+                  
                   <p>I used an increasing tempo between stanzas to create a sense of escalation and
                      stress, and attempted to simulate a heartbeat by using repetition of the word
                      itself.</p>
-               </div>
-               <!-- <div id="themes">Themes:
+                  </div>
+               <div id="themes">Themes: 
                   <ul>
-
+                     
                      <li>Death/Loss</li>
-
+                     
                      <li>Grief</li>
-
+                     
                      <li>Sound</li>
-                  </ul>
-               </div> -->
+                     </ul>
+               </div>
             </div>
          </section>
-         <div id="poem_holder">
-
+         <section id="poem_holder">
             <div id="poem">
-               <div id="stanzaNum1" class="stanza">
-
-                  <div id="lineNum1" class="line heartbeat_line">Heartbeat.</div>
-
-                  <div id="lineNum2" class="line">A thunderously loud</div>
-
-                  <div id="lineNum3" class="line">rhythmic thumping to </div>
-
-                  <div id="lineNum4" class="line">the soul-giving pumping, </div>
-
-                  <div id="lineNum5" class="line">bloody beat of</div>
-
-                  <div id="lineNum6" class="line">life itself.</div>
-               </div>
-
-
-               <div id="stanzaNum2" class="stanza">
-
-                  <div id="lineNum7" class="line heartbeat_line">Heartbeat.</div>
-
-                  <div id="lineNum8" class="line">Shockingly dim and</div>
-
-                  <div id="lineNum9" class="line">a whimpering in the</div>
-
-                  <div id="lineGroupNum1" class="line_group"
-                     onclick="toggleLineInfo('line_info_point1')" style="cursor: pointer">
-
-                     <div id="lineNum10" class="line">
-                        <span class="lineGroupNum1">empty cavern of a</span>
-                     </div>
-
-                     <div id="lineNum11" class="line">
-                        <span class="lineGroupNum1">cavity left cold and</span>
-                     </div>
-
-                     <div id="lineNum12" class="line">
-                        <span class="lineGroupNum1">decaying.</span>
-                     </div>
+               
+               <div id="stanzaNums-1" class="stanza">
+                  
+                  <div id="lineNum-l-1" class="line">Heartbeat.</div>
+                  
+                  <div id="lineNum-l-2" class="line">A thunderously loud</div>
+                  
+                  <div id="lineNum-l-3" class="line">rhythmic thumping to </div>
+                  
+                  <div id="lineNum-l-4" class="line">the soul-giving pumping, </div>
+                  
+                  <div id="lineNum-l-5" class="line">bloody beat of</div>
+                  
+                  <div id="lineNum-l-6" class="line">life itself.</div>
+                  </div>
+               
+               
+               <div id="stanzaNums-2" class="stanza">
+                  
+                  <div id="lineNum-l-7" class="line">Heartbeat.</div>
+                  
+                  <div id="lineNum-l-8" class="line">Shockingly dim and</div>
+                  
+                  <div id="lineNum-l-9" class="line">a whimpering in the</div>
+                  
+                  <div id="lineNum-l-10" class="line">empty cavern of a</div>
+                  
+                  <div id="lineNum-l-11" class="line">cavity left cold and</div>
+                  
+                  <div id="lineNum-l-12" class="line">decaying.</div>
+                  
+                  </div>
+               
+               
+               <div id="stanzaNums-3" class="stanza">
+                  
+                  <div id="lineNum-l-13" class="line">Heartbeat.</div>
+                  
+                  <div id="lineNum-l-14" class="line">Quick series of</div>
+                  
+                  <div id="lineNum-l-15" class="line">beeping, backtrack to</div>
+                  
+                  <div id="lineNum-l-16" class="line">weeping that crawls the</div>
+                  
+                  <div id="lineNum-l-17" class="line">halls of stingingly white</div>
+                  
+                  <div id="lineNum-l-18" class="line">mausoleum.</div>
+                  </div>
+               
+               
+               <div id="stanzaNums-4" class="stanza">
+                  
+                  <div id="lineNum-l-19" class="line">Heartbeat.</div>
+                  
+                  <div id="lineNum-l-20" class="line">Lacking and absent</div>
+                  
+                  <div id="lineNum-l-21" class="line">and pounding at the</div>
+                  
+                  <div id="lineNum-l-22" class="line">roof of a long, wooden</div>
+                  
+                  <div id="lineNum-l-23" class="line">cage.</div>
+                  
+                  </div>
+               
+               
+               <div id="stanzaNums-5" class="stanza">
+                  
+                  <div id="lineNum-l-24" class="line">Heartbeat.</div>
+                  
+                  <div id="lineNum-l-25" class="line">Hammer to the dirt</div>
+                  
+                  <div id="lineNum-l-26" class="line">at the foot of a</div>
+                  
+                  <div id="lineNum-l-27" class="line">desecrated stone tablet.</div>
+                  </div>
+               
+               
+               <div id="stanzaNums-6" class="stanza">
+                  
+                  <div id="lineNum-l-28" class="line">Heartbeat.</div>
+                  
+                  <div id="lineNum-l-29" class="line">Earth-wide quaking,</div>
+                  
+                  <div id="lineNum-l-30" class="line">battering and shaking at</div>
+                  
+                  <div id="lineNum-l-31" class="line">my bones.</div>
+                  </div>
+               
+               
+               <div id="stanzaNums-7" class="stanza">
+                  
+                  <div id="lineNum-l-32" class="line">Heartbeat.</div>
+                  
+                  <div id="lineNum-l-33" class="line">Hammering down</div>
+                  
+                  <div id="lineNum-l-34" class="line">to the molten</div>
+                  
+                  <div id="lineNum-l-35" class="line">core.</div>
+                  
+                  <div id="lineNum-l-36" class="line">Heartbeat.</div>
+                  
+                  <div id="lineNum-l-37" class="line">Fracturing of the</div>
+                  
+                  <div id="lineNum-l-38" class="line">crust.</div>
+                  
+                  <div id="lineNum-l-39" class="line">Heartbeat.</div>
+                  
+                  <div id="lineNum-l-40" class="line">Rhythmic</div>
+                  
+                  <div id="lineNum-l-41" class="line">annihilation.</div>
+                  </div>
+               
+               
+               <div id="stanzaNums-8" class="stanza">
+                  
+                  <div id="lineNum-l-42" class="line">Heartbeat</div>
+                  
+                  <div id="lineNum-l-43" class="line">beat</div>
+                  
+                  <div id="lineNum-l-44" class="line">beat.</div>
                   </div>
                </div>
-
-
-               <div id="stanzaNum3" class="stanza">
-
-                  <div id="lineNum13" class="line heartbeat_line">Heartbeat.</div>
-
-                  <div id="lineNum14" class="line">Quick series of</div>
-
-                  <div class="line" onclick="toggleLineInfo('line_info_point2')"
-                     style="cursor: pointer">
-                     <span id="lineNum15">beeping, backtrack to</span>
-                  </div>
-
-                  <div id="lineNum16" class="line">weeping that crawls the</div>
-
-                  <div id="lineNum17" class="line">halls of stingingly white</div>
-
-                  <div id="lineNum18" class="line">mausoleum.</div>
-               </div>
-
-
-               <div id="stanzaNum4" class="stanza">
-
-                  <div id="lineNum19" class="line heartbeat_line">Heartbeat.</div>
-
-                  <div id="lineNum20" class="line">Lacking and absent</div>
-
-                  <div id="lineNum21" class="line">and pounding at the</div>
-
-                  <div id="lineGroupNum2" class="line_group">
-
-                     <div id="lineNum22" class="line" onclick="toggleLineInfo('line_info_point3')"
-                        style="cursor: pointer">
-                        <span class="lineGroupNum2">roof of a long, wooden</span>
-                     </div>
-
-                     <div id="lineNum23" class="line">
-                        <span class="lineGroupNum2">cage.</span>
-                     </div>
-                  </div>
-               </div>
-
-
-               <div id="stanzaNum5" class="stanza">
-
-                  <div id="lineNum24" class="line heartbeat_line">Heartbeat.</div>
-
-                  <div id="lineNum25" class="line">Hammer to the dirt</div>
-
-                  <div id="lineNum26" class="line">at the foot of a</div>
-
-                  <div class="line" onclick="toggleLineInfo('line_info_point4')"
-                     style="cursor: pointer">
-                     <span id="lineNum27">desecrated stone tablet.</span>
-                  </div>
-               </div>
-
-
-               <div id="stanzaNum6" class="stanza">
-
-                  <div id="lineNum28" class="line heartbeat_line">Heartbeat.</div>
-
-                  <div id="lineNum29" class="line">Earth-wide quaking,</div>
-
-                  <div id="lineNum30" class="line">battering and shaking at</div>
-
-                  <div id="lineNum31" class="line">my bones.</div>
-               </div>
-
-
-               <div id="stanzaNum7" class="stanza">
-
-                  <div id="lineNum32" class="line heartbeat_line">Heartbeat.</div>
-
-                  <div id="lineNum33" class="line">Hammering down</div>
-
-                  <div id="lineNum34" class="line">to the molten</div>
-
-                  <div id="lineNum35" class="line">core.</div>
-
-                  <div id="lineNum36" class="line heartbeat_line">Heartbeat.</div>
-
-                  <div id="lineNum37" class="line">Fracturing of the</div>
-
-                  <div id="lineNum38" class="line">crust.</div>
-
-                  <div id="lineNum39" class="line heartbeat_line">Heartbeat.</div>
-
-                  <div id="lineNum40" class="line">Rhythmic</div>
-
-                  <div id="lineNum41" class="line">annihilation.</div>
-               </div>
-
-
-               <div id="stanzaNum8" class="stanza">
-
-                  <div id="lineNum42" class="line heartbeat_line">Heartbeat</div>
-
-                  <div id="lineNum43" class="line heartbeat_line">beat</div>
-
-                  <div id="lineNum44" class="line heartbeat_line">beat.</div>
-               </div>
-            </div>
-
             <div id="line_info">
-
-               <div id="line_info_point1" class="line_info_point" style="display: none;"> "Empty
-                  cavern" and "cavity" refer to the ribcage of the person dying. </div>
-
-               <div id="line_info_point2" class="line_info_point" style="display: none;"> The
-                  "beeping" is referencing the sound of an EKG in a hospital. </div>
-
-               <div id="line_info_point3" class="line_info_point" style="display: none;"> The "long,
-                  wooden cage" in this line is a casket -- meaning the person dying throughout the
-                  beginning of the poem has now passed. </div>
-
-               <div id="line_info_point4" class="line_info_point" style="display: none;"> Their
-                  tombstone. </div>
-            </div>
-         </div>
-         <div class="credit"><a href="https://freesound.org/people/InspectorJ/sounds/485076/"
-               >"Heartbeat, Regular, Single, 01-01, LOOP.wav"</a> by InspectorJ (<a
-               href="www.jshaw.co.uk">www.jshaw.co.uk</a>) of <a href="http://freesound.org/"
-               >Freesound.org</a></div>
-         <div class="credit"><a
-               href="https://stackoverflow.com/questions/8655741/javascript-hide-all-other-divs"
-               >Line information toggle Javascript</a> by <a
-               href="https://stackoverflow.com/users/128165/gabriele-petrioli">Gabriele Petrioli</a>
-            on Stackoverflow.com </div>
+               
+               <div class="line_info_point-l-12 line_info_point-l-11 line_info_point-l-12" title="line_info_point" style="display: none;"><q>Empty cavern</q> and <q>cavity</q> refer to
+                  the ribcage of the person dying.</div>
+               
+               <div class="line_info_point-l-15" title="line_info_point" style="display: none;">The "<q>beeping</q>" is referencing the sound of an
+                  EKG in a hospital.</div>
+               
+               <div class="line_info_point-l-22 line_info_point-l-23" title="line_info_point" style="display: none;">The "<q>long, wooden cage</q>" in this line is a casket --
+                  meaning the person dying throughout the beginning of the poem has now
+                  passed.</div>
+               
+               <div class="line_info_point-l-27" title="line_info_point" style="display: none;">Their tombstone.</div>
+               </div>
+         </section>
       </div>
    </body>
 </html>
