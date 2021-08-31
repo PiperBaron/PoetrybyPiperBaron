@@ -19,14 +19,14 @@
             <themePoint>Sound</themePoint>
         </themes>
         <lineInfo>
-            <lineInfoPoint passageRef="l-1 l-2 l-3"><q>Empty cavern</q> and <q>cavity</q> refer to the ribcage of the
+            <lineInfoPoint passageRef="l-1 l-2 l-37"><q>Empty cavern</q> and <q>cavity</q> refer to the ribcage of the
                 person dying.</lineInfoPoint>
-            <lineInfoPoint lineInfoPointNum="14 15 16">The "beeping" is referencing the sound of an EKG in a
+            <lineInfoPoint passageRef="14 15 16">The "beeping" is referencing the sound of an EKG in a
                 hospital.</lineInfoPoint>
-            <lineInfoPoint lineInfoPointNum="3">The "long, wooden cage" in this line is a casket --
+            <lineInfoPoint passageRef="3">The "long, wooden cage" in this line is a casket --
                 meaning the person dying throughout the beginning of the poem has now
                 passed.</lineInfoPoint>
-            <lineInfoPoint lineInfoPointNum="4">Their tombstone.</lineInfoPoint>
+            <lineInfoPoint passageRef="4">Their tombstone.</lineInfoPoint>
         </lineInfo>
         <metaTags>
             <tagPoint tag="heartbeat"/>
