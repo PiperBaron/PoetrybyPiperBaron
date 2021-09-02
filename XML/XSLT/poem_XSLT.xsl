@@ -72,13 +72,13 @@
     </xsl:template>
 
     <xsl:template match="stanza">
-        <div id="stanzaNum{@stanzaNum}" class="stanza">
+        <div id="{@stanzaNum}" class="stanza">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
 
     <xsl:template match="line">
-        <div id="lineNum-{@lineNum}" class="line">
+        <div id="{@lineNum}" class="line">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
