@@ -15,11 +15,11 @@
 <xsl:mode on-no-match="shallow-copy"/>
     
     <xsl:template match="stanza">
-        <stanza stanzaNum="s-{count(preceding::stanza) + 1}"><xsl:apply-templates/></stanza>
+        <stanza stanzaNum="s{count(preceding::stanza) + 1}"><xsl:apply-templates/></stanza>
     </xsl:template>
     
     <xsl:template match="line">
-        <line lineNum="l-{count(preceding::line) + 1}"><xsl:apply-templates/></line>
+        <line lineNum="l{count(preceding::line) + 1}"><xsl:apply-templates/></line>
     </xsl:template>
     
     <xsl:template match="lineGroup">
