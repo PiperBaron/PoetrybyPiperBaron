@@ -30,12 +30,25 @@
                 <link href="https://fonts.googleapis.com/css2?family=Amatic+SC" rel="stylesheet" />
                 <link href="https://fonts.googleapis.com/css2?family=Bellefair" rel="stylesheet" />
                 <link rel="stylesheet" type="text/css" href="../CSS/POEMNAME_CSS.css" />
-                <script type="text/javascript" src="../Javascript/POEMNAME_line_info_toggle_JS.js">/**/</script>  
+                <script type="text/javascript" src="../Javascript/POEMNAME_audio_JS.js"></script>
+                <script type="text/javascript" src="../Javascript/POEMNAME_line_info_toggle_JS.js"></script>  
             </head>
             <body>
                 <div id="main">
                     <div id="title">
                         <xsl:apply-templates select="descendant::poemTitle"/>
+                    </div>
+                    
+                    <div id="menu">
+                        <div class="menu-items"><a href="home.html">Home</a></div>
+                        <div class="menu-items"><a href="poems_page.html">Poems</a></div>
+                        <div class="menu-items"><a href="analysis.html">Analysis</a></div>
+                        <div class="menu-items"><a href="author.html">Author</a></div>
+                    </div>
+                    
+                    <audio id="audio" src="../Media/POEMAUDIO.wav"></audio>
+                    <div id="button_div">
+                        <button id="audio_button" type="button" onclick="aud_play_pause()"></button>
                     </div>
 
                     <section id="about">

@@ -108,21 +108,9 @@ body {
     margin: 2px auto;
 }
 
-.line_group {
-    display: inline-block;
-}
-
-.line_group span, #lineNum15, #lineNum27 {
-    background-color: #980726;
-}
-
-#lineNum15:hover, #lineNum27:hover {
+/*.line_group:hover span {
     background-color: #E01E47;
-}
-
-.line_group:hover span {
-    background-color: #E01E47;
-}
+}*/
 
 #line_info {
     color: white;
