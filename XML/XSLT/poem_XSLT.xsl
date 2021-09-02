@@ -20,11 +20,17 @@
         <html>
             <head>
                 <title><xsl:apply-templates select="descendant::poemTitle"/> by Piper Baron</title>
-                <meta name="keywords">
+                <meta name="keywords">  
                     <xsl:attribute name="content">
                         <xsl:value-of select="descendant::tagPoint/[@tag]" separator=", "/>
                     </xsl:attribute>
                 </meta>
+                <link rel="preconnect" href="https://fonts.googleapis.com" />
+                <link rel="preconnect" href="https://fonts.gstatic.com" />
+                <link href="https://fonts.googleapis.com/css2?family=Amatic+SC" rel="stylesheet" />
+                <link href="https://fonts.googleapis.com/css2?family=Bellefair" rel="stylesheet" />
+                <link rel="stylesheet" type="text/css" href="../CSS/POEMNAME_CSS.css" />
+                <script type="text/javascript" src="../Javascript/POEMNAME_line_info_toggle_JS.js">/**/</script>  
             </head>
             <body>
                 <div id="main">
@@ -82,23 +88,7 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    
-<!-- ebb: Are these two templates no longer needed?
-    <xsl:template match="lineGroup">
-        <div id="lineGroupNum{@lineGroupNum}" class="line_group">
-            <xsl:apply-templates/>
-        </div>
-    </xsl:template>
-
-
-    <xsl:template match="lineGroup/line">
-        <div id="lineNum-{@lineNum}" class="line">
-            <span class="lineGroupNum{../@lineGroupNum}">
-                <xsl:apply-templates/>
-            </span>
-        </div>
-    </xsl:template>
--->
+ 
     <xsl:template match="lineInfoPoint">
      <!--ebb: I think we want to be able to point to multiple space-separated values 
          for the lines that need to be highlighted.
