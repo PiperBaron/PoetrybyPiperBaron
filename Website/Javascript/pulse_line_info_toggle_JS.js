@@ -15,26 +15,23 @@ for (var i = 0; i < lineips.length; i++) {
 /* Show the lineInfoGloss associated with "this".  */
     var lineInfos = lineips[i].getAttribute("data-lineInfo").split(' ');
     console.log('lineInfos = ' + lineInfos);
-    for (j = 0; j < lineInfos.length; j++) {
-        var lineNums = lineNums[j].split('-')[2];
-        console.log('lineNums = ' + lineNums);
-        /* We should be able to say: where lineNums[j] == this.id then add classList.on */
-        /* Also, we would trigger next event: */
-        
-     /* This part should go looking for other lines to highlight. */   
-        for (var k = 0; k < lineNums.length; k++) {
-            var lineMatches = document.getElementsByClassName("line").getAttribute("id") == lineNums[k]
+        for (j = 0; j < lineInfos.length; j++) {
+            var lineNum = lineInfos[j].split('-')[1];
+            console.log('HEY I am the lineNum = ' + lineNum);
+            if (lineNum === this.id) {
+                lineips[i].classList.toggle("on")
+                /* START THE NEW FUNCTION HERE. SEND THIS line[ip] info to the next function */
+            
+      /* For the next part, we need to go looking for 
+       * the set of lines associated with lineips at this point and highlight them.  */ 
+ 
+       
            /* We need to say, for each possible l in lineMatches, check if == to lineNums[k] */
-            for (var l = 0; l < lineMatches.length; l++) {
-                
+           /* for (var l = 0; l < lineMatches.length; l++) {*/             
                 
             }
-        }
-        
-    }
-    
-    
-    
+        } 
+    }  
     
 }
     
@@ -43,5 +40,5 @@ for (var i = 0; i < lineips.length; i++) {
     
     
     
-}
+
 
