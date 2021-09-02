@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?><content>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
     <about>
         <poemTitle xml:id="pulse">Pulse</poemTitle>
         <accArt/>
@@ -21,10 +22,10 @@
         <lineInfo>
             <lineInfoPoint passageRef="l12 l11 l12"><q>Empty cavern</q> and <q>cavity</q> refer to
                 the ribcage of the person dying.</lineInfoPoint>
-            <lineInfoPoint passageRef="l15">The "<q>beeping</q>" is referencing the sound of an
-                EKG in a hospital.</lineInfoPoint>
-            <lineInfoPoint passageRef="l22 l23">The "<q>long, wooden cage</q>" in this line is a casket --
-                meaning the person dying throughout the beginning of the poem has now
+            <lineInfoPoint passageRef="l15">The "<q>beeping</q>" is referencing the sound of an EKG
+                in a hospital.</lineInfoPoint>
+            <lineInfoPoint passageRef="l22 l23">The "<q>long, wooden cage</q>" in this line is a
+                casket -- meaning the person dying throughout the beginning of the poem has now
                 passed.</lineInfoPoint>
             <lineInfoPoint passageRef="l27">Their tombstone.</lineInfoPoint>
         </lineInfo>
@@ -41,6 +42,15 @@
             <tagPoint tag="sadness"/>
             <tagPoint tag="mental-illness"/>
         </metaTags>
+
+        <credit>
+            <creditPoint>
+                <creditURL URL="https://freesound.org/people/InspectorJ/sounds/485076/"
+                    >Heartbeat, Regular, Single, 01-01, LOOP.wav</creditURL> by <creditURL
+                    URL="www.jshaw.co.uk">InspectorJ</creditURL> of <creditURL
+                    URL="http://freesound.org/">Freesound.org</creditURL>
+            </creditPoint>
+        </credit>
     </about>
 
     <poem>

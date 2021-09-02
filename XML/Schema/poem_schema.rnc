@@ -1,6 +1,7 @@
 start = content
 content = element content {about, poem}
-about = element about {poemTitle, accArt, bgInfo, themes, lineInfo, metaTags}
+
+about = element about {poemTitle, accArt, bgInfo, themes, lineInfo, metaTags, credit?}
 xmlid = attribute xml:id {xsd:ID}
 poemTitle = element poemTitle {xmlid, text}
 accArt = element accArt {xsd:anyURI}
@@ -16,6 +17,11 @@ q = element q {text}
 metaTags = element metaTags {tagPoint+}
 tagPoint = element tagPoint {tag}
 tag = attribute tag {xsd:ID}
+credit = element credit {creditPoint+}
+creditPoint = element creditPoint {mixed{creditURL*}}
+creditURL = element creditURL {URL, text}
+URL = attribute URL {xsd:anyURI}
+
 poem = element poem {stanza+}
 stanza = element stanza {stanzaNum, line+}
 stanzaNum = attribute stanzaNum {xsd:ID}

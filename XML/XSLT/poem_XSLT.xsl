@@ -72,6 +72,9 @@
                         </div>
 
                     </section>
+                    <div class="credit">
+                        <xsl:apply-templates select="descendant::creditPoint"/>
+                    </div>
                 </div>
 
             </body>
@@ -116,6 +119,10 @@
     </xsl:template>
     <xsl:template match="q">
         <q><xsl:apply-templates/></q>
+    </xsl:template>
+    
+    <xsl:template match="creditURL">
+        <a href="{@URL}"><xsl:apply-templates></xsl:apply-templates></a>
     </xsl:template>
 
 </xsl:stylesheet>
