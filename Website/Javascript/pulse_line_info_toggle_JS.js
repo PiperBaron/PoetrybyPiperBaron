@@ -11,6 +11,7 @@ function init() {
 
 function toggle() {
 var lineips = document.getElementsByClassName("line_info_point");
+var lines = document.getElementsByClassName("line");
 for (var i = 0; i < lineips.length; i++) {
 /* Show the lineInfoGloss associated with "this".  */
     var lineInfos = lineips[i].getAttribute("data-lineInfo").split(' ');
@@ -18,16 +19,14 @@ for (var i = 0; i < lineips.length; i++) {
         for (j = 0; j < lineInfos.length; j++) {
             var lineNum = lineInfos[j].split('-')[1];
             console.log('HEY I am the lineNum = ' + lineNum);
+            for (k = 0; k < lines.length; k++) {
+                if (lines[k].id === lineNum ) {
+                    console.log('I am the actual lines signalled here ' + lines[k].id);
+                    lines[k].classList.toggle("on")
+                }
+            }
             if (lineNum === this.id) {
-                lineips[i].classList.toggle("on")
-                /* START THE NEW FUNCTION HERE. SEND THIS line[ip] info to the next function */
-            
-      /* For the next part, we need to go looking for 
-       * the set of lines associated with lineips at this point and highlight them.  */ 
- 
-       
-           /* We need to say, for each possible l in lineMatches, check if == to lineNums[k] */
-           /* for (var l = 0; l < lineMatches.length; l++) {*/             
+                lineips[i].classList.toggle("on")         
                 
             }
         } 
