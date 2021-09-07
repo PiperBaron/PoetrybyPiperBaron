@@ -20,6 +20,7 @@
         <html>
             <head>
                 <title><xsl:apply-templates select="descendant::poemTitle"/> by Piper Baron</title>
+                <xsl:variable name="POEMNAME" as="xs:string" select="tokenize(base-uri(), '/')[last()] ! substring-before(., '_')"/>
                 <meta name="keywords">  
                     <xsl:attribute name="content">
                         <xsl:value-of select="descendant::tagPoint/[@tag]" separator=", "/>
@@ -29,9 +30,9 @@
                 <link rel="preconnect" href="https://fonts.gstatic.com" />
                 <link href="https://fonts.googleapis.com/css2?family=Amatic+SC" rel="stylesheet" />
                 <link href="https://fonts.googleapis.com/css2?family=Bellefair" rel="stylesheet" />
-                <link rel="stylesheet" type="text/css" href="../CSS/POEMNAME_CSS.css" />
-                <script type="text/javascript" src="../Javascript/POEMNAME_audio_JS.js"></script>
-                <script type="text/javascript" src="../Javascript/POEMNAME_line_info_toggle_JS.js"></script>  
+                <link rel="stylesheet" type="text/css" href="../CSS/{$POEMNAME}_CSS.css" />
+                <script type="text/javascript" src="../Javascript/{$POEMNAME}_audio_JS.js"></script>
+                <script type="text/javascript" src="../Javascript/{$POEMNAME}_line_info_toggle_JS.js"></script>  
             </head>
             <body>
                 <div id="main">
