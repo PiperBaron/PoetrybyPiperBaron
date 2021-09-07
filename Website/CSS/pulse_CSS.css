@@ -112,6 +112,13 @@ body {
     background-color: #E01E47;
 }
 
+.line.on.hide {
+    background-color: black;
+}
+
+.line.hide {
+    background-color: black;
+}
 
 #line_info {
     color: white;
@@ -129,6 +136,14 @@ body {
 
 .line_info_point.on {
     display: block;
+}
+
+.line_info_point.on.hide {
+    display: none;
+}
+
+.line_info_point.hide {
+    display: none;
 }
 
 .credit {
