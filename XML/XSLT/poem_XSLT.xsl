@@ -122,7 +122,7 @@
     </xsl:template>
     
     <xsl:template match="creditURL">
-        <a href="{@URL}"><xsl:apply-templates></xsl:apply-templates></a>
+        <a href="{@URL}"><cite><xsl:apply-templates/></cite></a>
     </xsl:template>
 
 </xsl:stylesheet>
