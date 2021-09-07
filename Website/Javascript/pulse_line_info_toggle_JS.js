@@ -22,18 +22,22 @@ for (var i = 0; i < lineips.length; i++) {
             var lineNum = lineInfos[j].split('-')[1];
             console.log('HEY I am the lineNum = ' + lineNum);
             for (k = 0; k < lines.length; k++) {
-                if (lines[k].id === lineNum)  {
+               /*if (lines[k].classList.contains("on")) {
+                        lines[k].classList.remove("on");
+                        } */
+               if (lines[k].id === lineNum)  {
                     console.log('I am the actual lines signalled here ' + lines[k].id);
-                    if (lines[k].classList.contains("hide")) {
-                        lines[k].classList.remove("hide");
-                        lines[k].classList.add("on");
-                    } else  {lines[k].classList.add("hide");
-                        
-                    }
-                    
-                    lineips[i].classList.add("on")  
+                    lines[k].classList.toggle("on"); 
+                    /*if (lineips[i].classList.contains("on")) {
+                     /\*lineips[i].classList.remove("on");*\/
+                     lineips[i].classList.add("hide");  
+                    } else* if (lineips[i].classList.contains("hide")) {
+                     lineips[i].classList.remove("hide"); */
+                     lineips[i].classList.add("on"); 
+                    } 
+                   
                 }
-            } }
+            } 
 
         } 
     }  
