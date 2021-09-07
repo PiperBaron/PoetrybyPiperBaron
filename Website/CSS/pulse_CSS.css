@@ -108,9 +108,9 @@ body {
     margin: 2px auto;
 }
 
-/*.line_group:hover span {
+.on {
     background-color: #E01E47;
-}*/
+}
 
 #line_info {
     color: white;
