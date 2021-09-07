@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <about>
+        <poemTitle xml:id="clockface">Clockface</poemTitle>
+        <accArt/>
+        <bgInfo>
+            <p>Text</p>
+        </bgInfo>
+        <themes>
+            <themePoint></themePoint>
+        </themes>
+        <lineInfo>
+            <lineInfoPoint passageRef="l1">Text</lineInfoPoint>
+        </lineInfo>
+        <metaTags>
+            <tagPoint tag="time"/>
+            <tagPoint tag="clock"/>
+            <tagPoint tag="imagery"/>
+        </metaTags>
+
+        <credit>
+            <creditPoint>
+            </creditPoint>
+        </credit>
+    </about>
+
+    <poem>
+        <stanza stanzaNum="s1">
+            <line lineNum="l1">I counted my heartbeats with every</line>
+            <line lineNum="l2">tick of the minute hand stuttering forward</line>
+            <line lineNum="l3">to the cadenced and steady</line>
+            <line lineNum="l4">marching of time.</line>
+        </stanza>
+
+        <stanza stanzaNum="s2">
+            <line lineNum="l5">Beige painted chips and cracks</line>
+            <line lineNum="l6">slithered out fractally like the</line>
+            <line lineNum="l7">stringy cobwebs ebbing at the</line>
+            <line lineNum="l8">corners of the bronze</line>
+            <line lineNum="l9">pendulum’s cage.</line>
+        </stanza>
+
+        <stanza stanzaNum="s3">
+            <line lineNum="l10">Stained wood bears spiraling grain and</line>
+            <line lineNum="l11">the greying stains that prove its</line>
+            <line lineNum="l12">ancient age seem to almost</line>
+            <line lineNum="l13">drip like old oil down the sides and</line>
+            <line lineNum="l14">onto the unswept base where</line>
+            <line lineNum="l15">carved feet stand sturdy against</line>
+            <line lineNum="l16">fraying rug.</line>
+        </stanza>
+
+        <stanza stanzaNum="s4">
+            <line lineNum="l17">At its face is a cover of</line>
+            <line lineNum="l18">fine glass gone dusty,</line>
+            <line lineNum="l19">streaking lines pull</line>
+            <line lineNum="l20">granular particles diagonally from</line>
+            <line lineNum="l21">the top corner down</line>
+            <line lineNum="l22">to bottom.</line>
+        </stanza>
+
+        <stanza stanzaNum="s5">
+            <line lineNum="l23">Through the sooty veil of time</line>
+            <line lineNum="l24">there spies a hazed vision of</line>
+            <line lineNum="l25">my own face,</line>
+            <line lineNum="l26">a gawking, wide-eyed stare</line>
+            <line lineNum="l27">piercing across the threshold</line>
+            <line lineNum="l28">from within the</line>
+            <line lineNum="l29">clock’s chambers to peer</line>
+            <line lineNum="l30">back into mine.</line>
+        </stanza>
+
+        <stanza stanzaNum="s6">
+            <line lineNum="l31">My body jolts</line>
+            <line lineNum="l32">—alight in tremors—</line>
+            <line lineNum="l33">acute buzzing behind</line>
+            <line lineNum="l34">the brain as my back</line>
+            <line lineNum="l35">makes intimate contact</line>
+            <line lineNum="l36">with the plush</line>
+            <line lineNum="l37">ground below.</line>
+        </stanza>
+
+        <stanza stanzaNum="s7">
+            <line lineNum="l38">I lie gazing with</line>
+            <line lineNum="l39">eyes glazed over</line>
+            <line lineNum="l40">at the textured plaster</line>
+            <line lineNum="l41">ceiling high above</line>
+            <line lineNum="l42">my head with</line>
+            <line lineNum="l43">feeble fists reaching</line>
+            <line lineNum="l44">to grasp the hands to</line>
+            <line lineNum="l45">which I am</line>
+            <line lineNum="l46">at mercy.</line>
+        </stanza>
+
+        <stanza stanzaNum="s8">
+            <line lineNum="l47">They never find their grip,</line>
+            <line lineNum="l48">and I stay sprawled</line>
+            <line lineNum="l49">against the carpet.</line>
+        </stanza>
+    </poem>
+</content>
