@@ -107,6 +107,9 @@ body {
 .line {
     margin: 2px auto;
 }
+.inner {padding:0}
+.inner.on {background-color: #E01E47;
+}
 
 /*.line_group:hover span {
     background-color: #E01E47;
@@ -124,6 +127,9 @@ body {
 .line_info_point {
     display: none;
     background: rgba(0,0,0,0.3);
+}
+.line_info_point.on {
+    display:block;
 }
 
 .credit {
