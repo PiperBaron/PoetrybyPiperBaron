@@ -57,6 +57,29 @@ h3 {
     transform: translateX(-50%);
 }
 
+.block {
+    margin: auto;
+    display: table;
+}
+
+.code_block {
+    margin: auto;
+    display: table;
+    font-size: 14px;
+}
+
+.code_indent {
+    padding-left: 20px;
+}
+
+.code_indent_2 {
+    padding-left: 40px;
+}
+
+.code_indent_3 {
+    padding-left: 60px;
+}
+
 #sidebar {
     flex: 0 1 auto;
     width: 13%;

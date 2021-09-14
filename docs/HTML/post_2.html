@@ -1,0 +1,128 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Artworkable Blog</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="../CSS/post_CSS.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Raleway" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Bad+Script" rel="stylesheet" />
+    </head>
+    <body>
+        <div id="title">
+            <h1>ARTWORKABLE</h1>
+            <div class="sub">
+                <h3>Follies in Project Design</h3>
+            </div>
+        </div>
+        <div id="main">
+            <div id="sidebar">
+                <div class="side_item">
+                    <a href="../index.html" class="side_link">Home</a>
+                </div>
+                <div class="side_item">
+                    <a href="blogposts.html" class="side_link">All Posts</a>
+                </div>
+                <div class="side_item">
+                    <a href="" class="side_link">Main Site</a>
+                </div>
+            </div>
+            <div id="post_content">
+                <div id="post_about">
+                    <div id="post_title">On Poetic Structure and HTML</div>
+                    <div id="date">Sep 14, 2021</div>
+                </div>
+                <div id="post_text">
+                    <p>The structure of a poem — what lines go into a stanza, how thoughts are
+                        broken up into lines, where the line breaks are placed — is almost as
+                        important as the words chosen throughout. It dictates the pace of a poem,
+                        how fast it's read, and even the meaning; putting emphasis on certain words
+                        through enjambing can create a new context in which the words are read.</p>
+
+                    <p>Take the first poem of my project, Pulse, as an example. The structure was
+                        very deliberately crafted in order to maintain and build on a rhythm as the
+                        poem went forth, that rhythm being representative of a heartbeat, and
+                        integral to the meaning and experience of the poem itself.</p>
+
+                    <div class="block">
+                        <div>Heartbeat.</div>
+                        <div>Shockingly dim and</div>
+                        <div>a whimpering in the</div>
+                        <div>empty cavern of a</div>
+                        <div>cavity left cold and</div>
+                        <div>decaying.</div>
+                    </div>
+
+                    <p>Each line break is put where it is, because that collection of words had the
+                        appropriate amount of syllables to further that cadenced pattern. Without
+                        this very specific structure, the piece wouldn't be the same, that rhythmic
+                        layer underneath the words written would be lost, and the poem weaker for
+                        it. I find that incredible, reflecting on it now, that something so
+                        seemingly innocuous as line breaks can shift the message of a work.</p>
+
+                    <p>Things can get messy, however, when a poem with a structure so critical to
+                        its foundation is encoded with XML (or rendered into web space using HTML).
+                        For my project, my objective was to include a level of interactivity with my
+                        poetry by embedding information on certain lines (like the intended meaning
+                        of a metaphor) that could be clicked/hovered over by the user. I grouped
+                        relevant lines together in my XML using an extra element, and hard-coded in
+                        some onclick events into the specific lines/line groupings that I had made
+                        annotations for. When looking at both the XML and HTML, the visual structure
+                        for the poem had been disrupted — that purposeful and deliberate framework
+                        was muddled by the extraneous code, and the soul of my work was getting lost
+                        within it.</p>
+
+                    <div class="code_block">
+                        <div>&lt;div id="stanzaNum2" class="stanza"></div>
+
+                        <div class="code_indent">&lt;div id="lineNum7" class="line
+                            heartbeat_line">Heartbeat.&lt;/div></div>
+
+                        <div class="code_indent">&lt;div id="lineNum8" class="line">Shockingly dim
+                            and&lt;/div></div>
+
+                        <div class="code_indent">&lt;div id="lineNum9" class="line">a whimpering in
+                            the&lt;/div></div>
+
+                        <div class="code_indent">&lt;div id="lineGroupNum1" class="line_group"
+                            onclick="toggleLineInfo('line_info_point1')" style="cursor:
+                            pointer"></div>
+
+                        <div class="code_indent_2">&lt;div id="lineNum10" class="line"></div>
+                        <div class="code_indent_3">&lt;span class="lineGroupNum1">empty cavern of
+                            a&lt;/span></div>
+                        <div class="code_indent_2">&lt;/div></div>
+
+                        <div class="code_indent_2">&lt;div id="lineNum11" class="line"></div>
+                        <div class="code_indent_3">&lt;span class="lineGroupNum1">cavity left cold
+                            and&lt;/span></div>
+                        <div class="code_indent_2">&lt;/div></div>
+
+                        <div class="code_indent_2">&lt;div id="lineNum12" class="line"></div>
+                        <div class="code_indent_3">&lt;span
+                            class="lineGroupNum1">decaying.&lt;/span></div>
+                        <div class="code_indent_2">&lt;/div></div>
+                        <div class="code_indent">&lt;/div></div>
+                        <div>&lt;/div></div>
+                    </div>
+
+                    <p>I hadn’t particularly desired to create my XML/HTML this way, but being an
+                        amature in JavaScript, I knew no other way at the time to add that
+                        functionality without that aforementioned disruption. It’s kind of
+                        fascinating, though, that the constraints of my knowledge with JavaScript
+                        had an effect on my poetic structure, on the artistry of my work, in such a
+                        subtle way. </p>
+
+                    <p>Because, while this way of coding had no consequences on the way the poem is
+                        read from the front-end by the viewer, it interferes with the spirit of the
+                        work. For a project in which poetry, and thus poetic structure, is central,
+                        to preserve that spirit should be a priority.</p>
+
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
