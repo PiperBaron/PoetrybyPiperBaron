@@ -3,7 +3,6 @@ var lineips = document.getElementsByClassName("line_info_point");
 var lines = document.getElementsByClassName("line");
 
 function init() {
-    var lines = document.getElementsByClassName("line");
     for (var i = 0; i < lines.length; i++) {
         lines[i].addEventListener('mouseover', toggle, false);
         lines[i].addEventListener('mouseleave', toggle, false);
