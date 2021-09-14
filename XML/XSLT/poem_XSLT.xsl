@@ -114,7 +114,7 @@
          And I used an @title attribute to hold the general info about this element.
          
      -->
-        <div data-lineInfo="{for $i in tokenize(@passageRef, '\s+') return concat('line_info_point-', $i)}" class="line_info_point" style="display: none;">
+        <div data-lineInfo="{for $i in tokenize(@passageRef, '\s+') return concat('line_info_point-', $i)}" class="line_info_point">
             <xsl:apply-templates/>
         </div>
 
