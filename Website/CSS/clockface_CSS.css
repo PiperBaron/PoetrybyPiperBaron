@@ -33,7 +33,7 @@ body {
 }
 
 .menu-items:hover {
-    background-color: #6c0128;
+    background-color: #887C54;
     color: white;
 }
 
@@ -103,7 +103,7 @@ body {
     margin: 2px auto;
 }
 .inner {padding:0}
-.inner.on {background-color: #CFB864;
+.inner.on {background-color: #A29256;
 }
 
 .line.highlight {
