@@ -102,7 +102,8 @@
 
     <xsl:template match="line">
         <div id="{@lineNum}" class="line">
-            <xsl:apply-templates/>
+            <span class="inner"><xsl:apply-templates/></span>
+            <!--2021-09-13 ebb: Adding span elements inside lines for use in highlighting. -->
         </div>
     </xsl:template>
  
