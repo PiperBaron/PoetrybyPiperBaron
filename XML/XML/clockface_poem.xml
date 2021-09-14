@@ -19,7 +19,10 @@
             <themePoint>Time/Aging</themePoint>
         </themes>
         <lineInfo>
-            <lineInfoPoint passageRef="l1">Text</lineInfoPoint>
+            <lineInfoPoint passageRef="l10 l11 l12">Internal rhyming within across these 3 lines:
+                    <q>grain,</q>
+                <q>greying stains,</q>
+                <q>ancient age</q>.</lineInfoPoint>
         </lineInfo>
         <metaTags>
             <tagPoint tag="time"/>
