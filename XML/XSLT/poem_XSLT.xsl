@@ -102,7 +102,8 @@
 
     <xsl:template match="line">
         <div id="{@lineNum}" class="line">
-            <xsl:apply-templates/>
+            <span class="inner"><xsl:apply-templates/></span>
+            <!--2021-09-13 ebb: Adding span elements inside lines for use in highlighting. -->
         </div>
     </xsl:template>
  
@@ -113,7 +114,7 @@
          And I used an @title attribute to hold the general info about this element.
          
      -->
-        <div data-lineInfo="{for $i in tokenize(@passageRef, '\s+') return concat('line_info_point-', $i)}" class="line_info_point" style="display: none;">
+        <div data-lineInfo="{for $i in tokenize(@passageRef, '\s+') return concat('line_info_point-', $i)}" class="line_info_point">
             <xsl:apply-templates/>
         </div>
 
