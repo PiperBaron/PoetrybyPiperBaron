@@ -6,9 +6,10 @@ function init() {
     var lines = document.getElementsByClassName("line");
     for (var i = 0; i < lines.length; i++) {
         lines[i].addEventListener('mouseover', toggle, false);
+        lines[i].addEventListener('mouseleave', toggle, false);
         lines[i].addEventListener('click', toggle, false);
-        lines[i].addEventListener('touchenter', toggle, false);     
-    } 
+        lines[i].addEventListener('touchenter', toggle, false);
+    }
 }
 
 function toggle() {
@@ -41,9 +42,3 @@ for (var j = 0; j < lineips.length; j++) {
     lineips[j].classList.remove("on");
 }
 }
-
-    
-    
-    
-
-
