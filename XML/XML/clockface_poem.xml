@@ -4,10 +4,19 @@
         <poemTitle xml:id="clockface">Clockface</poemTitle>
         <accArt/>
         <bgInfo>
-            <p>Text</p>
+            <p>This poem was written for a Creative Writing course in March of 2019, when I was in
+                my second year of college.</p>
+            <p>Clockface is a poem without much of a narrative; the narrator describes this
+                grandfather clock in great detail, trying to peer inside to see how it works, before
+                scaring themselves with their own reflection.</p>
+            <p>The focus is mainly on imagery and creating atmosphere. I wanted the reader to be
+                able to have a vivid image in their minds as they read through it. I also intended
+                for there to be a lot of internally rhyming within the lines of the poem. </p>
         </bgInfo>
         <themes>
-            <themePoint></themePoint>
+            <themePoint>Imagery</themePoint>
+            <themePoint>Internal Rhyming</themePoint>
+            <themePoint>Time/Aging</themePoint>
         </themes>
         <lineInfo>
             <lineInfoPoint passageRef="l1">Text</lineInfoPoint>
@@ -19,8 +28,7 @@
         </metaTags>
 
         <credit>
-            <creditPoint>
-            </creditPoint>
+            <creditPoint> </creditPoint>
         </credit>
     </about>
 
@@ -62,7 +70,7 @@
         <stanza stanzaNum="s5">
             <line lineNum="l23">Through the sooty veil of time</line>
             <line lineNum="l24">there spies a hazed vision of</line>
-            <line lineNum="l25">my own face,</line>
+            <line lineNum="l25">my own image,</line>
             <line lineNum="l26">a gawking, wide-eyed stare</line>
             <line lineNum="l27">piercing across the threshold</line>
             <line lineNum="l28">from within the</line>
