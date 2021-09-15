@@ -94,6 +94,7 @@ body {
     margin-left: 12%;
     background: rgba(0,0,0,0.3);
     font-size: 28px;
+    padding: 20px;
 }
 
 .heartbeat_line {
