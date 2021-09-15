@@ -31,8 +31,8 @@
                 <link href="https://fonts.googleapis.com/css2?family=Amatic+SC" rel="stylesheet" />
                 <link href="https://fonts.googleapis.com/css2?family=Bellefair" rel="stylesheet" />
                 <link rel="stylesheet" type="text/css" href="../CSS/{$POEMNAME}_CSS.css" />
-                <script type="text/javascript" src="../Javascript/{$POEMNAME}_audio_JS.js"></script>
-                <script type="text/javascript" src="../Javascript/{$POEMNAME}_line_info_toggle_JS.js"></script>  
+                <script type="text/javascript" src="../Javascript/audio_JS.js"></script>
+                <script type="text/javascript" src="../Javascript/line_info_toggle_JS.js"></script>  
             </head>
             <body>
                 <div id="main">
