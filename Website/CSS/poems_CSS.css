@@ -57,14 +57,17 @@ body {
 
 #poem_menu {
     display: flex;
+    flex-wrap: wrap;
     position: relative;
     justify-content: center;
-    margin: 25px 0;
+    margin: 25px auto;
+    width: 400px;
 }
 
 .poem_menu-items {
     padding: 10px;
     margin: 10px;
+    flex: 20%;
     background-color: black;
     text-align: center;
     font-family: 'Amatic SC', cursive;
