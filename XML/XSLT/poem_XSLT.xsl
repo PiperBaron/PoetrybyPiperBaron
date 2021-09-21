@@ -41,7 +41,7 @@
                     </div>
                     
                     <div id="menu">
-                        <div class="menu-items"><a href="../home.html">Home</a></div>
+                        <div class="menu-items"><a href="../index.html">Home</a></div>
                         <div class="menu-items"><a href="../poems_page.html">Poems</a></div>
                         <div class="menu-items"><a href="../analysis.html">Analysis</a></div>
                         <div class="menu-items"><a href="../author.html">Author</a></div>
