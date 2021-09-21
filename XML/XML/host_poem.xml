@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <about>
+        <poemTitle xml:id="host">Host</poemTitle>
+        <accArt/>
+        <bgInfo>
+            <p>Host was written for a Creative Writing course in May of 2019, when I was in my
+                second year of college</p>
+            <p>This poem is, on the surface, about someone discovering something living within them.
+                This parasite takes over their body over the course of the work, and by the end, the
+                parasite and host are one.</p>
+            <p>This is mean to communicate the feeling of mental illness and how it encroaches into
+                your personality and identity. I struggle a lot with my mental health, and I have
+                felt at times that the darker parts of myself, the illness, consumes me whole.</p>
+        </bgInfo>
+        <themes>
+            <themePoint>Mental Health</themePoint>
+            <themePoint>Paranoia</themePoint>
+            <themePoint>Parasite/Host</themePoint>
+        </themes>
+        <lineInfo>
+            <lineInfoPoint passageRef="l1">This person's mental illness, that darkness inside of
+                them, is becoming uncontrollable. It <q>wants out</q>, to present itself
+                freely.</lineInfoPoint>
+            <lineInfoPoint passageRef="l4"><q>It slowly kills,</q> mental illness is draining --
+                it's a killer of the mind and emotions. It sucks the life out of you, as much as it
+                can, like a parasite sucking the blood of its host.</lineInfoPoint>
+            <lineInfoPoint passageRef="l6 l7">Their own sense of self is fading into their mental
+                illness.</lineInfoPoint>
+            <lineInfoPoint passageRef="l18">It has take over; this person's issue, whatever it may
+                be (depression, anxiety, schizophrenia, etc). has consumed them.</lineInfoPoint>
+        </lineInfo>
+        <metaTags>
+            <tagPoint tag="parasite"/>
+            <tagPoint tag="parasites"/>
+            <tagPoint tag="paranoia"/>
+            <tagPoint tag="imposter-syndrome"/>
+            <tagPoint tag="fear"/>
+            <tagPoint tag="anxiety"/>
+            <tagPoint tag="isolation"/>
+            <tagPoint tag="mental-health"/>
+            <tagPoint tag="mental-illness"/>
+        </metaTags>
+
+        <credit>
+            <creditPoint> </creditPoint>
+        </credit>
+    </about>
+
+    <poem>
+        <stanza stanzaNum="s1">
+            <line lineNum="l1">The thing that lives inside of me wants out.</line>
+        </stanza>
+
+        <stanza stanzaNum="s2">
+            <line lineNum="l2">It has tendrils threaded like muscle that have wrapped around the
+                beating of my heart, </line>
+            <line lineNum="l3">taking hostage the pumping of my blood in demand of something unknown
+                to me.</line>
+        </stanza>
+
+        <stanza stanzaNum="s3">
+            <line lineNum="l4">But, it slowly kills, and through the hollow pupil of my eye,</line>
+            <line lineNum="l5">I can see the writhing of some fleshy mass suckling at the wrinkles
+                of my brain.</line>
+            <line lineNum="l6">It’s as though I lose myself when it pulses;</line>
+            <line lineNum="l7">my consciousness fades in a sick rhythm as the pressure pulls tighter
+                like</line>
+            <line lineNum="l8">a bow string ready to snap.</line>
+        </stanza>
+
+        <stanza stanzaNum="s4">
+            <line lineNum="l9">I’m getting too big for my body,</line>
+            <line lineNum="l10">overfilled with meat and bone and ready to burst out at the
+                seams.</line>
+            <line lineNum="l11">It pushes at my nerves, presses against the skin,</line>
+            <line lineNum="l12">and now threads poke out my nostrils,</line>
+            <line lineNum="l13">slither out the canals of my ears,</line>
+            <line lineNum="l14">birthing from my throat to shroud around my tongue,</line>
+            <line lineNum="l15">weaving through the gaps of my teeth,</line>
+        </stanza>
+
+        <stanza stanzaNum="s5">
+            <line lineNum="l16">and I can feel it.</line>
+            <line lineNum="l17">I can feel now.</line>
+        </stanza>
+
+        <stanza stanzaNum="s6">
+            <line lineNum="l18">I am you.</line>
+        </stanza>
+
+    </poem>
+</content>
