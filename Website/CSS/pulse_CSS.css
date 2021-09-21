@@ -112,22 +112,6 @@ body {
 .inner.on {background-color: #E01E47;
 }
 
-.line.highlight {
-    color: blue;
-}
-
-.line.on {
-    background-color: #E01E47;
-}
-
-.line.on.hide {
-    background-color: black;
-}
-
-.line.on.hide {
-    background-color: black;
-}
-
 #line_info {
     color: white;
     font-size: 28px;

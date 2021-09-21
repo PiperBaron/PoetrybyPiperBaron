@@ -96,6 +96,10 @@ body {
     padding: 20px;
 }
 
+.parasite_line {
+    color: #A82600;
+}
+
 .stanza {
     margin: 20px auto;
 }
@@ -105,6 +109,10 @@ body {
 }
 .inner {padding:0}
 .inner.on {background-color: #A82600;
+}
+
+.inner.on > span {
+    color: white;
 }
 
 .line.highlight {
