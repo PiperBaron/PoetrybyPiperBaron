@@ -57,6 +57,16 @@ h3 {
     transform: translateX(-50%);
 }
 
+p a{
+    color: #711FEB;
+    text-decoration: none;
+}
+
+p a:hover{
+    color: #EB1FA4;
+    text-decoration: none;
+}
+
 .block {
     margin: auto;
     display: table;
