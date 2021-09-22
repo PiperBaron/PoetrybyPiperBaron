@@ -40,12 +40,7 @@
                         <xsl:apply-templates select="descendant::poemTitle"/>
                     </div>
                     
-                    <div id="menu">
-                        <div class="menu-items"><a href="../index.html">Home</a></div>
-                        <div class="menu-items"><a href="../poems_page.html">Poems</a></div>
-                        <div class="menu-items"><a href="../analysis.html">Analysis</a></div>
-                        <div class="menu-items"><a href="../author.html">Author</a></div>
-                    </div>
+                    <!--#include virtual="../SSI/poems_nav_menu.html" -->
                     
                     <audio id="audio" src="../Media/POEMAUDIO.wav"></audio>
                     <div id="button_div">
