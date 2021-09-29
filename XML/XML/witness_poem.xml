@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <about>
+        <poemTitle xml:id="pulse">Witness</poemTitle>
+        <accArt/>
+        <bgInfo>
+            <p>Witness was written in September of 2021 for this project.</p>
+            <p>This poem is about my feelings of anxiety and dread, specifically about being watched
+                or stalked by some lurking entity.</p>
+            <p>The narrator of this poem describes being "watched," "stalked" by unseen eyes; this
+                paranoia haunts them, rules their life.</p>
+        </bgInfo>
+        <themes>
+            <themePoint>Paranoia</themePoint>
+            <themePoint>Anxiety</themePoint>
+            <themePoint>Stalking</themePoint>
+        </themes>
+        <lineInfo>
+            <lineInfoPoint passageRef="l1">The <q>eyes</q> could be interpreted as literal, though
+                here I intended it to be a symbol of the feel of paranoia -- that hair-raising
+                sensation on of being watched, even if you can't see anyone there.</lineInfoPoint>
+            <lineInfoPoint passageRef="l8 l9 l10">They're not just watching, they're <q>judging.</q>
+                The fear is not just of being seen, but being picked apart.</lineInfoPoint>
+            <lineInfoPoint passageRef="l15 l16 l17">The paranoia extends to every person they
+                encounter, random strangers on the street, the lens of any random camera -- all
+                exist to watch, to judge.</lineInfoPoint>
+            <lineInfoPoint passageRef="l27">They feel copletely resigned to their fate. This is
+                their life, being nothing but fodder for the eyes.</lineInfoPoint>
+        </lineInfo>
+        <metaTags>
+            <tagPoint tag="paranoia"/>
+            <tagPoint tag="anxiety"/>
+            <tagPoint tag="stalking"/>
+            <tagPoint tag="eyes"/>
+            <tagPoint tag="fear"/>
+        </metaTags>
+
+        <credit>
+            <creditPoint> </creditPoint>
+        </credit>
+    </about>
+
+    <poem>
+        <stanza stanzaNum="s1">
+            <line lineNum="l1">Eyes are peering.</line>
+        </stanza>
+
+        <stanza stanzaNum="s2">
+            <line lineNum="l2">Hollow and sharp,</line>
+            <line lineNum="l3">They’re waiting,</line>
+            <line lineNum="l4">(Always watching)</line>
+            <line lineNum="l5">Watching through the</line>
+            <line lineNum="l6">Looking glass --</line>
+            <line lineNum="l7">(The eyes)</line>
+            <line lineNum="l8">Smearing judgments</line>
+            <line lineNum="l9">And enmity</line>
+            <line lineNum="l10">Against me.</line>
+        </stanza>
+
+        <stanza stanzaNum="s3">
+            <line lineNum="l11">Creeping,</line>
+            <line lineNum="l12">Stalking,</line>
+            <line lineNum="l13">(Hunting)</line>
+            <line lineNum="l14">From the backs</line>
+            <line lineNum="l15">Of every passing head</line>
+            <line lineNum="l16">And in the lens of</line>
+            <line lineNum="l17">Every camera,</line>
+            <line lineNum="l18">The eyes follow</line>
+            <line lineNum="l19">(Relentlessly).</line>
+        </stanza>
+
+        <stanza stanzaNum="s4">
+            <line lineNum="l20">Everything done</line>
+            <line lineNum="l21">(No escaping)</line>
+            <line lineNum="l22">Or said</line>
+            <line lineNum="l23">(They see it)</line>
+            <line lineNum="l24">Is etched like</line>
+            <line lineNum="l25">The scrawls of a</line>
+            <line lineNum="l26">Tombstone.</line>
+        </stanza>
+
+        <stanza stanzaNum="s5">
+            <line lineNum="l27">I know no peace.</line>
+            <line lineNum="l28">(Never)</line>
+            <line lineNum="l29">For this life of</line>
+            <line lineNum="l30">Torment and dread</line>
+            <line lineNum="l31">Is all that’s left for me.</line>
+        </stanza>
+
+        <stanza stanzaNum="s6">
+            <line lineNum="l32">Followed. Hunted.</line>
+            <line lineNum="l33">(Witnessed.)</line>
+        </stanza>
+
+    </poem>
+</content>

@@ -42,17 +42,17 @@
             <tagPoint tag="sadness"/>
             <tagPoint tag="mental-illness"/>
         </metaTags>
-
+        
         <credit>
             <creditPoint>
                 <creditURL URL="https://freesound.org/people/InspectorJ/sounds/485076/"
                     >Heartbeat, Regular, Single, 01-01, LOOP.wav</creditURL> by <creditURL
-                    URL="www.jshaw.co.uk">InspectorJ</creditURL> of <creditURL
-                    URL="http://freesound.org/">Freesound.org</creditURL>
+                        URL="www.jshaw.co.uk">InspectorJ</creditURL> of <creditURL
+                            URL="http://freesound.org/">Freesound.org</creditURL>
             </creditPoint>
         </credit>
     </about>
-
+    
     <poem>
         <stanza stanzaNum="s1">
             <line lineNum="l1">Heartbeat.</line>
@@ -62,7 +62,7 @@
             <line lineNum="l5">bloody beat of</line>
             <line lineNum="l6">life itself.</line>
         </stanza>
-
+        
         <stanza stanzaNum="s2">
             <line lineNum="l7">Heartbeat.</line>
             <line lineNum="l8">Shockingly dim and</line>
@@ -70,9 +70,9 @@
             <line lineNum="l10">empty cavern of a</line>
             <line lineNum="l11">cavity left cold and</line>
             <line lineNum="l12">decaying.</line>
-
+            
         </stanza>
-
+        
         <stanza stanzaNum="s3">
             <line lineNum="l13">Heartbeat.</line>
             <line lineNum="l14">Quick series of</line>
@@ -81,30 +81,30 @@
             <line lineNum="l17">halls of stingingly white</line>
             <line lineNum="l18">mausoleum.</line>
         </stanza>
-
+        
         <stanza stanzaNum="s4">
             <line lineNum="l19">Heartbeat.</line>
             <line lineNum="l20">Lacking and absent</line>
             <line lineNum="l21">and pounding at the</line>
             <line lineNum="l22">roof of a long, wooden</line>
             <line lineNum="l23">cage.</line>
-
+            
         </stanza>
-
+        
         <stanza stanzaNum="s5">
             <line lineNum="l24">Heartbeat.</line>
             <line lineNum="l25">Hammer to the dirt</line>
             <line lineNum="l26">at the foot of a</line>
             <line lineNum="l27">desecrated stone tablet.</line>
         </stanza>
-
+        
         <stanza stanzaNum="s6">
             <line lineNum="l28">Heartbeat.</line>
             <line lineNum="l29">Earth-wide quaking,</line>
             <line lineNum="l30">battering and shaking at</line>
             <line lineNum="l31">my bones.</line>
         </stanza>
-
+        
         <stanza stanzaNum="s7">
             <line lineNum="l32">Heartbeat.</line>
             <line lineNum="l33">Hammering down</line>
@@ -117,7 +117,7 @@
             <line lineNum="l40">Rhythmic</line>
             <line lineNum="l41">annihilation.</line>
         </stanza>
-
+        
         <stanza stanzaNum="s8">
             <line lineNum="l42">Heartbeat</line>
             <line lineNum="l43">beat</line>
