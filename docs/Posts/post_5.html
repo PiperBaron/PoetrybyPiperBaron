@@ -1,0 +1,95 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Artworkable Blog</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="../CSS/post_CSS.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Raleway" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Bad+Script" rel="stylesheet" />
+    </head>
+    <body>
+        <div id="title">
+            <h1>ARTWORKABLE</h1>
+            <div class="sub">
+                <h3>Follies in Project Design</h3>
+            </div>
+        </div>
+        <div id="main">
+            <div id="sidebar">
+                <div class="side_item">
+                    <a href="../index.html" class="side_link">Home</a>
+                </div>
+                <div class="side_item">
+                    <a href="blogposts.html" class="side_link">All Posts</a>
+                </div>
+                <div class="side_item">
+                    <a href="http://piperpoetry.newtfire.org/" class="side_link">Main Site</a>
+                </div>
+            </div>
+            <div id="post_content">
+                <div id="post_about">
+                    <div id="post_title">To Query Poetry (While Writing It)</div>
+                    <div id="date">Oct 13, 2021</div>
+                </div>
+                <div id="post_text">
+                    <p>As I noted in my previous post, text mining is a goal for this project. In
+                        order to do this kind of analysis on a body of works (like a collection of
+                        poetry), it’s easiest to combine all of the text from each entry and dump it
+                        all into one document that can be analyzed as a whole. One could brute-force
+                        this process by manually copy-pasting every piece by hand, but in all
+                        honesty, that’s wasted time that could be much better spent working on
+                        something else. So, we automate it.</p>
+
+                    <p>That brings us to XQuery, a language designed to help, well, query, and
+                        transform large collections of (typically) structured text. Using it, we can
+                        write a very simple script that iterates over each document, takes all of
+                        its internal text (the whole thing or just specific elements), and spits it
+                        out into one big master document -- all in a click of a button. Pretty
+                        standard stuff, really.</p>
+
+                    <p>Things get interesting when you do this whole operation while still creating
+                        the collection of texts you’re querying, like I am. As it stands right now,
+                        my poetry collection is a little half-way to its ideal finished state,
+                        meaning I have quite a few more poems to write, but I decided to try getting
+                        a head start on the query business early. I’ve been able to analyze my
+                        writing so far, and it’s given quite a few insights. Insights that may
+                        influence the way I write in the future…</p>
+
+                    <p>I notice that I rely on certain words a lot: “heartbeat”, “eyes”, “feel”,
+                        “like”, and “body”. All of my poems, every single one, are in first-person
+                        (“I” was used 10 times across 4 poems). The poems have an overall negative
+                        vibe to them, though this was a factor that I was aware of even before the
+                        analysis.</p>
+
+                    <p>After reviewing the results a few days ago, I’ve found myself contemplating
+                        on what it might mean going forward. I have many ideas in my head for new
+                        poems, ideas that fall very much in-line with these trends that I now feel
+                        hesitant to engage with. There are a surge of questions that flood through
+                        me whenever I sit down to write.</p>
+
+                    <p>Do I really want a collection of homogeneous writing that all sounds the
+                        same? Shouldn’t I attempt some level of variety, a difference in
+                        perspective? Will it cheapen the work by being lacking in diversity of
+                        themes and images?</p>
+
+                    <p>And, yet, on the other hand… Wouldn’t it be inauthentic to alter the way I
+                        write, directly from the heart, to fit some arbitrary standard? Will it
+                        devalue the entire project to write from a place of being put-upon, of
+                        insecurity in the writing itself, rather than trusting my own intuition?</p>
+
+                    <p>But how else can I improve my writing -- if I don’t adjust, will I
+                        stagnate?</p>
+
+                    <p>It’s exciting as it is overwhelming, because I don’t have the answers to any
+                        of these questions. As I sit down in the coming days and weeks, and force
+                        out words onto the page, we’ll see if that influence is great enough to
+                        justify all of this ruminating.</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
