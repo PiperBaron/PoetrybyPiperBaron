@@ -43,7 +43,12 @@
         </metaTags>
 
         <credit>
-            <creditPoint> </creditPoint>
+            <creditPoint>
+                <creditURL
+                    URL="https://www.zapsplat.com/music/flesh-gush-movement-bowls-guts-gore-blood-horror/"
+                    >Flesh, Gush, Movement, Bowls, Guts, Gore, Blood, Horror</creditURL> from
+                    <creditURL URL="https://www.zapsplat.com/">ZapSplat</creditURL>
+            </creditPoint>
         </credit>
     </about>
 

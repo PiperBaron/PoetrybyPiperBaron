@@ -36,7 +36,12 @@
         </metaTags>
 
         <credit>
-            <creditPoint> </creditPoint>
+            <creditPoint>
+                <creditURL
+                    URL="https://www.zapsplat.com/music/horror-atmosphere-dark-and-eerie-humming-and-whining/"
+                    >Horror atmosphere, dark and eerie humming and whining</creditURL> from
+                    <creditURL URL="https://www.zapsplat.com/">ZapSplat</creditURL>
+            </creditPoint>
         </credit>
     </about>
 
