@@ -1,6 +1,5 @@
 body {
     background-color: black;
-    background-image: url(../Media/PLACEHOLDER.jpg);
     background-repeat: no-repeat;
     background-position: center;
     color: white;
@@ -12,6 +11,16 @@ body {
     text-align: center;
     font-style: italic;
     font-family: 'Amatic SC', cursive;
+}
+
+#bg_video {
+    text-align: center;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: -2;
 }
 
 #menu {
@@ -49,23 +58,23 @@ body {
 }
 
 #audio_button {
-	width: 0;
-	height: 0;
-	border-top: 15px solid transparent;
-	border-left: 35px solid #6C0128;
-	border-bottom: 15px solid transparent;
-	border-right: transparent;
-	background-color: transparent;
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-left: 35px solid #6C0128;
+    border-bottom: 15px solid transparent;
+    border-right: transparent;
+    background-color: transparent;
 }
 
 #audio_button:hover {
     width: 0;
-	height: 0;
-	border-top: 15px solid transparent;
-	border-left: 35px solid #A20740;
-	border-bottom: 15px solid transparent;
-	border-right: transparent;
-	background-color: transparent;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-left: 35px solid #A20740;
+    border-bottom: 15px solid transparent;
+    border-right: transparent;
+    background-color: transparent;
 }
 
 #button_div {
@@ -80,7 +89,7 @@ body {
 #background {
     display: flex;
     justify-content: center;
-    background: rgba(0,0,0,0.3);
+    background: rgba(0, 0, 0, 0.3);
     font-size: 20px;
     margin: 0 3% 5% 3%;
 }
@@ -92,7 +101,7 @@ body {
 
 #poem {
     margin-left: 12%;
-    background: rgba(0,0,0,0.3);
+    background: rgba(0, 0, 0, 0.3);
     font-size: 28px;
     padding: 20px;
 }
@@ -108,8 +117,11 @@ body {
 .line {
     margin: 2px auto;
 }
-.inner {padding:0}
-.inner.on {background-color: #E01E47;
+.inner {
+    padding: 0
+}
+.inner.on {
+    background-color: #E01E47;
 }
 
 #line_info {
@@ -123,10 +135,10 @@ body {
 
 .line_info_point {
     display: none;
-    background: rgba(0,0,0,0.3);
+    background: rgba(0, 0, 0, 0.3);
 }
 .line_info_point.on {
-    display:block;
+    display: block;
 }
 
 .line_info_point.on {
@@ -148,13 +160,13 @@ body {
 }
 
 .credit a {
-   color: #CE0952; 
-   text-decoration: none;
+    color: #CE0952;
+    text-decoration: none;
 }
 
 .credit a:hover {
-   color: white; 
-   text-decoration: none;
+    color: white;
+    text-decoration: none;
 }
 
 /*#themes {
