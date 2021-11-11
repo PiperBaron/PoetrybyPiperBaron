@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <about>
+        <poemTitle xml:id="rotten">Rotten</poemTitle>
+        <accArt/>
+        <bgInfo>
+            <p>Rotten was written in October of 2021 for this project.</p>
+            <p>The idea behind this poem is that of a toxic, abusive relationship being explored
+                through the metaphor of mold.</p>
+            <p>The narrator of this poem seems to place the blame on their significant other, though
+                the way that violence creeps into the prose suggests that they aren't wholly
+                reliable.</p>
+        </bgInfo>
+        <themes>
+            <themePoint>Relationships</themePoint>
+            <themePoint>Abuse</themePoint>
+            <themePoint>Toxicity</themePoint>
+        </themes>
+        <lineInfo>
+            <lineInfoPoint passageRef="l1">That <q>mold</q> is intended, on the narrator's part, to
+                symbolize the problems of their relationship. That something, whatever it might be,
+                is wrong.</lineInfoPoint>
+            <lineInfoPoint passageRef="l10 l11">The issues between them grow worse as they harbor
+                more and more animosity. It's a vicious cycle that feeds off of itself, the
+                    <q>mold</q> only continues as they suffer.</lineInfoPoint>
+            <lineInfoPoint passageRef="l16 l17 l18 l19 l20">The <q>mold</q> manifests itself in the
+                mouth and eyes, because that's where the roots of their problems tend to lie:
+                hurtful words and cold looks.</lineInfoPoint>
+            <lineInfoPoint passageRef="l24 l25 l48">Our narrator blames their S/O for this, their
+                failing relationship, despite obviously harboring a lot of resentment
+                themselves.</lineInfoPoint>
+            <lineInfoPoint passageRef="l45 l46 l47">They're practically resigned to (what they see)
+                as the inevitablity of this toxicity overtaking them completely. They become one
+                with the <q>mold</q>, the pain and hatred.</lineInfoPoint>
+        </lineInfo>
+        <metaTags>
+            <tagPoint tag="relationships"/>
+            <tagPoint tag="romance"/>
+            <tagPoint tag="love"/>
+            <tagPoint tag="abuse"/>
+            <tagPoint tag="toxic"/>
+            <tagPoint tag="toxicity"/>
+            <tagPoint tag="mold"/>
+            <tagPoint tag="illness"/>
+        </metaTags>
+
+        <credit>
+            <creditPoint> </creditPoint>
+        </credit>
+    </about>
+
+    <poem>
+        <stanza stanzaNum="s1">
+            <line lineNum="l1">There’s mold between us.</line>
+            <line lineNum="l2">Sticky.</line>
+            <line lineNum="l3">Virulent.</line>
+        </stanza>
+
+        <stanza stanzaNum="s2">
+            <line lineNum="l4">Stinking like rot,</line>
+            <line lineNum="l5">The grey smell of it</line>
+            <line lineNum="l6">Radiates in the space</line>
+            <line lineNum="l7">Amid our bodies,</line>
+            <line lineNum="l8">Blurring the lines of</line>
+            <line lineNum="l9">Violence and lust</line>
+            <line lineNum="l10">Like it needs our</line>
+            <line lineNum="l11">Anguish to thrive.</line>
+            <line lineNum="l12">The spores have</line>
+            <line lineNum="l13">Blanketed every inch</line>
+            <line lineNum="l14">Of us. Did you</line>
+            <line lineNum="l15">Even notice? The</line>
+            <line lineNum="l16">Sickly pale fuzzing at</line>
+            <line lineNum="l17">The corners of your</line>
+            <line lineNum="l18">Mouth and out the</line>
+            <line lineNum="l19">Angles of your</line>
+            <line lineNum="l20">Eyes?</line>
+        </stanza>
+
+        <stanza stanzaNum="s3">
+            <line lineNum="l21">Seeping into every</line>
+            <line lineNum="l22">Bit of naked flesh,</line>
+            <line lineNum="l23">All it seeks to do is</line>
+            <line lineNum="l24">Feed. And you</line>
+            <line lineNum="l25">Let it. Let it</line>
+            <line lineNum="l26">Sip on the</line>
+            <line lineNum="l27">Tears and sweat</line>
+            <line lineNum="l28">And blood</line>
+            <line lineNum="l29">From your</line>
+            <line lineNum="l30">Palm like a</line>
+            <line lineNum="l31">Newborn calf.</line>
+        </stanza>
+
+        <stanza stanzaNum="s4">
+            <line lineNum="l32">And —</line>
+            <line lineNum="l33">It’s not new.</line>
+        </stanza>
+
+        <stanza stanzaNum="s5">
+            <line lineNum="l34">Far past its infancy,</line>
+            <line lineNum="l35">The growth now is</line>
+            <line lineNum="l36">Months advanced.</line>
+            <line lineNum="l37">In the walls,</line>
+            <line lineNum="l38">On our food,</line>
+            <line lineNum="l39">Knitted into every</line>
+            <line lineNum="l40">Word and glare</line>
+            <line lineNum="l41">And slap.</line>
+        </stanza>
+
+        <stanza stanzaNum="s6">
+            <line lineNum="l42">It’ll flourish everyday.</line>
+            <line lineNum="l43">Sprouting new germs</line>
+            <line lineNum="l44">And sprawling against</line>
+            <line lineNum="l45">Our forms until it</line>
+            <line lineNum="l46">Swallows us</line>
+            <line lineNum="l47">Whole.</line>
+        </stanza>
+
+        <stanza stanzaNum="s7">
+            <line lineNum="l48">Just like you wanted.</line>
+        </stanza>
+    </poem>
+</content>
