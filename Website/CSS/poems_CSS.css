@@ -60,18 +60,18 @@ body {
     flex-wrap: wrap;
     position: relative;
     justify-content: center;
-    margin: 25px auto;
-    width: 400px;
+    margin: 45px auto;
+    width: 700px;
 }
 
 .poem_menu-items {
     padding: 10px;
-    margin: 10px;
+    margin: 10px 10px 0px;
     flex: 20%;
-    background-color: black;
+    background-color: #080808;
     text-align: center;
     font-family: 'Amatic SC', cursive;
-    font-size: 35px;
+    font-size: 52px;
 }
 
 .poem_menu-items:hover {
@@ -89,5 +89,5 @@ body {
 }
 
 .poem_column {
-    width: 200px;
+    width: 300px;
 }
