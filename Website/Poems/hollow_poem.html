@@ -12,16 +12,22 @@
       <link href="https://fonts.googleapis.com/css2?family=Amatic+SC" rel="stylesheet" />
       <link href="https://fonts.googleapis.com/css2?family=Bellefair" rel="stylesheet" />
       <link rel="stylesheet" type="text/css" href="../CSS/hollow_CSS.css" />
-      <script type="text/javascript" src="../Javascript/audio_JS.js"></script>
+      <script type="text/javascript" src="../Javascript/media_toggle_JS.js"></script>
       <script type="text/javascript" src="../Javascript/line_info_toggle_JS.js"></script>
    </head>
    <body>
       <div id="main">
+         
+         <div class="overlay"></div>
+         <video autoplay muted loop id="bg_video">
+            <source src="../Media/hollow_BG.mp4" type="video/mp4">
+         </video>
+         
          <div id="title">Hollow</div>
          
          <!--#include virtual="../SSI/poems_nav_menu.html" -->
          
-         <audio id="audio" src="../Media/POEMAUDIO.wav"></audio>
+         <audio id="audio" src="../Media/hollow_audio.mp3"></audio>
          <div id="button_div">
             <button id="audio_button" type="button" onclick="aud_play_pause()"></button>
          </div>
@@ -209,9 +215,12 @@
                   <q>perfection.</q></div>
             </div>
          </section>
-         <!--<div class="credit"><a href="https://www.artstation.com/artwork/A9mB3m"><cite>Rib Cage
-                  Close Up 1</cite></a> by <a href="https://www.artstation.com/patkilcher"
-                  ><cite>Patrick Kilcher</cite></a></div>-->
+         <div class="credit">
+            <a href="https://www.youtube.com/watch?v=fo0G59aygu8">Radio Static - Sound
+               Effect</a> from <a
+                  href="https://www.youtube.com/channel/UCkq5JZ2yOF7b0rkMQMgdAIA">Audio
+                  Library</a>
+         </div>
       </div>
    </body>
 </html>

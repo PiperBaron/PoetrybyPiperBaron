@@ -41,7 +41,12 @@
         </metaTags>
 
         <credit>
-            <creditPoint><creditURL URL="https://www.artstation.com/artwork/A9mB3m">Rib Cage Close Up 1</creditURL> by <creditURL URL="https://www.artstation.com/patkilcher">Patrick Kilcher</creditURL></creditPoint>
+            <creditPoint>
+                <creditURL URL="https://www.youtube.com/watch?v=fo0G59aygu8">Radio Static - Sound
+                    Effect</creditURL> from <creditURL
+                    URL="https://www.youtube.com/channel/UCkq5JZ2yOF7b0rkMQMgdAIA">Audio
+                    Library</creditURL>
+            </creditPoint>
         </credit>
     </about>
 
