@@ -33,7 +33,7 @@ body {
 }
 
 .menu-items:hover {
-    background-color: #631D09;
+    background-color: #632809;
     color: white;
 }
 
@@ -51,7 +51,7 @@ body {
 	width: 0;
 	height: 0;
 	border-top: 15px solid transparent;
-	border-left: 35px solid #A82600;
+	border-left: 35px solid #CD4D04;
 	border-bottom: 15px solid transparent;
 	border-right: transparent;
 	background-color: transparent;
@@ -61,7 +61,7 @@ body {
     width: 0;
 	height: 0;
 	border-top: 15px solid transparent;
-	border-left: 35px solid #FC5B2C;
+	border-left: 35px solid #E54A1D;
 	border-bottom: 15px solid transparent;
 	border-right: transparent;
 	background-color: transparent;
@@ -97,7 +97,7 @@ body {
 }
 
 .parasite_line {
-    color: #A82600;
+    color: #A84700;
 }
 
 .stanza {
@@ -120,7 +120,7 @@ body {
 }
 
 .line.on {
-    background-color: #A82600;
+    background-color: #A84700;
 }
 
 .line.on.hide {
@@ -167,7 +167,7 @@ body {
 }
 
 .credit a {
-   color: #CE0952; 
+   color: #E54A1D; 
    text-decoration: none;
 }
 
