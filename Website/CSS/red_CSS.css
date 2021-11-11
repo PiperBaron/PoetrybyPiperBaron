@@ -1,0 +1,179 @@
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+
+#title {
+    font-size: 65px;
+    margin: 25px auto;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Amatic SC', cursive;
+}
+
+#bg_video {
+    text-align: center;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: -2;
+}
+
+#menu {
+    margin: 25px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.menu-items {
+    padding: 10px;
+    margin: 12px 5px;
+    background-color: #2A2A2A;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    width: 5%;
+    outline: 2px solid black;
+    display: inline;
+}
+
+.menu-items:hover {
+    background-color: #F62715;
+    color: white;
+}
+
+.menu-items a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu-items a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+#audio_button {
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-left: 35px solid #EA493B;
+    border-bottom: 15px solid transparent;
+    border-right: transparent;
+    background-color: transparent;
+}
+
+#audio_button:hover {
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-left: 35px solid #A90E00;
+    border-bottom: 15px solid transparent;
+    border-right: transparent;
+    background-color: transparent;
+}
+
+#button_div {
+    text-align: center;
+}
+
+#main {
+    flex: auto;
+    font-family: 'Bellefair', serif;
+}
+
+#background {
+    display: flex;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.3);
+    font-size: 20px;
+    margin: 0 3% 5% 3%;
+}
+
+#poem_holder {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#poem {
+    margin-left: 12%;
+    background: rgba(0, 0, 0, 0.3);
+    font-size: 28px;
+    padding: 20px;
+}
+
+.rage_line {
+    color: #EF1111;
+}
+
+.stanza {
+    margin: 20px auto;
+}
+
+.line {
+    margin: 2px auto;
+}
+.inner {
+    padding: 0
+}
+.inner.on {
+    background-color: #EF1111;
+}
+
+.inner.on > span {
+    color: white;
+}
+
+#line_info {
+    color: white;
+    font-size: 28px;
+    display: flex;
+    position: fixed;
+    right: 12%;
+    width: 300px;
+}
+
+.line_info_point {
+    display: none;
+    background: rgba(0, 0, 0, 0.3);
+}
+.line_info_point.on {
+    display: block;
+}
+
+.line_info_point.on {
+    display: block;
+}
+
+.line_info_point.on.hide {
+    display: none;
+}
+
+.line_info_point.hide {
+    display: none;
+}
+
+.credit {
+    font-size: 18px;
+    color: #BA4A40;
+    text-align: right;
+}
+
+.credit a {
+    color: #F62715;
+    text-decoration: none;
+}
+
+.credit a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+/*#themes {
+    float: right;
+    padding: 20px;
+}*/

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <about>
+        <poemTitle xml:id="red">Red</poemTitle>
+        <accArt/>
+        <bgInfo>
+            <p>This poem was written in November of 2021 for this project.</p>
+            <p>Rotten is meant to center on the inner thoughts of someone who's been abused or in
+                someway left traumatized by another, overrun by their own anger at the injustice and
+                helplessness of their situation.</p>
+            <p>I tried to write this poem more as a stream of consciousness rather than having
+                anything structured. I also attempted to create a motif of color throughout it,
+                constantly referencing red as a symbol of that anger.</p>
+        </bgInfo>
+        <themes>
+            <themePoint>Anger</themePoint>
+            <themePoint>Abuse</themePoint>
+        </themes>
+        <lineInfo>
+            <lineInfoPoint passageRef="l1">The <q>redness</q> is their overwhelming
+                rage.</lineInfoPoint>
+            <lineInfoPoint passageRef="l15 l14 l24 l33 l34">All of these lines use synonyms of the
+                word <q>red</q> to further that color motif throughout.</lineInfoPoint>
+            <lineInfoPoint passageRef="l37">At this point, the narrator feels as though they <q>are</q> the
+                color red — fully consumed by their fury.</lineInfoPoint>
+        </lineInfo>
+        <metaTags>
+            <tagPoint tag="redness"/>
+            <tagPoint tag="color"/>
+            <tagPoint tag="relattionships"/>
+            <tagPoint tag="anger"/>
+            <tagPoint tag="love"/>
+            <tagPoint tag="abuse"/>
+            <tagPoint tag="toxicity"/>
+            <tagPoint tag="mental-illness"/>
+        </metaTags>
+
+        <credit>
+            <creditPoint> </creditPoint>
+        </credit>
+    </about>
+
+    <poem>
+        <stanza stanzaNum="s1">
+            <line lineNum="l1">I feel the redness</line>
+            <line lineNum="l2">encompassing my soul, like</line>
+            <line lineNum="l3">a body bag</line>
+            <line lineNum="l4">it suffocates me.</line>
+            <line lineNum="l5">All I sense is rust and red-hot</line>
+            <line lineNum="l6">fury burning at my skin like I’m</line>
+            <line lineNum="l7">branded,</line>
+            <line lineNum="l8">scalding,</line>
+            <line lineNum="l9">biting,</line>
+            <line lineNum="l10">piercing</line>
+            <line lineNum="l11">the flesh behind the eyes</line>
+            <line lineNum="l12">needles</line>
+            <line lineNum="l13">poking, pricking</line>
+            <line lineNum="l14">sanguine ire, spilling rage like I’m about to burst.</line>
+        </stanza>
+
+        <stanza stanzaNum="s2">
+            <line lineNum="l15">Fervid irons searing.</line>
+            <line lineNum="l16">I think of all are the things</line>
+            <line lineNum="l17">you’ve done to me and that</line>
+            <line lineNum="l18">you’ll never pay for what</line>
+            <line lineNum="l19">you did</line>
+            <line lineNum="l20">you don’t even know the pain</line>
+            <line lineNum="l21">you’ve caused and it melts</line>
+            <line lineNum="l22">at my guts</line>
+            <line lineNum="l23">like a blowtorch.</line>
+            <line lineNum="l24">Sickening copper taste</line>
+            <line lineNum="l25">in my mouth at the</line>
+            <line lineNum="l26">thought of living with</line>
+            <line lineNum="l27">this pain,</line>
+            <line lineNum="l28">this misery,</line>
+            <line lineNum="l29">while you press on</line>
+            <line lineNum="l30">leaving a trail of</line>
+            <line lineNum="l31">heartbreak behind</line>
+            <line lineNum="l32">you.</line>
+        </stanza>
+
+        <stanza stanzaNum="s3">
+            <line lineNum="l33">Carmine at my core.</line>
+            <line lineNum="l34">Russet as my blood</line>
+            <line lineNum="l35">dibbling on the ground.</line>
+            <line lineNum="l36">Red.</line>
+            <line lineNum="l37">Like me.</line>
+        </stanza>
+    </poem>
+</content>
