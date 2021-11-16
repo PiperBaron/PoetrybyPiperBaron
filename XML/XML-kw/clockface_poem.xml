@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+   <about>
+      <poemTitle xml:id="clockface">Clockface</poemTitle>
+      <accArt/>
+      <bgInfo>
+         <p>This poem was written for a Creative Writing course in March of 2019, when I was in
+                my second year of college.</p>
+         <p>Clockface is a poem without much of a narrative; the narrator describes this
+                grandfather clock in great detail, trying to peer inside to see how it works, before
+                scaring themselves with their own reflection.</p>
+         <p>The focus is mainly on imagery and creating atmosphere. I wanted the reader to be
+                able to have a vivid image in their minds as they read through it. I also intended
+                for there to be a lot of internally rhyming within the lines of the poem. </p>
+      </bgInfo>
+      <themes>
+         <themePoint>Imagery</themePoint>
+         <themePoint>Internal Rhyming</themePoint>
+         <themePoint>Ti<keyword>me</keyword>/Aging</themePoint>
+      </themes>
+      <lineInfo>
+         <lineInfoPoint passageRef="l10 l11 l12">Internal rhyming within across these 3 lines:
+                    <q>grain,</q>
+            <q>
+               <keyword>greying stains</keyword>,</q>
+            <q>
+               <keyword>ancient age</keyword>
+            </q>.</lineInfoPoint>
+      </lineInfo>
+      <metaTags>
+         <tagPoint tag="time"/>
+         <tagPoint tag="clock"/>
+         <tagPoint tag="imagery"/>
+         <tagPoint tag="aging"/>
+         <tagPoint tag="fear"/>
+         <tagPoint tag="isolation"/>
+      </metaTags>
+      <credit>
+         <creditPoint>
+            <creditURL URL="https://freesound.org/people/straget/sounds/456236/">Antique wall
+                    clock.wav</creditURL> by <creditURL URL="https://freesound.org/people/straget/">straget</creditURL> of <creditURL URL="http://freesound.org/">Freesound.org</creditURL>
+         </creditPoint>
+         <creditPoint>
+            <creditURL URL="https://www.youtube.com/watch?v=5mAn6shqL3Q">Clock Gears
+                    Ti<keyword>me</keyword>-lapse</creditURL> by <creditURL URL="https://www.youtube.com/channel/UCB1zDVDtdPBWIsWldx6WePg">aam<keyword>me</keyword>dia
+                    productions</creditURL>
+         </creditPoint>
+      </credit>
+   </about>
+   <poem>
+      <stanza stanzaNum="s1">
+         <line lineNum="l1">I counted my heartbeats with every</line>
+         <line lineNum="l2">
+            <keyword>tick</keyword> of the minute hand stuttering forward</line>
+         <line lineNum="l3">to the cadenced and steady</line>
+         <line lineNum="l4">marching of time.</line>
+      </stanza>
+      <stanza stanzaNum="s2">
+         <line lineNum="l5">Beige <keyword>pain</keyword>ted chips and cracks</line>
+         <line lineNum="l6">slithered out fractally like the</line>
+         <line lineNum="l7">stringy cobwebs ebbing at the</line>
+         <line lineNum="l8">corners of the bronze</line>
+         <line lineNum="l9">pendulum’s cage.</line>
+      </stanza>
+      <stanza stanzaNum="s3">
+         <line lineNum="l10">Stained wood bears <keyword>spiraling grain</keyword> and</line>
+         <line lineNum="l11">the <keyword>greying stains</keyword> that prove its</line>
+         <line lineNum="l12">
+            <keyword>ancient age</keyword> seem to almost</line>
+         <line lineNum="l13">drip like old oil down the sides and</line>
+         <line lineNum="l14">onto the unswept base where</line>
+         <line lineNum="l15">carved feet stand sturdy against</line>
+         <line lineNum="l16">fraying rug.</line>
+      </stanza>
+      <stanza stanzaNum="s4">
+         <line lineNum="l17">At its face is a cover of</line>
+         <line lineNum="l18">fine glass gone dusty,</line>
+         <line lineNum="l19">streaking lines pull</line>
+         <line lineNum="l20">granular particles diagonally from</line>
+         <line lineNum="l21">the top corner down</line>
+         <line lineNum="l22">to bottom.</line>
+      </stanza>
+      <stanza stanzaNum="s5">
+         <line lineNum="l23">Through the sooty veil of time</line>
+         <line lineNum="l24">there spies a hazed vision of</line>
+         <line lineNum="l25">
+            <keyword>my own image</keyword>,</line>
+         <line lineNum="l26">a gawking, wide-eyed stare</line>
+         <line lineNum="l27">piercing across the threshold</line>
+         <line lineNum="l28">from within the</line>
+         <line lineNum="l29">clock’s chambers to peer</line>
+         <line lineNum="l30">back into mine.</line>
+      </stanza>
+      <stanza stanzaNum="s6">
+         <line lineNum="l31">My body jolts</line>
+         <line lineNum="l32">—<keyword>alight in tremors</keyword>—</line>
+         <line lineNum="l33">acute buzzing behind</line>
+         <line lineNum="l34">the brain as my back</line>
+         <line lineNum="l35">makes intimate contact</line>
+         <line lineNum="l36">with the plush</line>
+         <line lineNum="l37">ground below.</line>
+      </stanza>
+      <stanza stanzaNum="s7">
+         <line lineNum="l38">I lie gazing with</line>
+         <line lineNum="l39">eyes glazed over</line>
+         <line lineNum="l40">at the textured plaster</line>
+         <line lineNum="l41">ceiling high above</line>
+         <line lineNum="l42">my head with</line>
+         <line lineNum="l43">feeble fists reaching</line>
+         <line lineNum="l44">to grasp the hands to</line>
+         <line lineNum="l45">which I am</line>
+         <line lineNum="l46">at <keyword>me</keyword>rcy.</line>
+      </stanza>
+      <stanza stanzaNum="s8">
+         <line lineNum="l47">
+            <keyword>They never find their grip</keyword>,</line>
+         <line lineNum="l48">and I stay sprawled</line>
+         <line lineNum="l49">against the carpet.</line>
+      </stanza>
+   </poem>
+</content>

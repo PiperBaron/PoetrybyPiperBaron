@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+   <about>
+      <poemTitle xml:id="pulse">Pulse</poemTitle>
+      <accArt/>
+      <bgInfo>
+         <p>Pulse was written for a Creative Writing course in April of 2019, when I was in my
+                second year of college.</p>
+         <p>The idea of this poem was to communicate that "silence is deafening," the absence of
+                a heart<keyword>beat</keyword> growing louder and lourder. A person close to the narrator of the poem
+                is dying, and their growing feeling of grief in represented through the symbol of
+                sound.</p>
+         <p>I used an increasing tempo between stanzas to create a sense of escalation and
+                stress, and attempted to simulate a heart<keyword>beat</keyword> by using repetition of the word
+                itself.</p>
+      </bgInfo>
+      <themes>
+         <themePoint>Death/Loss</themePoint>
+         <themePoint>Grief</themePoint>
+         <themePoint>Sound</themePoint>
+      </themes>
+      <lineInfo>
+         <lineInfoPoint passageRef="l10 l11 l12">
+            <q>Empty cavern</q> and <q>cavity</q> refer to
+                the ribcage of the person dying.</lineInfoPoint>
+         <lineInfoPoint passageRef="l15">The "<q>beeping</q>" is referencing the sound of an EKG
+                in a hospital.</lineInfoPoint>
+         <lineInfoPoint passageRef="l22 l23">The "<q>long, wooden cage</q>" in this line is a
+                casket -- <keyword>me</keyword>aning the person dying throughout the beginning of the poem has now
+                passed.</lineInfoPoint>
+         <lineInfoPoint passageRef="l27">Their tombstone.</lineInfoPoint>
+      </lineInfo>
+      <metaTags>
+         <tagPoint tag="heartbeat"/>
+         <tagPoint tag="heart"/>
+         <tagPoint tag="death"/>
+         <tagPoint tag="loss"/>
+         <tagPoint tag="injury"/>
+         <tagPoint tag="illness"/>
+         <tagPoint tag="health"/>
+         <tagPoint tag="grief"/>
+         <tagPoint tag="depression"/>
+         <tagPoint tag="sadness"/>
+         <tagPoint tag="mental-illness" alt="mental-health"/>
+         <tagPoint tag="time"/>
+      </metaTags>
+      <credit>
+         <creditPoint>
+            <creditURL URL="https://freesound.org/people/InspectorJ/sounds/485076/">Heartbeat, Regular, Single, 01-01, LOOP.wav</creditURL> by <creditURL URL="www.jshaw.co.uk">InspectorJ</creditURL> of <creditURL URL="http://freesound.org/">Freesound.org</creditURL>
+         </creditPoint>
+      </credit>
+   </about>
+   <poem>
+      <stanza stanzaNum="s1">
+         <line lineNum="l1">Heartbeat.</line>
+         <line lineNum="l2">A thunderously loud</line>
+         <line lineNum="l3">rhythmic thumping to </line>
+         <line lineNum="l4">the soul-giving pumping, </line>
+         <line lineNum="l5">bloody beat of</line>
+         <line lineNum="l6">life itself.</line>
+      </stanza>
+      <stanza stanzaNum="s2">
+         <line lineNum="l7">Heartbeat.</line>
+         <line lineNum="l8">Shockingly dim and</line>
+         <line lineNum="l9">a whimpering in the</line>
+         <line lineNum="l10">empty cavern of a</line>
+         <line lineNum="l11">cavity left cold and</line>
+         <line lineNum="l12">decaying.</line>
+      </stanza>
+      <stanza stanzaNum="s3">
+         <line lineNum="l13">Heartbeat.</line>
+         <line lineNum="l14">Quick series of</line>
+         <line lineNum="l15">beeping, backtrack to</line>
+         <line lineNum="l16">weeping that crawls the</line>
+         <line lineNum="l17">halls of stingingly white</line>
+         <line lineNum="l18">mausoleum.</line>
+      </stanza>
+      <stanza stanzaNum="s4">
+         <line lineNum="l19">Heartbeat.</line>
+         <line lineNum="l20">Lacking and absent</line>
+         <line lineNum="l21">and pounding at the</line>
+         <line lineNum="l22">roof of a long, wooden</line>
+         <line lineNum="l23">cage.</line>
+      </stanza>
+      <stanza stanzaNum="s5">
+         <line lineNum="l24">Heartbeat.</line>
+         <line lineNum="l25">Ham<keyword>me</keyword>r to the dirt</line>
+         <line lineNum="l26">at the foot of a</line>
+         <line lineNum="l27">desecrated stone tablet.</line>
+      </stanza>
+      <stanza stanzaNum="s6">
+         <line lineNum="l28">Heartbeat.</line>
+         <line lineNum="l29">Earth-wide quaking,</line>
+         <line lineNum="l30">battering and shaking at</line>
+         <line lineNum="l31">my bones.</line>
+      </stanza>
+      <stanza stanzaNum="s7">
+         <line lineNum="l32">Heartbeat.</line>
+         <line lineNum="l33">Ham<keyword>me</keyword>ring down</line>
+         <line lineNum="l34">to the molten</line>
+         <line lineNum="l35">core.</line>
+         <line lineNum="l36">Heartbeat.</line>
+         <line lineNum="l37">Fracturing of the</line>
+         <line lineNum="l38">c<keyword>rust</keyword>.</line>
+         <line lineNum="l39">Heartbeat.</line>
+         <line lineNum="l40">Rhythmic</line>
+         <line lineNum="l41">annihilation.</line>
+      </stanza>
+      <stanza stanzaNum="s8">
+         <line lineNum="l42">Heartbeat</line>
+         <line lineNum="l43">
+            <keyword>beat</keyword>
+         </line>
+         <line lineNum="l44">beat.</line>
+      </stanza>
+   </poem>
+</content>

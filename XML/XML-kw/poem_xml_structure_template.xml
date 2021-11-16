@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+   <about>
+      <poemTitle xml:id=""/>
+      <accArt/>
+      <bgInfo>
+         <p/>
+      </bgInfo>
+      <themes>
+         <themePoint themeTag=""/>
+      </themes>
+      <lineInfo>
+         <lineInfoPoint lineGroupNum=""/>
+         <lineInfoPoint lineNum=""/>
+      </lineInfo>
+   </about>
+   <poem>
+      <stanza stanzaNum="1">
+         <line lineNum="1"/>
+      </stanza>
+   </poem>
+</content>

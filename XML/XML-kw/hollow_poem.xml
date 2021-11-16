@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+   <about>
+      <poemTitle xml:id="hollow">Hollow</poemTitle>
+      <accArt/>
+      <bgInfo>
+         <p>Hollow was written in October of 2021 for this project.</p>
+         <p>This poem is an attempt to communicate my feelings towards myself and my desires in
+                regards to my own eating disorder. Much of the existing <keyword>me</keyword>dia surrounding EDs
+                focuses on the obsession with thinness and appearnace, so I wanted to shed a light
+                on another aspect of the illness — the physical sensation of hunger.</p>
+         <p>The reader gets in look into the narrator's thoughts on their journey to becoming
+                "<keyword>hollow</keyword>," without food.</p>
+      </bgInfo>
+      <themes>
+         <themePoint>Eating disorder</themePoint>
+         <themePoint>Self-harm</themePoint>
+      </themes>
+      <lineInfo>
+         <lineInfoPoint passageRef="l1 l2 l3 l4">These lines are expressing the narrator's desire
+                to be <q>
+               <keyword>void</keyword>
+            </q>, to feel that <q>pure</q> feeling of being hungry.</lineInfoPoint>
+         <lineInfoPoint passageRef="l4 l5">Their eating disorder, and the obsession with that
+                    <q>empty</q> feeling has completely overtaken them. It's <q>all they
+                are.</q>
+         </lineInfoPoint>
+         <lineInfoPoint passageRef="l11">They're convinced that being thin is <q>perfect</q> —
+                the answer to all their problems.</lineInfoPoint>
+         <lineInfoPoint passageRef="l12 l13 l14">The hunger, the feeling of starvation, is
+                intense, but not enough to stop.</lineInfoPoint>
+         <lineInfoPoint passageRef="l20">The agony of starvation, the fatigue, the
+                mental/emotional pain are all <q>proof</q> that they're successfully destroying
+                themselves, that much closer to <q>
+               <keyword>perfection</keyword>.</q>
+         </lineInfoPoint>
+      </lineInfo>
+      <metaTags>
+         <tagPoint tag="eating-disorder" alt="eating-disorders"/>
+         <tagPoint tag="anorexia"/>
+         <tagPoint tag="mental-illness" alt="mental-health"/>
+         <tagPoint tag="self-harm"/>
+         <tagPoint tag="depression"/>
+         <tagPoint tag="hunger"/>
+         <tagPoint tag="empty" alt="emptiness"/>
+         <tagPoint tag="illness"/>
+      </metaTags>
+      <credit>
+         <creditPoint>
+            <creditURL URL="https://www.youtube.com/watch?v=fo0G59aygu8">Radio Static - Sound
+                    Effect</creditURL> from <creditURL URL="https://www.youtube.com/channel/UCkq5JZ2yOF7b0rkMQMgdAIA">Audio
+                    Library</creditURL>
+         </creditPoint>
+      </credit>
+   </about>
+   <poem>
+      <stanza stanzaNum="s1">
+         <line lineNum="l1">Without substance there is</line>
+         <line lineNum="l2">nothing. </line>
+         <line lineNum="l3">The goal to be</line>
+         <line lineNum="l4">barren, <keyword>void</keyword>.</line>
+         <line lineNum="l5">It’s all I am, and</line>
+         <line lineNum="l6">it’s what I desire.</line>
+      </stanza>
+      <stanza stanzaNum="s2">
+         <line lineNum="l7">All for a</line>
+         <line lineNum="l8">
+            <keyword>grave emptiness</keyword>
+         </line>
+         <line lineNum="l9">in the core that</line>
+         <line lineNum="l10">gives way to my</line>
+         <line lineNum="l11">
+            <keyword>perfection</keyword>.</line>
+         <line lineNum="l12">I can feel the lining</line>
+         <line lineNum="l13">inside twisting and</line>
+         <line lineNum="l14">wri<keyword>thing</keyword> in want for fodder,</line>
+         <line lineNum="l15">a thrumming in the veins</line>
+         <line lineNum="l16">echoing in the <keyword>vacancy</keyword>,</line>
+         <line lineNum="l17">but I can’t let go now.</line>
+         <line lineNum="l18">Not when I’m</line>
+         <line lineNum="l19">so close.</line>
+      </stanza>
+      <stanza stanzaNum="s3">
+         <line lineNum="l20">The <keyword>pain</keyword> is the proof.</line>
+         <line lineNum="l21">Proof that it’s working,</line>
+         <line lineNum="l22">that I’m <keyword>withering</keyword>, wasting</line>
+         <line lineNum="l23">into sharpness and <keyword>pallidity</keyword>.</line>
+         <line lineNum="l24">Bruising and <keyword>blood</keyword>-thinning,</line>
+         <line lineNum="l25">a blueness under the eye,</line>
+         <line lineNum="l26">the panging at the root,</line>
+         <line lineNum="l27">the <keyword>wrongness</keyword> of it all —</line>
+         <line lineNum="l28">it’s a vicious ecstasy.</line>
+      </stanza>
+      <stanza stanzaNum="s4">
+         <line lineNum="l29">Ecstasy to be <keyword>hollow</keyword>.</line>
+      </stanza>
+   </poem>
+</content>
