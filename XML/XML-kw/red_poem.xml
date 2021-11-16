@@ -2,17 +2,15 @@
 <?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <content>
    <about>
-      <poemTitle xml:id="red">
-         <keyword>Red</keyword>
-      </poemTitle>
+      <poemTitle xml:id="red">Red</poemTitle>
       <accArt/>
       <bgInfo>
          <p>This poem was written in November of 2021 for this project.</p>
-         <p>Rotten is <keyword>me</keyword>ant to center on the inner thoughts of so<keyword>me</keyword>one who's been abused or in
-                so<keyword>me</keyword>way left traumatized by another, overrun by their own anger at the injustice and
+         <p>Rotten is <keyword>me</keyword>ant to center on the inner thoughts of someone who's been abused or in
+                someway left traumatized by another, overrun by their own anger at the injustice and
                 helplessness of their situation.</p>
          <p>I tried to write this poem more as a stream of consciousness rather than having
-                any<keyword>thing</keyword> structured. I also attempted to create a motif of color throughout it,
+                anything structured. I also attempted to create a motif of color throughout it,
                 constantly referencing red as a symbol of that anger.</p>
       </bgInfo>
       <themes>
@@ -20,14 +18,12 @@
          <themePoint>Abuse</themePoint>
       </themes>
       <lineInfo>
-         <lineInfoPoint passageRef="l1">The <q>
-               <keyword>redness</keyword>
-            </q> is their overwhelming
+         <lineInfoPoint passageRef="l1">The <q>redness</q> is their overwhelming
                 rage.</lineInfoPoint>
          <lineInfoPoint passageRef="l15 l14 l24 l33 l34">All of these lines use synonyms of the
                 word <q>red</q> to further that color motif throughout.</lineInfoPoint>
          <lineInfoPoint passageRef="l37">At this point, the narrator feels as though they <q>are</q> the
-                color red — fully consu<keyword>me</keyword>d by their fury.</lineInfoPoint>
+                color red — fully consumed by their fury.</lineInfoPoint>
       </lineInfo>
       <metaTags>
          <tagPoint tag="redness"/>
@@ -61,8 +57,7 @@
          <line lineNum="l11">the flesh behind the eyes</line>
          <line lineNum="l12">needles</line>
          <line lineNum="l13">poking, pricking</line>
-         <line lineNum="l14">
-            <keyword>sanguine</keyword> ire, spilling rage like I’m about to burst.</line>
+         <line lineNum="l14">sanguine ire, spilling rage like I’m about to burst.</line>
       </stanza>
       <stanza stanzaNum="s2">
          <line lineNum="l15">Fervid irons <keyword>searing</keyword>.</line>
@@ -86,12 +81,10 @@
          <line lineNum="l32">you.</line>
       </stanza>
       <stanza stanzaNum="s3">
-         <line lineNum="l33">
-            <keyword>Carmine</keyword> at my core.</line>
+         <line lineNum="l33">Carmine at my core.</line>
          <line lineNum="l34">Russet as my blood</line>
          <line lineNum="l35">dibbling on the ground.</line>
-         <line lineNum="l36">
-            <keyword>Red</keyword>.</line>
+         <line lineNum="l36">Red.</line>
          <line lineNum="l37">Like <keyword>me</keyword>.</line>
       </stanza>
    </poem>

@@ -8,7 +8,7 @@
          <p>Rotten was written in October of 2021 for this project.</p>
          <p>The idea behind this poem is that of a toxic, abusive relationship being explored
                 through the metaphor of mold.</p>
-         <p>The narrator of this poem seems to place the bla<keyword>me</keyword> on their significant other, though
+         <p>The narrator of this poem seems to place the blame on their significant other, though
                 the way that violence creeps into the prose suggests that they aren't wholly
                 reliable.</p>
       </bgInfo>
@@ -18,29 +18,21 @@
          <themePoint>Toxicity</themePoint>
       </themes>
       <lineInfo>
-         <lineInfoPoint passageRef="l1">That <q>
-               <keyword>mold</keyword>
-            </q> is intended, on the narrator's part, to
+         <lineInfoPoint passageRef="l1">That <q>mold</q> is intended, on the narrator's part, to
                 symbolize the problems of their relationship. That something, whatever it might be,
                 is wrong.</lineInfoPoint>
          <lineInfoPoint passageRef="l10 l11">The issues between them grow worse as they harbor
                 more and more animosity. It's a vicious cycle that feeds off of itself, the
-                    <q>
-               <keyword>mold</keyword>
-            </q> only continues as they suffer.</lineInfoPoint>
-         <lineInfoPoint passageRef="l16 l17 l18 l19 l20">The <q>
-               <keyword>mold</keyword>
-            </q> manifests itself in the
+                    <q>mold</q> only continues as they suffer.</lineInfoPoint>
+         <lineInfoPoint passageRef="l16 l17 l18 l19 l20">The <q>mold</q> manifests itself in the
                 mouth and eyes, because that's where the roots of their problems tend to lie:
                 hurtful words and cold looks.</lineInfoPoint>
-         <lineInfoPoint passageRef="l24 l25 l48">Our narrator bla<keyword>me</keyword>s their S/O for this, their
-                failing relationship, despite obviously harboring a lot of resent<keyword>me</keyword>nt
+         <lineInfoPoint passageRef="l24 l25 l48">Our narrator blames their S/O for this, their
+                failing relationship, despite obviously harboring a lot of resentment
                 themselves.</lineInfoPoint>
          <lineInfoPoint passageRef="l45 l46 l47">They're practically resigned to (what they see)
-                as the inevitablity of this toxicity overtaking them completely. They beco<keyword>me</keyword> one
-                with the <q>
-               <keyword>mold</keyword>
-            </q>, the <keyword>pain</keyword> and hatred.</lineInfoPoint>
+                as the inevitablity of this toxicity overtaking them completely. They become one
+                with the <q>mold</q>, the <keyword>pain</keyword> and hatred.</lineInfoPoint>
       </lineInfo>
       <metaTags>
          <tagPoint tag="relationship" alt="relationships"/>
@@ -59,12 +51,12 @@
    <poem>
       <stanza stanzaNum="s1">
          <line lineNum="l1">There’s <keyword>mold</keyword> between us.</line>
-         <line lineNum="l2">S<keyword>tick</keyword>y.</line>
+         <line lineNum="l2">Sticky.</line>
          <line lineNum="l3">Virulent.</line>
       </stanza>
       <stanza stanzaNum="s2">
          <line lineNum="l4">Stinking like <keyword>rot</keyword>,</line>
-         <line lineNum="l5">The grey s<keyword>me</keyword>ll of it</line>
+         <line lineNum="l5">The grey smell of it</line>
          <line lineNum="l6">Radiates in the space</line>
          <line lineNum="l7">Amid our bodies,</line>
          <line lineNum="l8">Blurring the lines of</line>
@@ -85,8 +77,7 @@
          <line lineNum="l21">Seeping into every</line>
          <line lineNum="l22">Bit of naked flesh,</line>
          <line lineNum="l23">All it seeks to do is</line>
-         <line lineNum="l24">
-            <keyword>Feed</keyword>. And you</line>
+         <line lineNum="l24">Feed. And you</line>
          <line lineNum="l25">Let it. Let it</line>
          <line lineNum="l26">Sip on the</line>
          <line lineNum="l27">Tears and sweat</line>
@@ -117,8 +108,7 @@
          <line lineNum="l44">And sprawling against</line>
          <line lineNum="l45">Our forms until it</line>
          <line lineNum="l46">Swallows us</line>
-         <line lineNum="l47">
-            <keyword>Whole</keyword>.</line>
+         <line lineNum="l47">Whole.</line>
       </stanza>
       <stanza stanzaNum="s7">
          <line lineNum="l48">Just like you wanted.</line>

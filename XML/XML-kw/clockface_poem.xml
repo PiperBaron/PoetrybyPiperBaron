@@ -17,16 +17,13 @@
       <themes>
          <themePoint>Imagery</themePoint>
          <themePoint>Internal Rhyming</themePoint>
-         <themePoint>Ti<keyword>me</keyword>/Aging</themePoint>
+         <themePoint>Time/Aging</themePoint>
       </themes>
       <lineInfo>
          <lineInfoPoint passageRef="l10 l11 l12">Internal rhyming within across these 3 lines:
                     <q>grain,</q>
-            <q>
-               <keyword>greying stains</keyword>,</q>
-            <q>
-               <keyword>ancient age</keyword>
-            </q>.</lineInfoPoint>
+            <q>greying stains,</q>
+            <q>ancient age</q>.</lineInfoPoint>
       </lineInfo>
       <metaTags>
          <tagPoint tag="time"/>
@@ -43,16 +40,15 @@
          </creditPoint>
          <creditPoint>
             <creditURL URL="https://www.youtube.com/watch?v=5mAn6shqL3Q">Clock Gears
-                    Ti<keyword>me</keyword>-lapse</creditURL> by <creditURL URL="https://www.youtube.com/channel/UCB1zDVDtdPBWIsWldx6WePg">aam<keyword>me</keyword>dia
+                    Time-lapse</creditURL> by <creditURL URL="https://www.youtube.com/channel/UCB1zDVDtdPBWIsWldx6WePg">aammedia
                     productions</creditURL>
          </creditPoint>
       </credit>
    </about>
    <poem>
       <stanza stanzaNum="s1">
-         <line lineNum="l1">I counted my heartbeats with every</line>
-         <line lineNum="l2">
-            <keyword>tick</keyword> of the minute hand stuttering forward</line>
+         <line lineNum="l1">I counted my <keyword>heartbeat</keyword>s with every</line>
+         <line lineNum="l2">tick of the minute hand stuttering forward</line>
          <line lineNum="l3">to the cadenced and steady</line>
          <line lineNum="l4">marching of time.</line>
       </stanza>
@@ -66,8 +62,7 @@
       <stanza stanzaNum="s3">
          <line lineNum="l10">Stained wood bears <keyword>spiraling grain</keyword> and</line>
          <line lineNum="l11">the <keyword>greying stains</keyword> that prove its</line>
-         <line lineNum="l12">
-            <keyword>ancient age</keyword> seem to almost</line>
+         <line lineNum="l12">ancient age seem to almost</line>
          <line lineNum="l13">drip like old oil down the sides and</line>
          <line lineNum="l14">onto the unswept base where</line>
          <line lineNum="l15">carved feet stand sturdy against</line>
@@ -84,8 +79,7 @@
       <stanza stanzaNum="s5">
          <line lineNum="l23">Through the sooty veil of time</line>
          <line lineNum="l24">there spies a hazed vision of</line>
-         <line lineNum="l25">
-            <keyword>my own image</keyword>,</line>
+         <line lineNum="l25">my own image,</line>
          <line lineNum="l26">a gawking, wide-eyed stare</line>
          <line lineNum="l27">piercing across the threshold</line>
          <line lineNum="l28">from within the</line>
@@ -113,8 +107,7 @@
          <line lineNum="l46">at <keyword>me</keyword>rcy.</line>
       </stanza>
       <stanza stanzaNum="s8">
-         <line lineNum="l47">
-            <keyword>They never find their grip</keyword>,</line>
+         <line lineNum="l47">They never find their grip,</line>
          <line lineNum="l48">and I stay sprawled</line>
          <line lineNum="l49">against the carpet.</line>
       </stanza>

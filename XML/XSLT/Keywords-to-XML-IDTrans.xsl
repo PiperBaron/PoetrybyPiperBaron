@@ -12,7 +12,7 @@
         </xd:desc>
     </xd:doc>-->
 
-    <xsl:variable name="poetryColl" as="document-node()+" select="collection('../XML.?select=*.xml')"/>
+    <xsl:variable name="poetryColl" as="document-node()+" select="collection('../XML?select=*.xml')"/>
  
  <xsl:variable name="keywordsDoc" as="document-node()" select="doc('keywords.xml')"/>
     <xsl:variable name="keywords" as="xs:string+" select="$keywordsDoc//keyword ! normalize-space() => distinct-values() => sort()"/>
@@ -44,12 +44,20 @@
               
                 
          
-                    <xsl:analyze-string select="." regex="{$matchString}">
+                    <xsl:analyze-string select="." regex="(\W)({$matchString})">
                         <xsl:matching-substring>
-                            <keyword><xsl:value-of select="."/></keyword>
+                            <xsl:value-of select="regex-group(1)"/>
+                            <keyword><xsl:value-of select="regex-group(2)"/></keyword>
                         </xsl:matching-substring>
                         <xsl:non-matching-substring>
-                            <xsl:value-of select="."/>
+                            <xsl:analyze-string select="." regex="([Hh]eart)?beat">
+                                <xsl:matching-substring>
+                                    <keyword><xsl:value-of select="."/></keyword>
+                                </xsl:matching-substring>
+                                <xsl:non-matching-substring>
+                                    <xsl:value-of select="."/>
+                                </xsl:non-matching-substring>
+                            </xsl:analyze-string>
                         </xsl:non-matching-substring>
                     </xsl:analyze-string>
             </xsl:when>
