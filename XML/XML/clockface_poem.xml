@@ -28,6 +28,9 @@
             <tagPoint tag="time"/>
             <tagPoint tag="clock"/>
             <tagPoint tag="imagery"/>
+            <tagPoint tag="aging"/>
+            <tagPoint tag="fear"/>
+            <tagPoint tag="isolation"/>
         </metaTags>
 
         <credit>

@@ -34,14 +34,15 @@
                 with the <q>mold</q>, the pain and hatred.</lineInfoPoint>
         </lineInfo>
         <metaTags>
-            <tagPoint tag="relationships"/>
+            <tagPoint tag="relationship" alt="relationships"/>
             <tagPoint tag="romance"/>
             <tagPoint tag="love"/>
             <tagPoint tag="abuse"/>
-            <tagPoint tag="toxic"/>
-            <tagPoint tag="toxicity"/>
+            <tagPoint tag="toxicity" alt="toxic"/>
             <tagPoint tag="mold"/>
             <tagPoint tag="illness"/>
+            <tagPoint tag="sadness"/>
+            
         </metaTags>
 
         <credit>

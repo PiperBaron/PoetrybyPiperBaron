@@ -27,12 +27,14 @@
         <metaTags>
             <tagPoint tag="redness"/>
             <tagPoint tag="color"/>
-            <tagPoint tag="relattionships"/>
+            <tagPoint tag="relationship" alt="relationships"/>
             <tagPoint tag="anger"/>
             <tagPoint tag="love"/>
             <tagPoint tag="abuse"/>
             <tagPoint tag="toxicity"/>
-            <tagPoint tag="mental-illness"/>
+            <tagPoint tag="mental-illness" alt="mental-health"/>
+            <tagPoint tag="loss"/>
+            <tagPoint tag="betrayal"/>
         </metaTags>
 
         <credit>

@@ -31,15 +31,14 @@
                 be (depression, anxiety, schizophrenia, etc). has consumed them.</lineInfoPoint>
         </lineInfo>
         <metaTags>
-            <tagPoint tag="parasite"/>
-            <tagPoint tag="parasites"/>
+            <tagPoint tag="parasite" alt="parasites"/>
             <tagPoint tag="paranoia"/>
             <tagPoint tag="imposter-syndrome"/>
             <tagPoint tag="fear"/>
             <tagPoint tag="anxiety"/>
             <tagPoint tag="isolation"/>
-            <tagPoint tag="mental-health"/>
-            <tagPoint tag="mental-illness"/>
+            <tagPoint tag="mental-illness" alt="mental-health"/>
+            <tagPoint tag="illness"/>
         </metaTags>
 
         <credit>

@@ -40,7 +40,8 @@
             <tagPoint tag="grief"/>
             <tagPoint tag="depression"/>
             <tagPoint tag="sadness"/>
-            <tagPoint tag="mental-illness"/>
+            <tagPoint tag="mental-illness" alt="mental-health"/>
+            <tagPoint tag="time"/>
         </metaTags>
         
         <credit>

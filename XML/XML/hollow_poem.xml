@@ -31,15 +31,15 @@
                 themselves, that much closer to <q>perfection.</q></lineInfoPoint>
         </lineInfo>
         <metaTags>
-            <tagPoint tag="eating-disorder"/>
-            <tagPoint tag="eating-disorders"/>
+            <tagPoint tag="eating-disorder" alt="eating-disorders"/>
             <tagPoint tag="anorexia"/>
-            <tagPoint tag="mental-illness"/>
-            <tagPoint tag="mental-health"/>
+            <tagPoint tag="mental-illness" alt="mental-health"/>
             <tagPoint tag="self-harm"/>
             <tagPoint tag="depression"/>
+            <tagPoint tag="hunger"/>
+            <tagPoint tag="empty" alt="emptiness"/>
+            <tagPoint tag="illness"/>
         </metaTags>
-
         <credit>
             <creditPoint>
                 <creditURL URL="https://www.youtube.com/watch?v=fo0G59aygu8">Radio Static - Sound
