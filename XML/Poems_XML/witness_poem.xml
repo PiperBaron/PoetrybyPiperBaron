@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <content>
     <about>
-        <poemTitle xml:id="pulse">Witness</poemTitle>
+        <poemTitle xml:id="witness">Witness</poemTitle>
         <accArt/>
         <bgInfo>
             <p>Witness was written in September of 2021 for this project.</p>
@@ -24,7 +24,7 @@
             <lineInfoPoint passageRef="l15 l16 l17">The paranoia extends to every person they
                 encounter, random strangers on the street, the lens of any random camera -- all
                 exist to watch, to judge.</lineInfoPoint>
-            <lineInfoPoint passageRef="l27">They feel copletely resigned to their fate. This is
+            <lineInfoPoint passageRef="l27">They feel completely resigned to their fate. This is
                 their life, being nothing but fodder for the eyes.</lineInfoPoint>
         </lineInfo>
         <metaTags>

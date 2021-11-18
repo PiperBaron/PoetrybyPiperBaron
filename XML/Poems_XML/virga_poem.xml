@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <about>
+        <poemTitle xml:id="virga">Virga</poemTitle>
+        <accArt/>
+        <bgInfo>
+            <p>Virga was written in November of 2021 for this project.</p>
+            <p>This poem is much more vague than my other works, and is more about establishing a
+                mood. There's a building sense of foreboding to a conclusion, though one we don't
+                fully understand and which is up to your interpretation.</p>
+        </bgInfo>
+        <themes>
+            <themePoint>Rain/Weather</themePoint>
+            <themePoint>Dread</themePoint>
+        </themes>
+        <lineInfo>
+            <lineInfoPoint passageRef="l2 l3 l4">The narrator feels <q>a tension</q> in the air —
+                left purposefully ambiguous, this could symbolize any general worry or sense of
+                anxiety.</lineInfoPoint>
+            <lineInfoPoint passageRef="l5 l6 l7">This imagery is meant to further create that tense
+                atmosphere, but it's also referencing a real weather phenomenon, on which the poem
+                title <q>Virga</q> is based.</lineInfoPoint>
+            <lineInfoPoint passageRef="l14">Once more, the narrator is off-put by the peculiar and
+                ominous mood.</lineInfoPoint>
+            <lineInfoPoint passageRef="l30 l31 l32 l33 l34">That building tension is growing and
+                growing, the weather begins to almost seem alive and hostile.</lineInfoPoint>
+            <lineInfoPoint passageRef="l38 l39 l40">It all comes to a head, and what our narrator
+                feared has come happened.</lineInfoPoint>
+        </lineInfo>
+        <metaTags>
+            <tagPoint tag="rain"/>
+            <tagPoint tag="weather"/>
+            <tagPoint tag="tension"/>
+            <tagPoint tag="fear"/>
+            <tagPoint tag="anxiety"/>
+            <tagPoint tag="imagery"/>
+            <tagPoint tag="paranoia"/>
+        </metaTags>
+
+        <credit>
+            <creditPoint> </creditPoint>
+        </credit>
+    </about>
+
+    <poem>
+        <stanza stanzaNum="s1">
+            <line lineNum="l1">In the air,</line>
+            <line lineNum="l2">lies a tension</line>
+            <line lineNum="l3">opaque</line>
+            <line lineNum="l4">and heavy.</line>
+        </stanza>
+
+        <stanza stanzaNum="s2">
+            <line lineNum="l5">Dark clouds streak</line>
+            <line lineNum="l6">like broad strokes of</line>
+            <line lineNum="l7">paint across the grey sky.</line>
+            <line lineNum="l8">There’s a vivid light</line>
+            <line lineNum="l9">that blankets</line>
+            <line lineNum="l10">the canvas behind</line>
+            <line lineNum="l11">like a spotlight</line>
+            <line lineNum="l12">casting stark shadows.</line>
+            <line lineNum="l13">It is stunning.</line>
+            <line lineNum="l14">And frightening.</line>
+        </stanza>
+
+        <stanza stanzaNum="s3">
+            <line lineNum="l15">It’s raining, but</line>
+            <line lineNum="l16">no spatter touches</line>
+            <line lineNum="l17">the ground.</line>
+            <line lineNum="l18">A bitter breeze</line>
+            <line lineNum="l19">cuts through me</line>
+            <line lineNum="l20">as I remain dry</line>
+            <line lineNum="l21">beneath the</line>
+            <line lineNum="l22">thunder and gale.</line>
+        </stanza>
+
+        <stanza stanzaNum="s4">
+            <line lineNum="l23">The wind builds.</line>
+            <line lineNum="l24">Howling like a wolf</line>
+            <line lineNum="l25">to it’s pack — and</line>
+            <line lineNum="l26">I’m prey.</line>
+            <line lineNum="l27">The chill turns so</line>
+            <line lineNum="l28">frigid that my breath</line>
+            <line lineNum="l29">puffs with every</line>
+            <line lineNum="l30">pant as I shudder</line>
+            <line lineNum="l31">with the sense that</line>
+            <line lineNum="l32">the swirling flurry</line>
+            <line lineNum="l33">about me grows in</line>
+            <line lineNum="l34">its hunger and rage.</line>
+        </stanza>
+
+        <stanza stanzaNum="s5">
+            <line lineNum="l35">Then it grows</line>
+            <line lineNum="l36">quiet.</line>
+            <line lineNum="l37">I feel a single</line>
+            <line lineNum="l38">rain drop</line>
+            <line lineNum="l39">fall upon</line>
+            <line lineNum="l40">my head.</line>
+        </stanza>
+    </poem>
+</content>
