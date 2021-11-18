@@ -44,56 +44,56 @@
 
     <poem>
         <stanza stanzaNum="s1">
-            <line lineNum="l1">In the air,</line>
+            <line lineNum="l1">In the <keyword>air</keyword>,</line>
             <line lineNum="l2">lies a tension</line>
             <line lineNum="l3">opaque</line>
             <line lineNum="l4">and heavy.</line>
         </stanza>
 
         <stanza stanzaNum="s2">
-            <line lineNum="l5">Dark clouds streak</line>
+            <line lineNum="l5">Dark <keyword>clouds</keyword> streak</line>
             <line lineNum="l6">like broad strokes of</line>
-            <line lineNum="l7">paint across the grey sky.</line>
+            <line lineNum="l7">paint across the <keyword>grey sky</keyword>.</line>
             <line lineNum="l8">There’s a vivid light</line>
             <line lineNum="l9">that blankets</line>
             <line lineNum="l10">the canvas behind</line>
             <line lineNum="l11">like a spotlight</line>
             <line lineNum="l12">casting stark shadows.</line>
             <line lineNum="l13">It is stunning.</line>
-            <line lineNum="l14">And frightening.</line>
+            <line lineNum="l14">And <keyword>frightening</keyword>.</line>
         </stanza>
 
         <stanza stanzaNum="s3">
-            <line lineNum="l15">It’s raining, but</line>
+            <line lineNum="l15">It’s <keyword>raining</keyword>, but</line>
             <line lineNum="l16">no spatter touches</line>
             <line lineNum="l17">the ground.</line>
             <line lineNum="l18">A bitter breeze</line>
             <line lineNum="l19">cuts through me</line>
             <line lineNum="l20">as I remain dry</line>
             <line lineNum="l21">beneath the</line>
-            <line lineNum="l22">thunder and gale.</line>
+            <line lineNum="l22"><keyword>thunder</keyword> and <keyword>gale</keyword>.</line>
         </stanza>
 
         <stanza stanzaNum="s4">
             <line lineNum="l23">The wind builds.</line>
-            <line lineNum="l24">Howling like a wolf</line>
+            <line lineNum="l24"><keyword>Howling</keyword> like a wolf</line>
             <line lineNum="l25">to it’s pack — and</line>
             <line lineNum="l26">I’m prey.</line>
-            <line lineNum="l27">The chill turns so</line>
-            <line lineNum="l28">frigid that my breath</line>
+            <line lineNum="l27">The <keyword>chill</keyword> turns so</line>
+            <line lineNum="l28"><keyword>frigid</keyword> that my breath</line>
             <line lineNum="l29">puffs with every</line>
             <line lineNum="l30">pant as I shudder</line>
             <line lineNum="l31">with the sense that</line>
-            <line lineNum="l32">the swirling flurry</line>
+            <line lineNum="l32">the swirling <keyword>flurry</keyword></line>
             <line lineNum="l33">about me grows in</line>
             <line lineNum="l34">its hunger and rage.</line>
         </stanza>
 
         <stanza stanzaNum="s5">
             <line lineNum="l35">Then it grows</line>
-            <line lineNum="l36">quiet.</line>
+            <line lineNum="l36"><keyword>quiet</keyword>.</line>
             <line lineNum="l37">I feel a single</line>
-            <line lineNum="l38">rain drop</line>
+            <line lineNum="l38"><keyword>rain drop</keyword></line>
             <line lineNum="l39">fall upon</line>
             <line lineNum="l40">my head.</line>
         </stanza>
