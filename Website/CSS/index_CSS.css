@@ -1,0 +1,118 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#title {
+    font-size: 80px;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Amatic SC', cursive;
+    position: relative;
+}
+
+#menu {
+    margin: 25px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.menu-items {
+    padding: 10px;
+    margin: 12px 5px;
+    background-color: #2A2A2A;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    width: 5%;
+    outline: 2px solid black;
+    display: inline;
+}
+
+.menu-items:hover {
+    background-color: #7F8564;
+    color: white;
+}
+
+.menu-items a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu-items a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.table_holder {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: center;
+    margin: 25px auto;
+}
+
+.header {
+    font-size: 42px;
+    font-family: 'Amatic SC', cursive;
+    position: relative;
+    margin: 10px 0;
+}
+
+.poem_table {
+    padding: 10px;
+    margin: 10px 10px 0px;
+    width: 500px;
+    background-color: #080808;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+
+
+.poem_table:hover {
+    background-color: black;
+}
+
+.poem_table a {
+    text-decoration: none;
+    color: #B7C47A;
+}
+
+.poem_table a:hover {
+    text-decoration: none;
+    color: #E00621;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+.poem_header {
+    font-size: 32px;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+  margin: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #1C1C1C;
+}
+
+ul {
+    text-align: left;
+}
+
+li {
+   list-style-type: circle;
+}
