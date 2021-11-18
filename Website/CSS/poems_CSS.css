@@ -1,10 +1,12 @@
 body {
     background-color: black;
-    background-image: url(../Media/poems_bg_EDIT_beta.png);
+    background-image: url(../Media/poems_bg_EDIT_beta2.png);
     background-repeat: no-repeat;
+    background-size: cover;     
  /*   height: 100%;
     background-position: center;
     background-size: cover;*/
+    
     color: white;
 }
 
@@ -57,12 +59,37 @@ body {
     color: black;
 }
 
+#indexLink {
+    padding: 10px;
+    margin: auto;
+    margin-top: 30px;
+    width: 300px;
+    background-color: #080808;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+}
+
+#indexLink:hover {
+    background-color: black;
+}
+
+#indexLink a {
+    text-decoration: none;
+    color: #B7C47A;
+}
+
+#indexLink a:hover {
+    text-decoration: none;
+    color: #E00621;
+}
+
 #poem_menu {
     display: flex;
     flex-wrap: wrap;
     position: relative;
     justify-content: center;
-    margin: 45px auto;
+    margin: 25px auto;
     width: 700px;
 }
 

@@ -1,0 +1,506 @@
+abuse	tagpoint	Red	countKeyword	5	keyword	me
+abuse	tagpoint	Red	countKeyword	1	keyword	redness
+abuse	tagpoint	Red	countKeyword	1	keyword	searing
+abuse	tagpoint	Red	countKeyword	1	keyword	thing
+abuse	tagpoint	Red	countKeyword	1	keyword	pay
+abuse	tagpoint	Red	countKeyword	2	keyword	pain
+abuse	tagpoint	Red	countKeyword	1	keyword	blowtorch
+abuse	tagpoint	Red	countKeyword	1	keyword	copper
+abuse	tagpoint	Rotten	countKeyword	1	keyword	pain
+abuse	tagpoint	Rotten	countKeyword	1	keyword	mold
+abuse	tagpoint	Rotten	countKeyword	1	keyword	rot
+abuse	tagpoint	Rotten	countKeyword	1	keyword	spores
+abuse	tagpoint	Rotten	countKeyword	1	keyword	fuzzing
+abuse	tagpoint	Rotten	countKeyword	1	keyword	blood
+abuse	tagpoint	Rotten	countKeyword	1	keyword	growth
+abuse	tagpoint	Rotten	countKeyword	1	keyword	slap
+abuse	tagpoint	Rotten	countKeyword	1	keyword	germs
+aging	tagpoint	Clockface	countKeyword	1	keyword	heartbeat
+aging	tagpoint	Clockface	countKeyword	1	keyword	pain
+aging	tagpoint	Clockface	countKeyword	1	keyword	spiraling grain
+aging	tagpoint	Clockface	countKeyword	1	keyword	greying stains
+aging	tagpoint	Clockface	countKeyword	1	keyword	alight in tremors
+aging	tagpoint	Clockface	countKeyword	1	keyword	me
+anger	tagpoint	Red	countKeyword	5	keyword	me
+anger	tagpoint	Red	countKeyword	1	keyword	redness
+anger	tagpoint	Red	countKeyword	1	keyword	searing
+anger	tagpoint	Red	countKeyword	1	keyword	thing
+anger	tagpoint	Red	countKeyword	1	keyword	pay
+anger	tagpoint	Red	countKeyword	2	keyword	pain
+anger	tagpoint	Red	countKeyword	1	keyword	blowtorch
+anger	tagpoint	Red	countKeyword	1	keyword	copper
+anorexia	tagpoint	Hollow	countKeyword	1	keyword	me
+anorexia	tagpoint	Hollow	countKeyword	2	keyword	hollow
+anorexia	tagpoint	Hollow	countKeyword	1	keyword	void
+anorexia	tagpoint	Hollow	countKeyword	1	keyword	vacancy
+anorexia	tagpoint	Hollow	countKeyword	1	keyword	pain
+anorexia	tagpoint	Hollow	countKeyword	1	keyword	withering
+anorexia	tagpoint	Hollow	countKeyword	1	keyword	pallidity
+anorexia	tagpoint	Hollow	countKeyword	1	keyword	blood
+anorexia	tagpoint	Hollow	countKeyword	1	keyword	wrongness
+anxiety	tagpoint	Host	countKeyword	3	keyword	me
+anxiety	tagpoint	Host	countKeyword	1	keyword	beat
+anxiety	tagpoint	Host	countKeyword	1	keyword	too big for my body
+anxiety	tagpoint	Host	countKeyword	1	keyword	pushes at my nerves
+anxiety	tagpoint	Host	countKeyword	1	keyword	poke out my nostrils
+anxiety	tagpoint	Host	countKeyword	1	keyword	gaps of my teeth
+anxiety	tagpoint	Host	countKeyword	1	keyword	I can feel it
+anxiety	tagpoint	Witness	countKeyword	1	keyword	Always watching
+anxiety	tagpoint	Witness	countKeyword	1	keyword	The eyes
+anxiety	tagpoint	Witness	countKeyword	2	keyword	me
+anxiety	tagpoint	Witness	countKeyword	1	keyword	Hunting
+anxiety	tagpoint	Witness	countKeyword	1	keyword	Relentlessly)
+anxiety	tagpoint	Witness	countKeyword	1	keyword	No escaping
+anxiety	tagpoint	Witness	countKeyword	1	keyword	They see it
+anxiety	tagpoint	Witness	countKeyword	1	keyword	Never
+anxiety	tagpoint	Witness	countKeyword	1	keyword	Witnessed.
+anxiety	tagpoint	Virga	countKeyword	1	keyword	air
+anxiety	tagpoint	Virga	countKeyword	1	keyword	clouds
+anxiety	tagpoint	Virga	countKeyword	1	keyword	grey sky
+anxiety	tagpoint	Virga	countKeyword	1	keyword	frightening
+anxiety	tagpoint	Virga	countKeyword	1	keyword	raining
+anxiety	tagpoint	Virga	countKeyword	1	keyword	thunder
+anxiety	tagpoint	Virga	countKeyword	1	keyword	gale
+anxiety	tagpoint	Virga	countKeyword	1	keyword	Howling
+anxiety	tagpoint	Virga	countKeyword	1	keyword	chill
+anxiety	tagpoint	Virga	countKeyword	1	keyword	frigid
+anxiety	tagpoint	Virga	countKeyword	1	keyword	flurry
+anxiety	tagpoint	Virga	countKeyword	1	keyword	quiet
+anxiety	tagpoint	Virga	countKeyword	1	keyword	rain drop
+betrayal	tagpoint	Red	countKeyword	5	keyword	me
+betrayal	tagpoint	Red	countKeyword	1	keyword	redness
+betrayal	tagpoint	Red	countKeyword	1	keyword	searing
+betrayal	tagpoint	Red	countKeyword	1	keyword	thing
+betrayal	tagpoint	Red	countKeyword	1	keyword	pay
+betrayal	tagpoint	Red	countKeyword	2	keyword	pain
+betrayal	tagpoint	Red	countKeyword	1	keyword	blowtorch
+betrayal	tagpoint	Red	countKeyword	1	keyword	copper
+clock	tagpoint	Clockface	countKeyword	1	keyword	heartbeat
+clock	tagpoint	Clockface	countKeyword	1	keyword	pain
+clock	tagpoint	Clockface	countKeyword	1	keyword	spiraling grain
+clock	tagpoint	Clockface	countKeyword	1	keyword	greying stains
+clock	tagpoint	Clockface	countKeyword	1	keyword	alight in tremors
+clock	tagpoint	Clockface	countKeyword	1	keyword	me
+color	tagpoint	Red	countKeyword	5	keyword	me
+color	tagpoint	Red	countKeyword	1	keyword	redness
+color	tagpoint	Red	countKeyword	1	keyword	searing
+color	tagpoint	Red	countKeyword	1	keyword	thing
+color	tagpoint	Red	countKeyword	1	keyword	pay
+color	tagpoint	Red	countKeyword	2	keyword	pain
+color	tagpoint	Red	countKeyword	1	keyword	blowtorch
+color	tagpoint	Red	countKeyword	1	keyword	copper
+death	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+death	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+death	tagpoint	Pulse	countKeyword	3	keyword	beat
+depression	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+depression	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+depression	tagpoint	Pulse	countKeyword	3	keyword	beat
+depression	tagpoint	Hollow	countKeyword	1	keyword	me
+depression	tagpoint	Hollow	countKeyword	2	keyword	hollow
+depression	tagpoint	Hollow	countKeyword	1	keyword	void
+depression	tagpoint	Hollow	countKeyword	1	keyword	vacancy
+depression	tagpoint	Hollow	countKeyword	1	keyword	pain
+depression	tagpoint	Hollow	countKeyword	1	keyword	withering
+depression	tagpoint	Hollow	countKeyword	1	keyword	pallidity
+depression	tagpoint	Hollow	countKeyword	1	keyword	blood
+depression	tagpoint	Hollow	countKeyword	1	keyword	wrongness
+eating-disorder	tagpoint	Hollow	countKeyword	1	keyword	me
+eating-disorder	tagpoint	Hollow	countKeyword	2	keyword	hollow
+eating-disorder	tagpoint	Hollow	countKeyword	1	keyword	void
+eating-disorder	tagpoint	Hollow	countKeyword	1	keyword	vacancy
+eating-disorder	tagpoint	Hollow	countKeyword	1	keyword	pain
+eating-disorder	tagpoint	Hollow	countKeyword	1	keyword	withering
+eating-disorder	tagpoint	Hollow	countKeyword	1	keyword	pallidity
+eating-disorder	tagpoint	Hollow	countKeyword	1	keyword	blood
+eating-disorder	tagpoint	Hollow	countKeyword	1	keyword	wrongness
+empty	tagpoint	Hollow	countKeyword	1	keyword	me
+empty	tagpoint	Hollow	countKeyword	2	keyword	hollow
+empty	tagpoint	Hollow	countKeyword	1	keyword	void
+empty	tagpoint	Hollow	countKeyword	1	keyword	vacancy
+empty	tagpoint	Hollow	countKeyword	1	keyword	pain
+empty	tagpoint	Hollow	countKeyword	1	keyword	withering
+empty	tagpoint	Hollow	countKeyword	1	keyword	pallidity
+empty	tagpoint	Hollow	countKeyword	1	keyword	blood
+empty	tagpoint	Hollow	countKeyword	1	keyword	wrongness
+eyes	tagpoint	Witness	countKeyword	1	keyword	Always watching
+eyes	tagpoint	Witness	countKeyword	1	keyword	The eyes
+eyes	tagpoint	Witness	countKeyword	2	keyword	me
+eyes	tagpoint	Witness	countKeyword	1	keyword	Hunting
+eyes	tagpoint	Witness	countKeyword	1	keyword	Relentlessly)
+eyes	tagpoint	Witness	countKeyword	1	keyword	No escaping
+eyes	tagpoint	Witness	countKeyword	1	keyword	They see it
+eyes	tagpoint	Witness	countKeyword	1	keyword	Never
+eyes	tagpoint	Witness	countKeyword	1	keyword	Witnessed.
+fear	tagpoint	Clockface	countKeyword	1	keyword	heartbeat
+fear	tagpoint	Clockface	countKeyword	1	keyword	pain
+fear	tagpoint	Clockface	countKeyword	1	keyword	spiraling grain
+fear	tagpoint	Clockface	countKeyword	1	keyword	greying stains
+fear	tagpoint	Clockface	countKeyword	1	keyword	alight in tremors
+fear	tagpoint	Clockface	countKeyword	1	keyword	me
+fear	tagpoint	Host	countKeyword	3	keyword	me
+fear	tagpoint	Host	countKeyword	1	keyword	beat
+fear	tagpoint	Host	countKeyword	1	keyword	too big for my body
+fear	tagpoint	Host	countKeyword	1	keyword	pushes at my nerves
+fear	tagpoint	Host	countKeyword	1	keyword	poke out my nostrils
+fear	tagpoint	Host	countKeyword	1	keyword	gaps of my teeth
+fear	tagpoint	Host	countKeyword	1	keyword	I can feel it
+fear	tagpoint	Witness	countKeyword	1	keyword	Always watching
+fear	tagpoint	Witness	countKeyword	1	keyword	The eyes
+fear	tagpoint	Witness	countKeyword	2	keyword	me
+fear	tagpoint	Witness	countKeyword	1	keyword	Hunting
+fear	tagpoint	Witness	countKeyword	1	keyword	Relentlessly)
+fear	tagpoint	Witness	countKeyword	1	keyword	No escaping
+fear	tagpoint	Witness	countKeyword	1	keyword	They see it
+fear	tagpoint	Witness	countKeyword	1	keyword	Never
+fear	tagpoint	Witness	countKeyword	1	keyword	Witnessed.
+fear	tagpoint	Virga	countKeyword	1	keyword	air
+fear	tagpoint	Virga	countKeyword	1	keyword	clouds
+fear	tagpoint	Virga	countKeyword	1	keyword	grey sky
+fear	tagpoint	Virga	countKeyword	1	keyword	frightening
+fear	tagpoint	Virga	countKeyword	1	keyword	raining
+fear	tagpoint	Virga	countKeyword	1	keyword	thunder
+fear	tagpoint	Virga	countKeyword	1	keyword	gale
+fear	tagpoint	Virga	countKeyword	1	keyword	Howling
+fear	tagpoint	Virga	countKeyword	1	keyword	chill
+fear	tagpoint	Virga	countKeyword	1	keyword	frigid
+fear	tagpoint	Virga	countKeyword	1	keyword	flurry
+fear	tagpoint	Virga	countKeyword	1	keyword	quiet
+fear	tagpoint	Virga	countKeyword	1	keyword	rain drop
+grief	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+grief	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+grief	tagpoint	Pulse	countKeyword	3	keyword	beat
+health	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+health	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+health	tagpoint	Pulse	countKeyword	3	keyword	beat
+heart	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+heart	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+heart	tagpoint	Pulse	countKeyword	3	keyword	beat
+heartbeat	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+heartbeat	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+heartbeat	tagpoint	Pulse	countKeyword	3	keyword	beat
+hunger	tagpoint	Hollow	countKeyword	1	keyword	me
+hunger	tagpoint	Hollow	countKeyword	2	keyword	hollow
+hunger	tagpoint	Hollow	countKeyword	1	keyword	void
+hunger	tagpoint	Hollow	countKeyword	1	keyword	vacancy
+hunger	tagpoint	Hollow	countKeyword	1	keyword	pain
+hunger	tagpoint	Hollow	countKeyword	1	keyword	withering
+hunger	tagpoint	Hollow	countKeyword	1	keyword	pallidity
+hunger	tagpoint	Hollow	countKeyword	1	keyword	blood
+hunger	tagpoint	Hollow	countKeyword	1	keyword	wrongness
+illness	tagpoint	Host	countKeyword	3	keyword	me
+illness	tagpoint	Host	countKeyword	1	keyword	beat
+illness	tagpoint	Host	countKeyword	1	keyword	too big for my body
+illness	tagpoint	Host	countKeyword	1	keyword	pushes at my nerves
+illness	tagpoint	Host	countKeyword	1	keyword	poke out my nostrils
+illness	tagpoint	Host	countKeyword	1	keyword	gaps of my teeth
+illness	tagpoint	Host	countKeyword	1	keyword	I can feel it
+illness	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+illness	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+illness	tagpoint	Pulse	countKeyword	3	keyword	beat
+illness	tagpoint	Hollow	countKeyword	1	keyword	me
+illness	tagpoint	Hollow	countKeyword	2	keyword	hollow
+illness	tagpoint	Hollow	countKeyword	1	keyword	void
+illness	tagpoint	Hollow	countKeyword	1	keyword	vacancy
+illness	tagpoint	Hollow	countKeyword	1	keyword	pain
+illness	tagpoint	Hollow	countKeyword	1	keyword	withering
+illness	tagpoint	Hollow	countKeyword	1	keyword	pallidity
+illness	tagpoint	Hollow	countKeyword	1	keyword	blood
+illness	tagpoint	Hollow	countKeyword	1	keyword	wrongness
+illness	tagpoint	Rotten	countKeyword	1	keyword	pain
+illness	tagpoint	Rotten	countKeyword	1	keyword	mold
+illness	tagpoint	Rotten	countKeyword	1	keyword	rot
+illness	tagpoint	Rotten	countKeyword	1	keyword	spores
+illness	tagpoint	Rotten	countKeyword	1	keyword	fuzzing
+illness	tagpoint	Rotten	countKeyword	1	keyword	blood
+illness	tagpoint	Rotten	countKeyword	1	keyword	growth
+illness	tagpoint	Rotten	countKeyword	1	keyword	slap
+illness	tagpoint	Rotten	countKeyword	1	keyword	germs
+imagery	tagpoint	Clockface	countKeyword	1	keyword	heartbeat
+imagery	tagpoint	Clockface	countKeyword	1	keyword	pain
+imagery	tagpoint	Clockface	countKeyword	1	keyword	spiraling grain
+imagery	tagpoint	Clockface	countKeyword	1	keyword	greying stains
+imagery	tagpoint	Clockface	countKeyword	1	keyword	alight in tremors
+imagery	tagpoint	Clockface	countKeyword	1	keyword	me
+imagery	tagpoint	Virga	countKeyword	1	keyword	air
+imagery	tagpoint	Virga	countKeyword	1	keyword	clouds
+imagery	tagpoint	Virga	countKeyword	1	keyword	grey sky
+imagery	tagpoint	Virga	countKeyword	1	keyword	frightening
+imagery	tagpoint	Virga	countKeyword	1	keyword	raining
+imagery	tagpoint	Virga	countKeyword	1	keyword	thunder
+imagery	tagpoint	Virga	countKeyword	1	keyword	gale
+imagery	tagpoint	Virga	countKeyword	1	keyword	Howling
+imagery	tagpoint	Virga	countKeyword	1	keyword	chill
+imagery	tagpoint	Virga	countKeyword	1	keyword	frigid
+imagery	tagpoint	Virga	countKeyword	1	keyword	flurry
+imagery	tagpoint	Virga	countKeyword	1	keyword	quiet
+imagery	tagpoint	Virga	countKeyword	1	keyword	rain drop
+imposter-syndrome	tagpoint	Host	countKeyword	3	keyword	me
+imposter-syndrome	tagpoint	Host	countKeyword	1	keyword	beat
+imposter-syndrome	tagpoint	Host	countKeyword	1	keyword	too big for my body
+imposter-syndrome	tagpoint	Host	countKeyword	1	keyword	pushes at my nerves
+imposter-syndrome	tagpoint	Host	countKeyword	1	keyword	poke out my nostrils
+imposter-syndrome	tagpoint	Host	countKeyword	1	keyword	gaps of my teeth
+imposter-syndrome	tagpoint	Host	countKeyword	1	keyword	I can feel it
+injury	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+injury	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+injury	tagpoint	Pulse	countKeyword	3	keyword	beat
+isolation	tagpoint	Clockface	countKeyword	1	keyword	heartbeat
+isolation	tagpoint	Clockface	countKeyword	1	keyword	pain
+isolation	tagpoint	Clockface	countKeyword	1	keyword	spiraling grain
+isolation	tagpoint	Clockface	countKeyword	1	keyword	greying stains
+isolation	tagpoint	Clockface	countKeyword	1	keyword	alight in tremors
+isolation	tagpoint	Clockface	countKeyword	1	keyword	me
+isolation	tagpoint	Host	countKeyword	3	keyword	me
+isolation	tagpoint	Host	countKeyword	1	keyword	beat
+isolation	tagpoint	Host	countKeyword	1	keyword	too big for my body
+isolation	tagpoint	Host	countKeyword	1	keyword	pushes at my nerves
+isolation	tagpoint	Host	countKeyword	1	keyword	poke out my nostrils
+isolation	tagpoint	Host	countKeyword	1	keyword	gaps of my teeth
+isolation	tagpoint	Host	countKeyword	1	keyword	I can feel it
+loss	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+loss	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+loss	tagpoint	Pulse	countKeyword	3	keyword	beat
+loss	tagpoint	Red	countKeyword	5	keyword	me
+loss	tagpoint	Red	countKeyword	1	keyword	redness
+loss	tagpoint	Red	countKeyword	1	keyword	searing
+loss	tagpoint	Red	countKeyword	1	keyword	thing
+loss	tagpoint	Red	countKeyword	1	keyword	pay
+loss	tagpoint	Red	countKeyword	2	keyword	pain
+loss	tagpoint	Red	countKeyword	1	keyword	blowtorch
+loss	tagpoint	Red	countKeyword	1	keyword	copper
+love	tagpoint	Red	countKeyword	5	keyword	me
+love	tagpoint	Red	countKeyword	1	keyword	redness
+love	tagpoint	Red	countKeyword	1	keyword	searing
+love	tagpoint	Red	countKeyword	1	keyword	thing
+love	tagpoint	Red	countKeyword	1	keyword	pay
+love	tagpoint	Red	countKeyword	2	keyword	pain
+love	tagpoint	Red	countKeyword	1	keyword	blowtorch
+love	tagpoint	Red	countKeyword	1	keyword	copper
+love	tagpoint	Rotten	countKeyword	1	keyword	pain
+love	tagpoint	Rotten	countKeyword	1	keyword	mold
+love	tagpoint	Rotten	countKeyword	1	keyword	rot
+love	tagpoint	Rotten	countKeyword	1	keyword	spores
+love	tagpoint	Rotten	countKeyword	1	keyword	fuzzing
+love	tagpoint	Rotten	countKeyword	1	keyword	blood
+love	tagpoint	Rotten	countKeyword	1	keyword	growth
+love	tagpoint	Rotten	countKeyword	1	keyword	slap
+love	tagpoint	Rotten	countKeyword	1	keyword	germs
+mental-illness	tagpoint	Host	countKeyword	3	keyword	me
+mental-illness	tagpoint	Host	countKeyword	1	keyword	beat
+mental-illness	tagpoint	Host	countKeyword	1	keyword	too big for my body
+mental-illness	tagpoint	Host	countKeyword	1	keyword	pushes at my nerves
+mental-illness	tagpoint	Host	countKeyword	1	keyword	poke out my nostrils
+mental-illness	tagpoint	Host	countKeyword	1	keyword	gaps of my teeth
+mental-illness	tagpoint	Host	countKeyword	1	keyword	I can feel it
+mental-illness	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+mental-illness	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+mental-illness	tagpoint	Pulse	countKeyword	3	keyword	beat
+mental-illness	tagpoint	Witness	countKeyword	1	keyword	Always watching
+mental-illness	tagpoint	Witness	countKeyword	1	keyword	The eyes
+mental-illness	tagpoint	Witness	countKeyword	2	keyword	me
+mental-illness	tagpoint	Witness	countKeyword	1	keyword	Hunting
+mental-illness	tagpoint	Witness	countKeyword	1	keyword	Relentlessly)
+mental-illness	tagpoint	Witness	countKeyword	1	keyword	No escaping
+mental-illness	tagpoint	Witness	countKeyword	1	keyword	They see it
+mental-illness	tagpoint	Witness	countKeyword	1	keyword	Never
+mental-illness	tagpoint	Witness	countKeyword	1	keyword	Witnessed.
+mental-illness	tagpoint	Hollow	countKeyword	1	keyword	me
+mental-illness	tagpoint	Hollow	countKeyword	2	keyword	hollow
+mental-illness	tagpoint	Hollow	countKeyword	1	keyword	void
+mental-illness	tagpoint	Hollow	countKeyword	1	keyword	vacancy
+mental-illness	tagpoint	Hollow	countKeyword	1	keyword	pain
+mental-illness	tagpoint	Hollow	countKeyword	1	keyword	withering
+mental-illness	tagpoint	Hollow	countKeyword	1	keyword	pallidity
+mental-illness	tagpoint	Hollow	countKeyword	1	keyword	blood
+mental-illness	tagpoint	Hollow	countKeyword	1	keyword	wrongness
+mental-illness	tagpoint	Red	countKeyword	5	keyword	me
+mental-illness	tagpoint	Red	countKeyword	1	keyword	redness
+mental-illness	tagpoint	Red	countKeyword	1	keyword	searing
+mental-illness	tagpoint	Red	countKeyword	1	keyword	thing
+mental-illness	tagpoint	Red	countKeyword	1	keyword	pay
+mental-illness	tagpoint	Red	countKeyword	2	keyword	pain
+mental-illness	tagpoint	Red	countKeyword	1	keyword	blowtorch
+mental-illness	tagpoint	Red	countKeyword	1	keyword	copper
+mold	tagpoint	Rotten	countKeyword	1	keyword	pain
+mold	tagpoint	Rotten	countKeyword	1	keyword	mold
+mold	tagpoint	Rotten	countKeyword	1	keyword	rot
+mold	tagpoint	Rotten	countKeyword	1	keyword	spores
+mold	tagpoint	Rotten	countKeyword	1	keyword	fuzzing
+mold	tagpoint	Rotten	countKeyword	1	keyword	blood
+mold	tagpoint	Rotten	countKeyword	1	keyword	growth
+mold	tagpoint	Rotten	countKeyword	1	keyword	slap
+mold	tagpoint	Rotten	countKeyword	1	keyword	germs
+paranoia	tagpoint	Host	countKeyword	3	keyword	me
+paranoia	tagpoint	Host	countKeyword	1	keyword	beat
+paranoia	tagpoint	Host	countKeyword	1	keyword	too big for my body
+paranoia	tagpoint	Host	countKeyword	1	keyword	pushes at my nerves
+paranoia	tagpoint	Host	countKeyword	1	keyword	poke out my nostrils
+paranoia	tagpoint	Host	countKeyword	1	keyword	gaps of my teeth
+paranoia	tagpoint	Host	countKeyword	1	keyword	I can feel it
+paranoia	tagpoint	Witness	countKeyword	1	keyword	Always watching
+paranoia	tagpoint	Witness	countKeyword	1	keyword	The eyes
+paranoia	tagpoint	Witness	countKeyword	2	keyword	me
+paranoia	tagpoint	Witness	countKeyword	1	keyword	Hunting
+paranoia	tagpoint	Witness	countKeyword	1	keyword	Relentlessly)
+paranoia	tagpoint	Witness	countKeyword	1	keyword	No escaping
+paranoia	tagpoint	Witness	countKeyword	1	keyword	They see it
+paranoia	tagpoint	Witness	countKeyword	1	keyword	Never
+paranoia	tagpoint	Witness	countKeyword	1	keyword	Witnessed.
+paranoia	tagpoint	Virga	countKeyword	1	keyword	air
+paranoia	tagpoint	Virga	countKeyword	1	keyword	clouds
+paranoia	tagpoint	Virga	countKeyword	1	keyword	grey sky
+paranoia	tagpoint	Virga	countKeyword	1	keyword	frightening
+paranoia	tagpoint	Virga	countKeyword	1	keyword	raining
+paranoia	tagpoint	Virga	countKeyword	1	keyword	thunder
+paranoia	tagpoint	Virga	countKeyword	1	keyword	gale
+paranoia	tagpoint	Virga	countKeyword	1	keyword	Howling
+paranoia	tagpoint	Virga	countKeyword	1	keyword	chill
+paranoia	tagpoint	Virga	countKeyword	1	keyword	frigid
+paranoia	tagpoint	Virga	countKeyword	1	keyword	flurry
+paranoia	tagpoint	Virga	countKeyword	1	keyword	quiet
+paranoia	tagpoint	Virga	countKeyword	1	keyword	rain drop
+parasite	tagpoint	Host	countKeyword	3	keyword	me
+parasite	tagpoint	Host	countKeyword	1	keyword	beat
+parasite	tagpoint	Host	countKeyword	1	keyword	too big for my body
+parasite	tagpoint	Host	countKeyword	1	keyword	pushes at my nerves
+parasite	tagpoint	Host	countKeyword	1	keyword	poke out my nostrils
+parasite	tagpoint	Host	countKeyword	1	keyword	gaps of my teeth
+parasite	tagpoint	Host	countKeyword	1	keyword	I can feel it
+rain	tagpoint	Virga	countKeyword	1	keyword	air
+rain	tagpoint	Virga	countKeyword	1	keyword	clouds
+rain	tagpoint	Virga	countKeyword	1	keyword	grey sky
+rain	tagpoint	Virga	countKeyword	1	keyword	frightening
+rain	tagpoint	Virga	countKeyword	1	keyword	raining
+rain	tagpoint	Virga	countKeyword	1	keyword	thunder
+rain	tagpoint	Virga	countKeyword	1	keyword	gale
+rain	tagpoint	Virga	countKeyword	1	keyword	Howling
+rain	tagpoint	Virga	countKeyword	1	keyword	chill
+rain	tagpoint	Virga	countKeyword	1	keyword	frigid
+rain	tagpoint	Virga	countKeyword	1	keyword	flurry
+rain	tagpoint	Virga	countKeyword	1	keyword	quiet
+rain	tagpoint	Virga	countKeyword	1	keyword	rain drop
+redness	tagpoint	Red	countKeyword	5	keyword	me
+redness	tagpoint	Red	countKeyword	1	keyword	redness
+redness	tagpoint	Red	countKeyword	1	keyword	searing
+redness	tagpoint	Red	countKeyword	1	keyword	thing
+redness	tagpoint	Red	countKeyword	1	keyword	pay
+redness	tagpoint	Red	countKeyword	2	keyword	pain
+redness	tagpoint	Red	countKeyword	1	keyword	blowtorch
+redness	tagpoint	Red	countKeyword	1	keyword	copper
+relationship	tagpoint	Red	countKeyword	5	keyword	me
+relationship	tagpoint	Red	countKeyword	1	keyword	redness
+relationship	tagpoint	Red	countKeyword	1	keyword	searing
+relationship	tagpoint	Red	countKeyword	1	keyword	thing
+relationship	tagpoint	Red	countKeyword	1	keyword	pay
+relationship	tagpoint	Red	countKeyword	2	keyword	pain
+relationship	tagpoint	Red	countKeyword	1	keyword	blowtorch
+relationship	tagpoint	Red	countKeyword	1	keyword	copper
+relationship	tagpoint	Rotten	countKeyword	1	keyword	pain
+relationship	tagpoint	Rotten	countKeyword	1	keyword	mold
+relationship	tagpoint	Rotten	countKeyword	1	keyword	rot
+relationship	tagpoint	Rotten	countKeyword	1	keyword	spores
+relationship	tagpoint	Rotten	countKeyword	1	keyword	fuzzing
+relationship	tagpoint	Rotten	countKeyword	1	keyword	blood
+relationship	tagpoint	Rotten	countKeyword	1	keyword	growth
+relationship	tagpoint	Rotten	countKeyword	1	keyword	slap
+relationship	tagpoint	Rotten	countKeyword	1	keyword	germs
+romance	tagpoint	Rotten	countKeyword	1	keyword	pain
+romance	tagpoint	Rotten	countKeyword	1	keyword	mold
+romance	tagpoint	Rotten	countKeyword	1	keyword	rot
+romance	tagpoint	Rotten	countKeyword	1	keyword	spores
+romance	tagpoint	Rotten	countKeyword	1	keyword	fuzzing
+romance	tagpoint	Rotten	countKeyword	1	keyword	blood
+romance	tagpoint	Rotten	countKeyword	1	keyword	growth
+romance	tagpoint	Rotten	countKeyword	1	keyword	slap
+romance	tagpoint	Rotten	countKeyword	1	keyword	germs
+sadness	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+sadness	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+sadness	tagpoint	Pulse	countKeyword	3	keyword	beat
+sadness	tagpoint	Witness	countKeyword	1	keyword	Always watching
+sadness	tagpoint	Witness	countKeyword	1	keyword	The eyes
+sadness	tagpoint	Witness	countKeyword	2	keyword	me
+sadness	tagpoint	Witness	countKeyword	1	keyword	Hunting
+sadness	tagpoint	Witness	countKeyword	1	keyword	Relentlessly)
+sadness	tagpoint	Witness	countKeyword	1	keyword	No escaping
+sadness	tagpoint	Witness	countKeyword	1	keyword	They see it
+sadness	tagpoint	Witness	countKeyword	1	keyword	Never
+sadness	tagpoint	Witness	countKeyword	1	keyword	Witnessed.
+sadness	tagpoint	Rotten	countKeyword	1	keyword	pain
+sadness	tagpoint	Rotten	countKeyword	1	keyword	mold
+sadness	tagpoint	Rotten	countKeyword	1	keyword	rot
+sadness	tagpoint	Rotten	countKeyword	1	keyword	spores
+sadness	tagpoint	Rotten	countKeyword	1	keyword	fuzzing
+sadness	tagpoint	Rotten	countKeyword	1	keyword	blood
+sadness	tagpoint	Rotten	countKeyword	1	keyword	growth
+sadness	tagpoint	Rotten	countKeyword	1	keyword	slap
+sadness	tagpoint	Rotten	countKeyword	1	keyword	germs
+self-harm	tagpoint	Hollow	countKeyword	1	keyword	me
+self-harm	tagpoint	Hollow	countKeyword	2	keyword	hollow
+self-harm	tagpoint	Hollow	countKeyword	1	keyword	void
+self-harm	tagpoint	Hollow	countKeyword	1	keyword	vacancy
+self-harm	tagpoint	Hollow	countKeyword	1	keyword	pain
+self-harm	tagpoint	Hollow	countKeyword	1	keyword	withering
+self-harm	tagpoint	Hollow	countKeyword	1	keyword	pallidity
+self-harm	tagpoint	Hollow	countKeyword	1	keyword	blood
+self-harm	tagpoint	Hollow	countKeyword	1	keyword	wrongness
+stalking	tagpoint	Witness	countKeyword	1	keyword	Always watching
+stalking	tagpoint	Witness	countKeyword	1	keyword	The eyes
+stalking	tagpoint	Witness	countKeyword	2	keyword	me
+stalking	tagpoint	Witness	countKeyword	1	keyword	Hunting
+stalking	tagpoint	Witness	countKeyword	1	keyword	Relentlessly)
+stalking	tagpoint	Witness	countKeyword	1	keyword	No escaping
+stalking	tagpoint	Witness	countKeyword	1	keyword	They see it
+stalking	tagpoint	Witness	countKeyword	1	keyword	Never
+stalking	tagpoint	Witness	countKeyword	1	keyword	Witnessed.
+tension	tagpoint	Virga	countKeyword	1	keyword	air
+tension	tagpoint	Virga	countKeyword	1	keyword	clouds
+tension	tagpoint	Virga	countKeyword	1	keyword	grey sky
+tension	tagpoint	Virga	countKeyword	1	keyword	frightening
+tension	tagpoint	Virga	countKeyword	1	keyword	raining
+tension	tagpoint	Virga	countKeyword	1	keyword	thunder
+tension	tagpoint	Virga	countKeyword	1	keyword	gale
+tension	tagpoint	Virga	countKeyword	1	keyword	Howling
+tension	tagpoint	Virga	countKeyword	1	keyword	chill
+tension	tagpoint	Virga	countKeyword	1	keyword	frigid
+tension	tagpoint	Virga	countKeyword	1	keyword	flurry
+tension	tagpoint	Virga	countKeyword	1	keyword	quiet
+tension	tagpoint	Virga	countKeyword	1	keyword	rain drop
+time	tagpoint	Clockface	countKeyword	1	keyword	heartbeat
+time	tagpoint	Clockface	countKeyword	1	keyword	pain
+time	tagpoint	Clockface	countKeyword	1	keyword	spiraling grain
+time	tagpoint	Clockface	countKeyword	1	keyword	greying stains
+time	tagpoint	Clockface	countKeyword	1	keyword	alight in tremors
+time	tagpoint	Clockface	countKeyword	1	keyword	me
+time	tagpoint	Pulse	countKeyword	2	keyword	heartbeat
+time	tagpoint	Pulse	countKeyword	11	keyword	Heartbeat
+time	tagpoint	Pulse	countKeyword	3	keyword	beat
+toxicity	tagpoint	Red	countKeyword	5	keyword	me
+toxicity	tagpoint	Red	countKeyword	1	keyword	redness
+toxicity	tagpoint	Red	countKeyword	1	keyword	searing
+toxicity	tagpoint	Red	countKeyword	1	keyword	thing
+toxicity	tagpoint	Red	countKeyword	1	keyword	pay
+toxicity	tagpoint	Red	countKeyword	2	keyword	pain
+toxicity	tagpoint	Red	countKeyword	1	keyword	blowtorch
+toxicity	tagpoint	Red	countKeyword	1	keyword	copper
+toxicity	tagpoint	Rotten	countKeyword	1	keyword	pain
+toxicity	tagpoint	Rotten	countKeyword	1	keyword	mold
+toxicity	tagpoint	Rotten	countKeyword	1	keyword	rot
+toxicity	tagpoint	Rotten	countKeyword	1	keyword	spores
+toxicity	tagpoint	Rotten	countKeyword	1	keyword	fuzzing
+toxicity	tagpoint	Rotten	countKeyword	1	keyword	blood
+toxicity	tagpoint	Rotten	countKeyword	1	keyword	growth
+toxicity	tagpoint	Rotten	countKeyword	1	keyword	slap
+toxicity	tagpoint	Rotten	countKeyword	1	keyword	germs
+weather	tagpoint	Virga	countKeyword	1	keyword	air
+weather	tagpoint	Virga	countKeyword	1	keyword	clouds
+weather	tagpoint	Virga	countKeyword	1	keyword	grey sky
+weather	tagpoint	Virga	countKeyword	1	keyword	frightening
+weather	tagpoint	Virga	countKeyword	1	keyword	raining
+weather	tagpoint	Virga	countKeyword	1	keyword	thunder
+weather	tagpoint	Virga	countKeyword	1	keyword	gale
+weather	tagpoint	Virga	countKeyword	1	keyword	Howling
+weather	tagpoint	Virga	countKeyword	1	keyword	chill
+weather	tagpoint	Virga	countKeyword	1	keyword	frigid
+weather	tagpoint	Virga	countKeyword	1	keyword	flurry
+weather	tagpoint	Virga	countKeyword	1	keyword	quiet
+weather	tagpoint	Virga	countKeyword	1	keyword	rain drop
