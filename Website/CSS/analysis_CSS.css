@@ -57,7 +57,7 @@ body {
     padding: 15px;
     background-color: #282728;
     color: #F9F5FB;
-    font-size: 28px;
+    font-size: 25px;
     font-family: 'Bellefair', serif;
 }
 
@@ -65,4 +65,31 @@ body {
     font-size: 42px;
     text-align: center;
     color: #DE0F0F;
+}
+
+p {
+    margin: 35px 80px;
+}
+
+p a {
+    color: #B7C47A;
+    text-decoration: none;
+}
+
+p a:hover {
+    color: #E00621;
+    text-decoration: none;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+}
+
+.caption {
+    font-size: 17px;
+    text-align: center;
+    margin: 8px;
 }
