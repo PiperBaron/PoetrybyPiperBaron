@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <about>
+        <poemTitle xml:id="toACorpse">To A Corpse</poemTitle>
+        <accArt/>
+        <bgInfo>
+            <p>This poem was written in November of 2021 for this project.</p>
+            <p>To a Corpse is a companion poem to From a Corpse. Together, they both tell the story
+                of a man who murdered his wife and the twisted, abusive state of their relationship.
+                Murder is used an allegory for all domestic violence.</p>
+            <p>This poem is from the abuser's perspective, describing how his lover "made him do
+                it." It's an attempt to briefly disect the thought-process of a domestic abuser.</p>
+        </bgInfo>
+        <themes>
+            <themePoint>Abusive Relationships</themePoint>
+            <themePoint>Murder</themePoint>
+        </themes>
+        <lineInfo>
+            <lineInfoPoint passageRef="l3 l4">The narrator puts the blame of his murder onto his
+                victim, a very classic abuse tactic.</lineInfoPoint>
+            <lineInfoPoint passageRef="l12">He calls her his <q>pet</q>, a possessive term that
+                implies he owns her.</lineInfoPoint>
+            <lineInfoPoint passageRef="l7 l8 l9 l10">He reveals (at least partially) why he's so
+                    <q>violenct</q> to her— she wanted freedom, and he abused her to control her, to
+                create obedience.</lineInfoPoint>
+            <lineInfoPoint passageRef="l31"><q>Housetrained</q>... like an animal. That's how he
+                sees her.</lineInfoPoint>
+        </lineInfo>
+        <metaTags>
+            <tagPoint tag="abuse"/>
+            <tagPoint tag="relationship" alt="relationships"/>
+            <tagPoint tag="romance"/>
+            <tagPoint tag="love"/>
+            <tagPoint tag="murder"/>
+            <tagPoint tag="toxicity"/>
+        </metaTags>
+
+        <credit>
+            <creditPoint> </creditPoint>
+        </credit>
+    </about>
+
+    <poem>
+        <stanza stanzaNum="s1">
+            <line lineNum="l1">Look at <keyword>you</keyword>.</line>
+            <line lineNum="l2">In pieces.</line>
+            <line lineNum="l3">Look at what you’ve</line>
+            <line lineNum="l4"><keyword>made me do</keyword>.</line>
+        </stanza>
+
+        <stanza stanzaNum="s2">
+            <line lineNum="l5">I long for your warmth,</line>
+            <line lineNum="l6">the softness of your <keyword>flesh</keyword>,</line>
+        </stanza>
+
+        <stanza stanzaNum="s3">
+            <line lineNum="l7">but you seem to crave</line>
+            <line lineNum="l8">my <keyword>violence</keyword>, with the way</line>
+            <line lineNum="l9">you flit away from me</line>
+            <line lineNum="l10">like an escaped songbird.</line>
+        </stanza>
+
+        <stanza stanzaNum="s4">
+            <line lineNum="l11">But, oh—</line>
+            <line lineNum="l12">My darling, my <keyword>pet</keyword>,</line>
+            <line lineNum="l13">I ache at the mess that</line>
+            <line lineNum="l14">has become of you.</line>
+            <line lineNum="l15">That <keyword>horrid</keyword> pile of</line>
+            <line lineNum="l16">gore and anguish—</line>
+            <line lineNum="l17">it <keyword>taunts</keyword> me with</line>
+            <line lineNum="l18">your visions uncorrupted.</line>
+        </stanza>
+
+        <stanza stanzaNum="s5">
+            <line lineNum="l19">I can hear the sweet sound</line>
+            <line lineNum="l20">of your falsetto, peer the</line>
+            <line lineNum="l21">lovely beryl of your eyes</line>
+            <line lineNum="l22">‘fore they turned <keyword>wan</keyword> and rancid.</line>
+            <line lineNum="l23">The alluring bouquet of</line>
+            <line lineNum="l24">your perfume snakes</line>
+            <line lineNum="l25">through the air like a</line>
+            <line lineNum="l26">siren’s call, nearly masking</line>
+            <line lineNum="l27">the wretched stench of</line>
+            <line lineNum="l28"><keyword>your rot</keyword>.</line>
+        </stanza>
+
+        <stanza stanzaNum="s6">
+            <line lineNum="l29">If only you had listened.</line>
+            <line lineNum="l30">If only you I had kept you</line>
+            <line lineNum="l31"><keyword>housetrained</keyword>.</line>
+        </stanza>
+
+    </poem>
+</content>
