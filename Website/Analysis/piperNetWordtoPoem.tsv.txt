@@ -1,0 +1,99 @@
+1	abuse	tagpoint	appears this many times in	1	Red	poemTitle
+1	abuse	tagpoint	appears this many times in	1	Rotten	poemTitle
+1	abuse	tagpoint	appears this many times in	1	From A Corpse	poemTitle
+1	abuse	tagpoint	appears this many times in	1	To A Corpse	poemTitle
+2	aging	tagpoint	appears this many times in	1	Clockface	poemTitle
+3	anger	tagpoint	appears this many times in	1	Red	poemTitle
+4	anorexia	tagpoint	appears this many times in	1	Hollow	poemTitle
+5	anxiety	tagpoint	appears this many times in	1	Host	poemTitle
+5	anxiety	tagpoint	appears this many times in	1	Witness	poemTitle
+5	anxiety	tagpoint	appears this many times in	1	Virga	poemTitle
+6	betrayal	tagpoint	appears this many times in	1	Red	poemTitle
+7	clock	tagpoint	appears this many times in	1	Clockface	poemTitle
+8	color	tagpoint	appears this many times in	1	Red	poemTitle
+8	color	both	appears this many times in	2	Liminal Dreaming	poemTitle
+8	color	both	appears this many times in	2	Liminal Dreaming	poemTitle
+9	death	tagpoint	appears this many times in	1	Pulse	poemTitle
+10	depression	tagpoint	appears this many times in	1	Pulse	poemTitle
+10	depression	tagpoint	appears this many times in	1	Hollow	poemTitle
+10	depression	tagpoint	appears this many times in	1	Lorn	poemTitle
+11	dream	tagpoint	appears this many times in	1	Liminal Dreaming	poemTitle
+12	eating-disorder	tagpoint	appears this many times in	1	Hollow	poemTitle
+13	empty	tagpoint	appears this many times in	1	Hollow	poemTitle
+14	eyes	tagpoint	appears this many times in	1	Witness	poemTitle
+15	fear	tagpoint	appears this many times in	1	Clockface	poemTitle
+15	fear	tagpoint	appears this many times in	1	Host	poemTitle
+15	fear	tagpoint	appears this many times in	1	Witness	poemTitle
+15	fear	tagpoint	appears this many times in	1	Virga	poemTitle
+16	grief	tagpoint	appears this many times in	1	Pulse	poemTitle
+17	health	tagpoint	appears this many times in	1	Pulse	poemTitle
+18	heart	tagpoint	appears this many times in	1	Pulse	poemTitle
+19	heartbeat	both	appears this many times in	3	Pulse	poemTitle
+19	heartbeat	keyword	appears this many times in	1	Clockface	poemTitle
+19	heartbeat	both	appears this many times in	3	Pulse	poemTitle
+20	humanity	tagpoint	appears this many times in	1	Little Stories	poemTitle
+21	hunger	tagpoint	appears this many times in	1	Hollow	poemTitle
+22	illness	tagpoint	appears this many times in	1	Host	poemTitle
+22	illness	tagpoint	appears this many times in	1	Pulse	poemTitle
+22	illness	tagpoint	appears this many times in	1	Hollow	poemTitle
+22	illness	tagpoint	appears this many times in	1	Rotten	poemTitle
+23	imagery	tagpoint	appears this many times in	1	Clockface	poemTitle
+23	imagery	tagpoint	appears this many times in	1	Virga	poemTitle
+23	imagery	tagpoint	appears this many times in	1	Liminal Dreaming	poemTitle
+24	imposter-syndrome	tagpoint	appears this many times in	1	Host	poemTitle
+25	injury	tagpoint	appears this many times in	1	Pulse	poemTitle
+26	introspection	tagpoint	appears this many times in	1	Little Stories	poemTitle
+27	isolation	tagpoint	appears this many times in	1	Clockface	poemTitle
+27	isolation	tagpoint	appears this many times in	1	Host	poemTitle
+27	isolation	tagpoint	appears this many times in	1	Liminal Dreaming	poemTitle
+27	isolation	tagpoint	appears this many times in	1	Lorn	poemTitle
+28	loneliness	tagpoint	appears this many times in	1	Liminal Dreaming	poemTitle
+28	loneliness	keyword	appears this many times in	1	Lorn	poemTitle
+29	loss	tagpoint	appears this many times in	1	Pulse	poemTitle
+29	loss	tagpoint	appears this many times in	1	Red	poemTitle
+30	love	tagpoint	appears this many times in	1	Red	poemTitle
+30	love	tagpoint	appears this many times in	1	Rotten	poemTitle
+30	love	tagpoint	appears this many times in	1	From A Corpse	poemTitle
+30	love	tagpoint	appears this many times in	1	Little Stories	poemTitle
+30	love	tagpoint	appears this many times in	1	To A Corpse	poemTitle
+30	love	keyword	appears this many times in	1	Liminal Dreaming	poemTitle
+31	mental-illness	tagpoint	appears this many times in	1	Host	poemTitle
+31	mental-illness	tagpoint	appears this many times in	1	Pulse	poemTitle
+31	mental-illness	tagpoint	appears this many times in	1	Witness	poemTitle
+31	mental-illness	tagpoint	appears this many times in	1	Hollow	poemTitle
+31	mental-illness	tagpoint	appears this many times in	1	Red	poemTitle
+31	mental-illness	tagpoint	appears this many times in	1	Lorn	poemTitle
+32	mold	both	appears this many times in	2	Rotten	poemTitle
+32	mold	both	appears this many times in	2	Rotten	poemTitle
+33	murder	tagpoint	appears this many times in	1	From A Corpse	poemTitle
+33	murder	tagpoint	appears this many times in	1	To A Corpse	poemTitle
+34	paranoia	tagpoint	appears this many times in	1	Host	poemTitle
+34	paranoia	tagpoint	appears this many times in	1	Witness	poemTitle
+34	paranoia	tagpoint	appears this many times in	1	Virga	poemTitle
+35	parasite	tagpoint	appears this many times in	1	Host	poemTitle
+36	people-watching	tagpoint	appears this many times in	1	Little Stories	poemTitle
+37	rain	tagpoint	appears this many times in	1	Virga	poemTitle
+38	redness	both	appears this many times in	2	Red	poemTitle
+38	redness	both	appears this many times in	2	Red	poemTitle
+39	relationship	tagpoint	appears this many times in	1	Red	poemTitle
+39	relationship	tagpoint	appears this many times in	1	Rotten	poemTitle
+39	relationship	tagpoint	appears this many times in	1	From A Corpse	poemTitle
+39	relationship	tagpoint	appears this many times in	1	To A Corpse	poemTitle
+40	romance	tagpoint	appears this many times in	1	Rotten	poemTitle
+40	romance	tagpoint	appears this many times in	1	From A Corpse	poemTitle
+40	romance	tagpoint	appears this many times in	1	To A Corpse	poemTitle
+41	sadness	tagpoint	appears this many times in	1	Pulse	poemTitle
+41	sadness	tagpoint	appears this many times in	1	Witness	poemTitle
+41	sadness	tagpoint	appears this many times in	1	Rotten	poemTitle
+41	sadness	tagpoint	appears this many times in	1	Lorn	poemTitle
+42	self-harm	tagpoint	appears this many times in	1	Hollow	poemTitle
+43	sleep	tagpoint	appears this many times in	1	Liminal Dreaming	poemTitle
+44	stalking	tagpoint	appears this many times in	1	Witness	poemTitle
+45	tension	tagpoint	appears this many times in	1	Virga	poemTitle
+46	time	tagpoint	appears this many times in	1	Clockface	poemTitle
+46	time	tagpoint	appears this many times in	1	Pulse	poemTitle
+47	toxicity	tagpoint	appears this many times in	1	Red	poemTitle
+47	toxicity	tagpoint	appears this many times in	1	Rotten	poemTitle
+47	toxicity	tagpoint	appears this many times in	1	From A Corpse	poemTitle
+47	toxicity	tagpoint	appears this many times in	1	To A Corpse	poemTitle
+48	weather	tagpoint	appears this many times in	1	Virga	poemTitle

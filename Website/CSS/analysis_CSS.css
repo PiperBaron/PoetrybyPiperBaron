@@ -93,3 +93,11 @@ p a:hover {
     text-align: center;
     margin: 8px;
 }
+
+#cy {
+     width: 65vw;
+     height:100vh;
+     position:absolute;
+     margin:auto;
+     border-style:double;
+ }
