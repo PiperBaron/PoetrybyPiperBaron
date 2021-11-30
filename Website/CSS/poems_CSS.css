@@ -2,11 +2,11 @@ body {
     background-color: black;
     background-image: url(../Media/poems_bg_EDIT_beta2.png);
     background-repeat: no-repeat;
-    background-size: cover;     
- /*   height: 100%;
+    background-size: cover;
+    /*   height: 100%;
     background-position: center;
     background-size: cover;*/
-    
+
     color: white;
 }
 
@@ -115,6 +115,11 @@ body {
 .poem_menu-items a:hover {
     text-decoration: none;
     color: #E00621;
+}
+
+.long_title {
+    height: 66px;
+    font-size: 46px;
 }
 
 .poem_column {

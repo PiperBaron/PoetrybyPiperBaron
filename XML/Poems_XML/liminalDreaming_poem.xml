@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <about>
+        <poemTitle xml:id="liminalDreaming">Liminal Dreaming</poemTitle>
+        <accArt/>
+        <bgInfo>
+            <p>This poem was written in November of 2021 for this project.</p>
+            <p>Liminal Dreaming is a poem based on a true story of my experience with hypnagogia, or
+                the state of being between "dreaming" and "awake." I tried to tell the story of a
+                person who is deeply lonely dreaming of an idyllic gathering of loved ones only to
+                wake and forced to comfront their solitude.</p>
+            <p>There's a large emphasis on imagery to create that dreamlike atmosphere for the
+                poem.</p>
+        </bgInfo>
+        <themes>
+            <themePoint>Dreams</themePoint>
+            <themePoint>Loneliness</themePoint>
+        </themes>
+        <lineInfo>
+            <lineInfoPoint passageRef="l7 l8 l9">Their first sense of that <q>gathering</q>,
+                stressing the presence of others and the feeling of being surrounded by
+                people.</lineInfoPoint>
+            <lineInfoPoint passageRef="l11 l12 l13 l19">These lines focus a lot on color — mostly
+                yellows — to really get across a feeling of warmth.</lineInfoPoint>
+            <lineInfoPoint passageRef="l20">The whole dream culiminates to what they desire most: to
+                feel loved.</lineInfoPoint>
+            <lineInfoPoint passageRef="l28 l29 l30">Finally awoken, the narrator is forced back into
+                reality.</lineInfoPoint>
+        </lineInfo>
+        <metaTags>
+            <tagPoint tag="dream" alt="dreaming"/>
+            <tagPoint tag="sleep"/>
+            <tagPoint tag="isolation"/>
+            <tagPoint tag="loneliness"/>
+            <tagPoint tag="color"/>
+            <tagPoint tag="imagery"/>
+        </metaTags>
+
+        <credit>
+            <creditPoint> </creditPoint>
+        </credit>
+    </about>
+
+    <poem>
+        <stanza stanzaNum="s1">
+            <line lineNum="l1">In a swarming,</line>
+            <line lineNum="l2">balmy swirl of <keyword>color</keyword></line>
+            <line lineNum="l3">heady and vinous</line>
+            <line lineNum="l4">I lay there <keyword>wilting</keyword></line>
+            <line lineNum="l5">like a melting pool</line>
+            <line lineNum="l6">seeping into the sheets.</line>
+        </stanza>
+
+        <stanza stanzaNum="s2">
+            <line lineNum="l7">Voices, muffled yet</line>
+            <line lineNum="l8">vivid like a <keyword>jovial</keyword> crowd</line>
+            <line lineNum="l9">at a <keyword>warmly-lit</keyword> gathering</line>
+            <line lineNum="l10">crowing with pleasant patter</line>
+            <line lineNum="l11">surrounded by soft luster</line>
+            <line lineNum="l12">a creamy <keyword>golden glow</keyword></line>
+        </stanza>
+
+        <stanza stanzaNum="s3">
+            <line lineNum="l13">tender like <keyword>honey</keyword></line>
+            <line lineNum="l14">an air cushy and intimate</line>
+            <line lineNum="l15">with a tang of</line>
+            <line lineNum="l16"><keyword>clementine</keyword> and sandalwood</line>
+            <line lineNum="l17">the all-consuming sense of</line>
+            <line lineNum="l18">serenity wafting wisping</line>
+        </stanza>
+
+        <stanza stanzaNum="s4">
+            <line lineNum="l19">the color <keyword>amber</keyword></line>
+            <line lineNum="l20">the taste of <keyword>love</keyword></line>
+            <line lineNum="l21">swaddled like an infant—</line>
+        </stanza>
+
+        <stanza stanzaNum="s5">
+            <line lineNum="l22">My eyes split open,</line>
+            <line lineNum="l23">I shoot straight up</line>
+            <line lineNum="l24">and whirl around to</line>
+            <line lineNum="l25">find myself enshrouded</line>
+            <line lineNum="l26">by the pitch-darkness</line>
+            <line lineNum="l27">of my barren bedroom.</line>
+        </stanza>
+
+        <stanza stanzaNum="s6">
+            <line lineNum="l28">Cold and desolate,</line>
+            <line lineNum="l29">I stare into the black</line>
+            <line lineNum="l30"><keyword>alone</keyword>.</line>
+        </stanza>
+    </poem>
+</content>

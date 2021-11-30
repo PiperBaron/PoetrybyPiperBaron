@@ -101,6 +101,10 @@
             <!--2021-09-13 ebb: Adding span elements inside lines for use in highlighting. -->
         </div>
     </xsl:template>
+    
+    <xsl:template match="keyword">
+        <span class="{preceding::tagPoint[last()]/[@tag]}_line"><xsl:apply-templates/></span>
+    </xsl:template>
  
     <xsl:template match="lineInfoPoint">
      <!--ebb: I think we want to be able to point to multiple space-separated values 

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <about>
+        <poemTitle xml:id="littleStories">Little Stories</poemTitle>
+        <accArt/>
+        <bgInfo>
+            <p>Little Stories was written in October of 2021 for this project.</p>
+            <p>This poem is inspired by my habit of people watching! I've always enjoyed watching as
+                others go about their lives, and I often get lost in thinking about the amazing
+                ccmplexity across so many individuals.</p>
+            <p>For this poem, I thought I'd try to speak to the beauty in in recognizing
+                humanity.</p>
+        </bgInfo>
+        <themes>
+            <themePoint>People Watching</themePoint>
+            <themePoint>Imagination</themePoint>
+        </themes>
+        <lineInfo>
+            <lineInfoPoint passageRef="l3 l4">The narrator relfects on the infinite possible lives
+                and <q>stories</q> as they people-watch.</lineInfoPoint>
+            <lineInfoPoint passageRef="l15 l16 l17 l18 l18 l20 l21">These questions seem to reveal a
+                life of trauma in the narrator, and the try to relate to the people they see passing
+                by through asking and giving their hypothetical answers.</lineInfoPoint>
+            <lineInfoPoint passageRef="l22 l23 l24 l25 l26 l27 l28 l29">The narrator invents stories
+                for the random people they see walking by.</lineInfoPoint>
+            <lineInfoPoint passageRef="l36 l37 l38 l39 l40">They fantasize about being the subject
+                of others' people-watching, craving that feeling of mutual connection.</lineInfoPoint>
+            <lineInfoPoint passageRef="l41 l42 l43">They smile to the passing woman, feeling
+                connected to her as they continue to weave these narratives for everyone they
+                encounter, including her.</lineInfoPoint>
+        </lineInfo>
+        <metaTags>
+            <tagPoint tag="people-watching"/>
+            <tagPoint tag="introspection"/>
+            <tagPoint tag="humanity"/>
+            <tagPoint tag="love"/>
+        </metaTags>
+
+        <credit>
+            <creditPoint> </creditPoint>
+        </credit>
+    </about>
+
+    <poem>
+        <stanza stanzaNum="s1">
+            <line lineNum="l1">All I can think of</line>
+            <line lineNum="l2">As I sit upon this bench</line>
+            <line lineNum="l3">Are the <keyword>lives</keyword>, the</line>
+            <line lineNum="l4"><keyword>Little stories</keyword> of</line>
+            <line lineNum="l5">Every passer-by.</line>
+        </stanza>
+
+        <stanza stanzaNum="s2">
+            <line lineNum="l6">Who are they beneath</line>
+            <line lineNum="l7">The <keyword>guise</keyword>, behind</line>
+            <line lineNum="l8">The <keyword>mask</keyword>?</line>
+            <line lineNum="l9">Do they control the image</line>
+            <line lineNum="l10">They project, does it</line>
+            <line lineNum="l11">Control them?</line>
+            <line lineNum="l12">Where do they begin and end,</line>
+            <line lineNum="l13">To whom are they coming home—</line>
+            <line lineNum="l14">Is there even home to return to?</line>
+        </stanza>
+
+        <stanza stanzaNum="s3">
+            <line lineNum="l15">When young and green,</line>
+            <line lineNum="l16">Did they, too, find themselves</line>
+            <line lineNum="l17">Lost and <keyword>yearning</keyword>, searching,</line>
+            <line lineNum="l18">In need of a name and persona?</line>
+            <line lineNum="l19">Was their childhood stolen</line>
+            <line lineNum="l20">By shadows and terror,</line>
+            <line lineNum="l21">Consumed by pain as well?</line>
+        </stanza>
+
+        <stanza stanzaNum="s4">
+            <line lineNum="l22">I see <keyword>her</keyword>, trenchcoat and</line>
+            <line lineNum="l23">Determined walk</line>
+            <line lineNum="l24">Business woman prudent and mighty</line>
+            <line lineNum="l25">But barren and lacking in love.</line>
+        </stanza>
+
+        <stanza stanzaNum="s5">
+            <line lineNum="l26">I see <keyword>him</keyword>, manicured and blithe,</line>
+            <line lineNum="l27">Delicate and timid with</line>
+            <line lineNum="l28">Overflowing passion and zeal,</line>
+            <line lineNum="l29">But fatally directionless.</line>
+        </stanza>
+
+        <stanza stanzaNum="s6">
+            <line lineNum="l30">Faces and names,</line>
+            <line lineNum="l31">Heartbreak and longing,</line>
+            <line lineNum="l32">It’s a beautiful swirl of</line>
+            <line lineNum="l33"><keyword>Humanity</keyword> and soul.</line>
+        </stanza>
+
+        <stanza stanzaNum="s7">
+            <line lineNum="l34">And as I rise from my bench</line>
+            <line lineNum="l35">I can’t help but feel the</line>
+            <line lineNum="l36"><keyword>Loving embrace</keyword> of eyes and hearts</line>
+            <line lineNum="l37">All around me.</line>
+            <line lineNum="l38">How my <keyword>story</keyword>, too,</line>
+            <line lineNum="l39">Will find its way into the</line>
+            <line lineNum="l40"><keyword>Chronicle</keyword> of passers-by.</line>
+        </stanza>
+
+        <stanza stanzaNum="s8">
+            <line lineNum="l41">I smile to the Jane Doe</line>
+            <line lineNum="l42">Walking past as I make</line>
+            <line lineNum="l43">My way home.</line>
+        </stanza>
+
+    </poem>
+</content>

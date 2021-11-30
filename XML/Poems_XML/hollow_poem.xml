@@ -39,6 +39,7 @@
             <tagPoint tag="hunger"/>
             <tagPoint tag="empty" alt="emptiness"/>
             <tagPoint tag="illness"/>
+            <tagPoint tag="introspection"/>
         </metaTags>
         <credit>
             <creditPoint>
