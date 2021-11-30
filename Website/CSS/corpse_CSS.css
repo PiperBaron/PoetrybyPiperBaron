@@ -93,6 +93,16 @@ body {
     margin: 2% 3% 5% 3%;
 }
 
+p a {
+    color: #B064AB;
+    text-decoration: none;
+}
+
+p a:hover {
+    color: white;
+    text-decoration: none;
+}
+
 #poem_holder {
     display: flex;
     flex-wrap: wrap;

@@ -42,7 +42,7 @@ body {
 }
 
 .menu-items:hover {
-    background-color: #600AB7;
+    background-color: #7E7E7E;
     color: white;
 }
 
@@ -60,7 +60,7 @@ body {
     width: 0;
     height: 0;
     border-top: 15px solid transparent;
-    border-left: 35px solid #A973DF;
+    border-left: 35px solid #ABABAB;
     border-bottom: 15px solid transparent;
     border-right: transparent;
     background-color: transparent;
@@ -70,7 +70,7 @@ body {
     width: 0;
     height: 0;
     border-top: 15px solid transparent;
-    border-left: 35px solid #600AB7;
+    border-left: 35px solid #7E7E7E;
     border-bottom: 15px solid transparent;
     border-right: transparent;
     background-color: transparent;
@@ -105,8 +105,8 @@ body {
     padding: 20px;
 }
 
-.people-watching_line {
-    color: #A973DF;
+.piper_line {
+    color: #ABABAB;
     font-style: italic;
 }
 
@@ -121,7 +121,7 @@ body {
     padding: 0
 }
 .inner.on {
-    background-color: #A973DF;
+    background-color: #7E7E7E;
 }
 
 .inner.on > span {
