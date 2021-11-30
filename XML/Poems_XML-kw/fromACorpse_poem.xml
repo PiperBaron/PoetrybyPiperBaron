@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <about>
+        <poemTitle xml:id="fromACorpse">From A Corpse</poemTitle>
+        <accArt/>
+        <bgInfo>
+            <p>This poem was written in November of 2021 for this project.</p>
+            <p>From a Corpse is a companion poem to TO a Corpse. Together, they both tell the story
+                of a man who murdered his wife and the twisted, abusive state of their relationship.
+                Murder is used an allegory for all domestic violence.</p>
+            <p>This poem is from the victim's perspective, showing how she's been manipulated into
+                believing that her murder is her own fault. It's an attempt to briefly disect the
+                thought-process of a domestic abuse victim.</p>
+        </bgInfo>
+        <themes>
+            <themePoint>Abusive Relationships</themePoint>
+            <themePoint>Murder</themePoint>
+        </themes>
+        <lineInfo>
+            <lineInfoPoint passageRef="l3 l4">The narrator puts the blame of her own murder onto
+                herself, a very classic response to abuse.</lineInfoPoint>
+            <lineInfoPoint passageRef="l5 l6 l7">She's left <q>cold</q> and <q>hollow</q> from his
+                abuse, a shell of who she once was.</lineInfoPoint>
+            <lineInfoPoint passageRef="l12 l13 l14 l15 l16">Again, she blames herself for what
+                happened to her, believing that he was practically forced to hurt her. It's what she
+                    <q>deserved</q>.</lineInfoPoint>
+            <lineInfoPoint passageRef="l18">She calls him her <q>master</q>, implying that he owns
+                her.</lineInfoPoint>
+            <lineInfoPoint passageRef="l32">Yearning for <q>atonement</q>, even in death she's
+                convinced she's somehow done something wrong and craves his
+                forgiveness.</lineInfoPoint>
+            <lineInfoPoint passageRef="l36"><q>Tamed</q>... like an animal. That's how she
+                sees herself.</lineInfoPoint>
+        </lineInfo>
+        <metaTags>
+            <tagPoint tag="abuse"/>
+            <tagPoint tag="relationship" alt="relationships"/>
+            <tagPoint tag="romance"/>
+            <tagPoint tag="love"/>
+            <tagPoint tag="murder"/>
+            <tagPoint tag="toxicity"/>
+        </metaTags>
+
+        <credit>
+            <creditPoint> </creditPoint>
+        </credit>
+    </about>
+
+    <poem>
+        <stanza stanzaNum="s1">
+            <line lineNum="l1">Look at <keyword>me</keyword>.</line>
+            <line lineNum="l2">Detritus.</line>
+            <line lineNum="l3">What have I</line>
+            <line lineNum="l4"><keyword>made you do</keyword>?</line>
+        </stanza>
+
+        <stanza stanzaNum="s2">
+            <line lineNum="l5">All I can sense is a</line>
+            <line lineNum="l6"><keyword>bitter</keyword> cold, a hollowness</line>
+            <line lineNum="l7">without reprieve.</line>
+            <line lineNum="l8">If only I could bask</line>
+            <line lineNum="l9">in your glow once more,</line>
+            <line lineNum="l10">imbibe the ever-burning</line>
+            <line lineNum="l11">smolder within you.</line>
+        </stanza>
+
+        <stanza stanzaNum="s3">
+            <line lineNum="l12">But, I <keyword>disobeyed</keyword>—</line>
+            <line lineNum="l13">pushed you and</line>
+            <line lineNum="l14">pushed you until you</line>
+            <line lineNum="l15"><keyword>snapped</keyword> and did to me</line>
+            <line lineNum="l16">what I deserved.</line>
+        </stanza>
+
+        <stanza stanzaNum="s4">
+            <line lineNum="l17">And, oh—</line>
+            <line lineNum="l18">My dear, my <keyword>master</keyword>,</line>
+            <line lineNum="l19">how I <keyword>yearn</keyword> for your</line>
+            <line lineNum="l20">grip upon my body,</line>
+            <line lineNum="l21">the effortless <keyword>command</keyword></line>
+            <line lineNum="l22">over heart and soul.</line>
+        </stanza>
+
+        <stanza stanzaNum="s5">
+            <line lineNum="l23">I still linger, wandering</line>
+            <line lineNum="l24">along our dusted halls.</line>
+            <line lineNum="l25">I watch as you toil,</line>
+            <line lineNum="l26">agonizing over my <keyword>killing</keyword>,</line>
+            <line lineNum="l27">so tortured and wrought</line>
+            <line lineNum="l28">as I fruitlessly try and try</line>
+            <line lineNum="l29">to ease your heavy burden.</line>
+            <line lineNum="l30">I shadow you in day,</line>
+            <line lineNum="l31">envelop you at night,</line>
+            <line lineNum="l32">all in <keyword>atonement</keyword> for my</line>
+            <line lineNum="l33">defiance.</line>
+        </stanza>
+
+        <stanza stanzaNum="s6">
+            <line lineNum="l34">If only I had listened.</line>
+            <line lineNum="l35">If only I had been</line>
+            <line lineNum="l36"><keyword>tamed</keyword>.</line>
+        </stanza>
+    </poem>
+</content>

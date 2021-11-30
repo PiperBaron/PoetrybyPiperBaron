@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../Schema/poem_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <about>
+        <poemTitle xml:id="lorn">Lorn</poemTitle>
+        <accArt/>
+        <bgInfo>
+            <p>Lorn was written in November of 2021 for this project.</p>
+            <p>This poem is meant to cap off the entire project, a sort of goodbye letter and a
+                commentary of my own thoughts on these works.</p>
+        </bgInfo>
+        <themes>
+            <themePoint>Solitude</themePoint>
+            <themePoint>Sadnesss</themePoint>
+        </themes>
+        <lineInfo>
+            <lineInfoPoint passageRef="l1">Being myself, being so shy and anxious.</lineInfoPoint>
+            <lineInfoPoint passageRef="l3 l4">Mental illness can be very lonely, even when
+                surrounded by people, and it's something I've struggled with for many
+                years.</lineInfoPoint>
+            <lineInfoPoint passageRef="l10 l11 l12 l13 l14 l15">This is a huge problem for me. I
+                love creating — painting, writing, animating — but I'm so stiffled by my fear of
+                producing something lacking that often I don't even try.</lineInfoPoint>
+            <lineInfoPoint passageRef="l16 l17">I think this is something a lot of people with
+                childhood trauma do — grieve their owm child selves.</lineInfoPoint>
+            <lineInfoPoint passageRef="l22 l23 l24">This is the line that really encapsulates this
+                whole project. I rarely talk about my feelings in real life, even with therapists,
+                and so my art, when I push myseslf to produce it, is my way of releasing those
+                intense emotions. <q>I cry</q> (inside, privately, through my art), but <q>I don't make
+                a sound</q> (no one really knows that I even feel this way).</lineInfoPoint>
+        </lineInfo>
+        <metaTags>
+            <tagPoint tag="depression"/>
+            <tagPoint tag="isolation"/>
+            <tagPoint tag="sadness"/>
+            <tagPoint tag="mental-illness" alt="mental-health"/>
+        </metaTags>
+
+        <credit>
+            <creditPoint> </creditPoint>
+        </credit>
+    </about>
+
+    <poem>
+        <stanza stanzaNum="s1">
+            <line lineNum="l1">It’s like being a <keyword>ghost</keyword>.</line>
+            <line lineNum="l2">Ethereal and unseen.</line>
+            <line lineNum="l3">A shroud of <keyword>loneliness</keyword></line>
+            <line lineNum="l4">swathes. And I cry.</line>
+        </stanza>
+
+        <stanza stanzaNum="s2">
+            <line lineNum="l5">I cry for the years of</line>
+            <line lineNum="l6"><keyword>solitude</keyword> spent alone,</line>
+            <line lineNum="l7">alone and wanting</line>
+            <line lineNum="l8">by never taking, too</line>
+            <line lineNum="l9">timid, no ambition.</line>
+            <line lineNum="l10">I cry for the wasted</line>
+            <line lineNum="l11">potential, all the</line>
+            <line lineNum="l12">great works uncreated</line>
+            <line lineNum="l13">and ideas abandoned</line>
+            <line lineNum="l14">out of fear that it will</line>
+            <line lineNum="l15">only <keyword>disappoint</keyword>.</line>
+        </stanza>
+
+        <stanza stanzaNum="s3">
+            <line lineNum="l16">I cry for the <keyword>child</keyword></line>
+            <line lineNum="l17">inside me.</line>
+            <line lineNum="l18">She sees the</line>
+            <line lineNum="l19"><keyword>Vastness</keyword> around her,</line>
+            <line lineNum="l20">but she’ll never know</line>
+            <line lineNum="l21">its grace.</line>
+        </stanza>
+
+        <stanza stanzaNum="s4">
+            <line lineNum="l22">I cry,</line>
+            <line lineNum="l23">but I don’t</line>
+            <line lineNum="l24">make a <keyword>sound</keyword>.</line>
+        </stanza>
+    </poem>
+</content>
