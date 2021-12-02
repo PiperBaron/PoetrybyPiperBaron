@@ -92,6 +92,7 @@ body {
     background: rgba(0, 0, 0, 0.3);
     font-size: 20px;
     margin: 0 3% 5% 3%;
+    padding: 15px;
 }
 
 #poem_holder {
@@ -117,11 +118,25 @@ body {
 .line {
     margin: 2px auto;
 }
+
 .inner {
     padding: 0
 }
-.inner.on {
+
+.inner.always_on.on {
     background-color: #E01E47;
+}
+
+.inner.always_on {
+    background-color: #443037;
+}
+
+.inner.always_on.on > span {
+    color: white;
+}
+
+.inner.always_on > span {
+    color: white;
 }
 
 #line_info {
@@ -135,7 +150,8 @@ body {
 
 .line_info_point {
     display: none;
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(0, 0, 0, 0.7);
+    padding: 18px;
 }
 .line_info_point.on {
     display: block;
