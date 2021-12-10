@@ -11,19 +11,24 @@
       <link href="https://fonts.googleapis.com/css2?family=Amatic+SC" rel="stylesheet" />
       <link href="https://fonts.googleapis.com/css2?family=Bellefair" rel="stylesheet" />
       <link rel="stylesheet" type="text/css" href="../CSS/corpse_CSS.css" />
-      <script type="text/javascript" src="../Javascript/audio_JS.js"></script>
+      <script type="text/javascript" src="../Javascript/media_toggle_JS.js"></script>
       <script type="text/javascript" src="../Javascript/line_info_toggle_JS.js"></script>
    </head>
    <body>
       <div id="main">
          
+         <div class="overlay"></div>
+         
+         <video autoplay muted loop id="bg_video">
+            <source src="../Media/toACorpse_BG.mp4" type="video/mp4">
+         </video>
          
          <div id="title">To A Corpse</div>
          
          
          <!--#include virtual="../SSI/poems_nav_menu.html" -->
          
-         <audio id="audio" src="../Media/POEMAUDIO.wav"></audio>
+         <audio id="audio" src="../Media/toACorpse_audio.mp3"></audio>
          <div id="button_div">
             <button id="audio_button" type="button" onclick="aud_play_pause()"></button>
          </div>
@@ -223,7 +228,17 @@
                   ><q>Housetrained</q>... like an animal. That's how he sees her.</div>
             </div>
          </section>
-         <div class="credit"> </div>
+         <div class="credit">
+            <a href="https://www.zapsplat.com/music/a-dark-whining-and-eerie-sinister-horror-atmosphere/"
+               >A dark, whining and eerie sinister horror atmosphere</a> from
+            <a href="https://www.zapsplat.com/">ZapSplat</a>
+         </div>
+         <div class="credit">
+            <a href="https://freesound.org/people/scottemoil/sounds/263776/">Crying
+               Man</a> by <a href="https://freesound.org/people/scottemoil/"
+                  >scottemoil</a> of <a href="http://freesound.org/"
+                     >Freesound.org</a>
+         </div>
       </div>
    </body>
 </html>

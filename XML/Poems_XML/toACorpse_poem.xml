@@ -36,7 +36,18 @@
         </metaTags>
 
         <credit>
-            <creditPoint> </creditPoint>
+            <creditPoint>
+                <creditURL
+                    URL="https://www.zapsplat.com/music/a-dark-whining-and-eerie-sinister-horror-atmosphere/"
+                    >A dark, whining and eerie sinister horror atmosphere</creditURL> from
+                    <creditURL URL="https://www.zapsplat.com/">ZapSplat</creditURL>
+            </creditPoint>
+            <creditPoint>
+                <creditURL URL="https://freesound.org/people/scottemoil/sounds/263776/">Crying
+                    Man</creditURL> by <creditURL URL="https://freesound.org/people/scottemoil/"
+                    >scottemoil</creditURL> of <creditURL URL="http://freesound.org/"
+                    >Freesound.org</creditURL>
+            </creditPoint>
         </credit>
     </about>
 

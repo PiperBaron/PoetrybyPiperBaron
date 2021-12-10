@@ -29,8 +29,8 @@
             <lineInfoPoint passageRef="l32">Yearning for <q>atonement</q>, even in death she's
                 convinced she's somehow done something wrong and craves his
                 forgiveness.</lineInfoPoint>
-            <lineInfoPoint passageRef="l36"><q>Tamed</q>... like an animal. That's how she
-                sees herself.</lineInfoPoint>
+            <lineInfoPoint passageRef="l36"><q>Tamed</q>... like an animal. That's how she sees
+                herself.</lineInfoPoint>
         </lineInfo>
         <metaTags>
             <tagPoint tag="abuse"/>
@@ -42,7 +42,18 @@
         </metaTags>
 
         <credit>
-            <creditPoint> </creditPoint>
+            <creditPoint>
+                <creditURL
+                    URL="https://www.zapsplat.com/music/a-dark-whining-and-eerie-sinister-horror-atmosphere/"
+                    >A dark, whining and eerie sinister horror atmosphere</creditURL> from
+                    <creditURL URL="https://www.zapsplat.com/">ZapSplat</creditURL>
+            </creditPoint>
+            <creditPoint>
+                <creditURL URL="https://www.youtube.com/watch?v=iWY27dhPqQk">Woman Humming Sound
+                    Effect</creditURL> by <creditURL
+                    URL="https://www.youtube.com/channel/UCgk-yIKjf-aGTzu_RLcW8pQ">Sounds
+                    Recorded</creditURL>
+            </creditPoint>
         </credit>
     </about>
 
