@@ -95,9 +95,15 @@ p a:hover {
 }
 
 #cy {
-     width: 65vw;
-     height:100vh;
-     position:absolute;
-     margin:auto;
+     width: 80vw;
+     height: 70vh;
+    
+     margin: auto;
      border-style:double;
+     background-color: black;
+     color: white;
  }
+ 
+#cyto {
+     height: 90vh;
+}

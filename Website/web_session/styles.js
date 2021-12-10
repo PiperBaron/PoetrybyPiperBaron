@@ -18,7 +18,7 @@ var styles = [ {
       "width" : 75.0,
       "border-color" : "rgb(204,204,204)",
       "height" : 35.0,
-      "color" : "rgb(0,0,0)",
+      "color" : "rgb(255,255,255)",
       "shape" : "roundrectangle",
       "border-width" : 0.0,
       "content" : "data(name)"

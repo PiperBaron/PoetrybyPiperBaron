@@ -31,8 +31,20 @@
             </div>
             <div id="analysis_body">
                 <div class="analysis_item">
+                    <div id="cyto">
+                        <div id="Network-Visual" class="item_title">Network Visualization</div>
+                        <p>Network displaying the connections between the topics/keywords and related poems by tile.</p>
+                        <div id="cy">
+                            <script src="web_session/networks.js"> </script>
+                            <script src="web_session/styles.js"> </script>
+                            <script src="web_session/scripts/vendor.js"></script>
+                            <script src="web_session/scripts/main.js"></script>
+                        </div>
+                    </div>
+                </div>
+                <div class="analysis_item">
                     <div id="word-count" class="item_title">Word Count</div>
-                    <p>Let's start by looking at my top 10 most-used words!</p>
+                    <p>My top 10 most-used words!</p>
                     <img src="Analysis/Images/words1.PNG" alt="" class="image" />
                     <p>Hmmm... Not super enlightening. That's what word counts tend to look like,
                         and it's why's they're not very useful in isolation. The most insightful
@@ -60,26 +72,20 @@
                     <p>Unlike with word counts, we can already see some interesting patterns. First
                         there's "like a," my 4th most common N-Gram, obviously an product of the
                         fact that this is poetry, thus heavy on the metaphors and similies.</p>
-                    <p>To make this analysis even more illuminating, we can bring in confordence plots, which will show us even more text that surrounds these N-Grams/words.</p>
-                    <p>Taking a closer look at the concordence plot for "I" to get a better understand <i>how</i> exactly it gets used most frequently:</p>
+                    <p>To make this analysis even more illuminating, we can bring in confordence
+                        plots, which will show us even more text that surrounds these
+                        N-Grams/words.</p>
+                    <p>Taking a closer look at the concordence plot for "I" to get a better
+                        understand <i>how</i> exactly it gets used most frequently:</p>
                     <img src="Analysis/Images/concordance3.PNG" class="image" alt="" />
-                    <p>Instead of focusing on action (I do, I think, I go), my writing tends to skew towards emotion and sensation (I ache, I can feel/sense/see/hear).</p>
-                    <p>We can use concordence plots of simimlar N-Grams ("of my" and "of your") to see if there's any contrast between them:</p>
-                    <img src="Analysis/Images/concordance_of_my.PNG" class="image" alt=""/>
+                    <p>Instead of focusing on action (I do, I think, I go), my writing tends to skew
+                        towards emotion and sensation (I ache, I can feel/sense/see/hear).</p>
+                    <p>We can use concordence plots of simimlar N-Grams ("of my" and "of your") to
+                        see if there's any contrast between them:</p>
+                    <img src="Analysis/Images/concordance_of_my.PNG" class="image" alt="" />
                     <div class="caption">"of my" Concordence Plot</div>
-                    <img src="Analysis/Images/concordance_of_your.PNG" class="image" alt=""/>
+                    <img src="Analysis/Images/concordance_of_your.PNG" class="image" alt="" />
                     <div class="caption">"of your" Concordence Plot</div>
-                </div>
-                <div class="analysis_item">
-                    <div id="Network-Visual" class="item_title">Network Visualization</div>
-                    <p>Sample text!</p>
-                    <div id="cy">
-                        
-                        <script src="web_session/networks.js"> </script>
-                        <script src="web_session/styles.js"> </script>
-                        <script src="web_session/scripts/vendor.js"></script>
-                        <script src="web_session/scripts/main.js"></script>
-                    </div>
                 </div>
             </div>
         </div>
