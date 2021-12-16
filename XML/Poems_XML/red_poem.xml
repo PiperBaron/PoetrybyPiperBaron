@@ -38,7 +38,12 @@
         </metaTags>
 
         <credit>
-            <creditPoint> </creditPoint>
+            <creditPoint>
+                <creditURL URL="https://freesound.org/people/rileywarren/sounds/401231/"
+                    >drums 1 - fight scene.wav</creditURL> by <creditURL
+                        URL="https://freesound.org/people/rileywarren/">rileywarren</creditURL> of <creditURL
+                            URL="http://freesound.org/">Freesound.org</creditURL>
+            </creditPoint>
         </credit>
     </about>
 
