@@ -30,16 +30,52 @@
                 </div>
             </div>
             <div id="analysis_body">
+                <div id="little_nav_holder">
+                    <div id="nav_title">Navigate:</div>
+                    <ul id="little_nav">
+                        <li class="little_nav_links">
+                            <a href="#network-visual">Network Visualization</a>
+                        </li>
+                        <li class="little_nav_links">
+                            <a href="#word-count">Word Count</a>
+                        </li>
+                        <li class="little_nav_links">
+                            <a href="#n-grams">N-Gram Analysis and Concordance Plots</a>
+                        </li>
+                    </ul>
+                </div>
                 <div class="analysis_item">
                     <div id="cyto">
-                        <div id="Network-Visual" class="item_title">Network Visualization</div>
-                        <p>Network displaying the connections between the topics/keywords and related poems by tile.</p>
+                        <div id="network-visual" class="item_title">Network Visualization</div>
+                        <p>Below is a network displaying the connections between the topics/keywords
+                            and related poems by tile. It can also be used to discover the
+                            connections that two or more poems share.</p>
+                        <p>Poem titles are colored with red, on the left. On the right, Tags are in
+                            blue, Keywords in Pink, and words that are both are colored with purple.
+                            The connecting lines are colored from yellow to dark purple in
+                            accordance with the "Edge Betweenness" — the number of the "steps" it
+                            takes to get from one node to another.</p>
                         <div id="cy">
                             <script src="web_session/networks.js"> </script>
                             <script src="web_session/styles.js"> </script>
                             <script src="web_session/scripts/vendor.js"></script>
                             <script src="web_session/scripts/main.js"></script>
                         </div>
+                        <p>Here are some examples to help better explain the way to use and interpet
+                            these kinds of networks:</p>
+                        <img src="Analysis/Images/piperNetWordtoPoem_host_pulse_crop.png"
+                            class="image" alt="" />
+                        <p>In the above sub-network, we can see how the two poems <a
+                                href="Poems/pulse_poem.html">Pulse</a> and <a
+                                href="Poems/host_poem.html">Host</a>, both very gory and
+                            thematically dark poems, are connected through the themes of mental and
+                            physical illness.</p>
+                        <img src="Analysis/Images/piperNetWordtoPoem_relationship_love_crop.png"
+                            class="image" alt="" />
+                        <p>And for this one explores the ways these poems are all related to one
+                            another via the two themes of relationships and love.</p>
+                        <p>It's so cool to be able to visually see the relationships between
+                            different poems!</p>
                     </div>
                 </div>
                 <div class="analysis_item">
@@ -63,7 +99,7 @@
                     <p>To get a better context for these word counts, we can use N-Grams.</p>
                 </div>
                 <div class="analysis_item">
-                    <div id="N-Grams" class="item_title">N-Gram Analysis and Concordance Plots</div>
+                    <div id="n-grams" class="item_title">N-Gram Analysis and Concordance Plots</div>
                     <p>N-Grams are continous sections of text (usually a few words in a sequence)
                         that can be very illuminating in text analysis, as they reveal what
                         phrases/combinations of words are most common in a work.</p>
@@ -87,6 +123,7 @@
                     <img src="Analysis/Images/concordance_of_your.PNG" class="image" alt="" />
                     <div class="caption">"of your" Concordence Plot</div>
                 </div>
+                <div id="back_up"><a href="#main">Back to Top</a></div>
             </div>
         </div>
     </body>

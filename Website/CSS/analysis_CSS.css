@@ -61,6 +61,36 @@ body {
     font-family: 'Bellefair', serif;
 }
 
+#little_nav {
+  list-style-type: none;
+}
+ 
+li.little_nav_links {
+  margin: 12px 10px;
+}
+
+li.little_nav_links a {
+  text-align: center;
+  text-decoration: none;
+  font-size: 22px;
+  color: #B7C47A;
+  background-color: #161515;
+  padding: 5px;
+}
+
+li.little_nav_links a:hover {
+  text-align: center;
+  text-decoration: none;
+  font-size: 22px;
+  color: #E00621;
+  background-color: #000;
+}
+
+#nav_title {
+    font-size: 30px;
+    color: #DE0F0F;
+}
+
 .item_title {
     font-size: 42px;
     text-align: center;
@@ -97,7 +127,6 @@ p a:hover {
 #cy {
      width: 80vw;
      height: 70vh;
-    
      margin: auto;
      border-style:double;
      background-color: black;
@@ -105,5 +134,22 @@ p a:hover {
  }
  
 #cyto {
-     height: 90vh;
+     height: 235vh;
+}
+
+#back_up a {
+  text-align: center;
+  text-decoration: none;
+  font-size: 30px;
+  color: #B7C47A;
+  background-color: #161515;
+  padding: 5px;
+}
+
+#back_up a:hover {
+  text-align: center;
+  text-decoration: none;
+  font-size: 30px;
+  color: #E00621;
+  background-color: #000;
 }

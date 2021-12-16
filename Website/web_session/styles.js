@@ -6,42 +6,37 @@ var styles = [ {
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "font-family" : "Elephant",
-      "font-weight" : "normal",
-      "border-opacity" : 1.0,
-      "background-opacity" : 1.0,
-      "text-opacity" : 1.0,
-      "background-color" : "rgb(253,141,60)",
-      "font-size" : 15,
+      "border-width" : 5.0,
+      "height" : 35.0,
+      "width" : 75.0,
+      "border-color" : "rgb(37,37,37)",
       "text-valign" : "center",
       "text-halign" : "center",
-      "width" : 75.0,
-      "border-color" : "rgb(204,204,204)",
-      "height" : 35.0,
-      "color" : "rgb(255,255,255)",
+      "font-family" : "Dubai Bold",
+      "font-weight" : "normal",
+      "background-opacity" : 1.0,
+      "border-opacity" : 1.0,
       "shape" : "roundrectangle",
-      "border-width" : 0.0,
+      "background-color" : "rgb(177,0,38)",
+      "color" : "rgb(255,255,255)",
+      "text-opacity" : 1.0,
+      "font-size" : 25,
       "content" : "data(name)"
-    }
-  }, {
-    "selector" : "node[Target_Desc = 'poemTitle']",
-    "css" : {
-      "shape" : "ellipse"
     }
   }, {
     "selector" : "node[TP_and_KW = 'tagpoint']",
     "css" : {
-      "background-color" : "rgb(158,202,225)"
+      "background-color" : "rgb(103,169,207)"
     }
   }, {
     "selector" : "node[TP_and_KW = 'keyword']",
     "css" : {
-      "background-color" : "rgb(250,159,181)"
+      "background-color" : "rgb(231,41,138)"
     }
   }, {
     "selector" : "node[TP_and_KW = 'both']",
     "css" : {
-      "background-color" : "rgb(158,154,200)"
+      "background-color" : "rgb(140,107,177)"
     }
   }, {
     "selector" : "node:selected",
@@ -53,48 +48,48 @@ var styles = [ {
     "css" : {
       "font-family" : "Dialog.plain",
       "font-weight" : "normal",
-      "color" : "rgb(0,0,0)",
-      "target-arrow-color" : "rgb(0,0,0)",
-      "source-arrow-shape" : "none",
-      "line-style" : "solid",
-      "opacity" : 1.0,
-      "text-opacity" : 1.0,
-      "line-color" : "rgb(132,132,132)",
       "width" : 2.0,
+      "source-arrow-shape" : "none",
+      "content" : "",
+      "line-color" : "rgb(132,132,132)",
+      "source-arrow-color" : "rgb(0,0,0)",
+      "line-style" : "solid",
+      "text-opacity" : 1.0,
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
       "font-size" : 10,
       "target-arrow-shape" : "none",
-      "source-arrow-color" : "rgb(0,0,0)",
-      "content" : ""
+      "color" : "rgb(0,0,0)"
     }
   }, {
     "selector" : "edge[EdgeBetweenness > 531.49186236]",
     "css" : {
-      "line-color" : "rgb(68,1,84)"
+      "line-color" : "rgb(0,0,4)"
     }
   }, {
     "selector" : "edge[EdgeBetweenness = 531.49186236]",
     "css" : {
-      "line-color" : "rgb(68,2,86)"
+      "line-color" : "rgb(29,17,71)"
     }
   }, {
     "selector" : "edge[EdgeBetweenness > 280.09083168][EdgeBetweenness < 531.49186236]",
     "css" : {
-      "line-color" : "mapData(EdgeBetweenness,280.09083168,531.49186236,rgb(33,145,140),rgb(68,2,86))"
+      "line-color" : "mapData(EdgeBetweenness,280.09083168,531.49186236,rgb(183,55,121),rgb(29,17,71))"
     }
   }, {
     "selector" : "edge[EdgeBetweenness > 28.68981545][EdgeBetweenness < 280.09083168]",
     "css" : {
-      "line-color" : "mapData(EdgeBetweenness,28.68981545,280.09083168,rgb(251,231,35),rgb(33,145,140))"
+      "line-color" : "mapData(EdgeBetweenness,28.68981545,280.09083168,rgb(254,196,136),rgb(183,55,121))"
     }
   }, {
     "selector" : "edge[EdgeBetweenness = 28.68981545]",
     "css" : {
-      "line-color" : "rgb(251,231,35)"
+      "line-color" : "rgb(254,196,136)"
     }
   }, {
     "selector" : "edge[EdgeBetweenness < 28.68981545]",
     "css" : {
-      "line-color" : "rgb(253,231,37)"
+      "line-color" : "rgb(252,253,191)"
     }
   }, {
     "selector" : "edge[Count > 3]",
