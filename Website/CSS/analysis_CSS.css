@@ -59,6 +59,12 @@ body {
     color: #F9F5FB;
     font-size: 25px;
     font-family: 'Bellefair', serif;
+    /* ebb: These three properties below create a grid inside this container element.
+     * You could try setting the same property on a rule for #analysis_item, but we think
+     * it's actually working pretty well up here.  */
+    display:grid;
+    grid-auto-flow:row;
+    grid-row-gap:50px;
 }
 
 #little_nav {
@@ -134,7 +140,7 @@ p a:hover {
  }
  
 #cyto {
-     height: 235vh;
+    /* height: 235vh;*/
 }
 
 #back_up a {
