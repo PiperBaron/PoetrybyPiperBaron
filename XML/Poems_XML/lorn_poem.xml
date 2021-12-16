@@ -25,8 +25,9 @@
             <lineInfoPoint passageRef="l22 l23 l24">This is the line that really encapsulates this
                 whole project. I rarely talk about my feelings in real life, even with therapists,
                 and so my art, when I push myseslf to produce it, is my way of releasing those
-                intense emotions. <q>I cry</q> (inside, privately, through my art), but <q>I don't make
-                a sound</q> (no one really knows that I even feel this way).</lineInfoPoint>
+                intense emotions. <q>I cry</q> (inside, privately, through my art), but <q>I don't
+                    make a sound</q> (no one really knows that I even feel this
+                way).</lineInfoPoint>
         </lineInfo>
         <metaTags>
             <tagPoint tag="depression"/>
@@ -36,7 +37,9 @@
         </metaTags>
 
         <credit>
-            <creditPoint> </creditPoint>
+            <creditPoint>
+                <creditURL URL="https://www.youtube.com/watch?v=PfScVegHSX4">Dmi We Meet
+                    Again?</creditURL> by Jon Brion </creditPoint>
         </credit>
     </about>
 
