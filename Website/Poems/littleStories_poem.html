@@ -11,18 +11,23 @@
       <link href="https://fonts.googleapis.com/css2?family=Amatic+SC" rel="stylesheet" />
       <link href="https://fonts.googleapis.com/css2?family=Bellefair" rel="stylesheet" />
       <link rel="stylesheet" type="text/css" href="../CSS/littleStories_CSS.css" />
-      <script type="text/javascript" src="../Javascript/audio_JS.js"></script>
+      <script type="text/javascript" src="../Javascript/media_toggle_JS.js"></script>
       <script type="text/javascript" src="../Javascript/line_info_toggle_JS.js"></script>
    </head>
    <body>
       <div id="main">
          
+         <div class="overlay"></div>
+         
+         <video autoplay muted loop id="bg_video">
+            <source src="../Media/littleStories_BG.mp4" type="video/mp4">
+         </video>
          
          <div id="title">Little Stories</div>
          
          <!--#include virtual="../SSI/poems_nav_menu.html" -->
          
-         <audio id="audio" src="../Media/POEMAUDIO.wav"></audio>
+         <audio id="audio" src="../Media/littleStories_audio.mp3"></audio>
          <div id="button_div">
             <button id="audio_button" type="button" onclick="aud_play_pause()"></button>
          </div>
@@ -293,7 +298,12 @@
                   her.</div>
             </div>
          </section>
-         <div class="credit"> </div>
+         <div class="credit">
+            <a href="https://freesound.org/people/JohnsonBrandEditing/sounds/244310/"
+               >Walking on pavement.wav</a> by <a
+                  href="https://freesound.org/people/JohnsonBrandEditing//">JohnsonBrandEditing</a> of <a
+                     href="http://freesound.org/">Freesound.org</a>
+         </div>
       </div>
    </body>
 </html>
