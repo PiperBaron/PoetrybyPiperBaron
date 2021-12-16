@@ -16,9 +16,9 @@ body {
 }
 
 #menu {
-    margin: 25px;
-    position: absolute;
-    top: 0;
+    margin-top: 25px;
+    /*    position: absolute;
+    top: 0;*/
     left: 0;
 }
 
@@ -89,24 +89,25 @@ body {
 }
 
 table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  width: 100%;
-  border: 1px solid #ddd;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
 }
 
 .poem_header {
     font-size: 32px;
 }
 
-th, td {
-  text-align: left;
-  padding: 16px;
-  margin: 10px;
+th,
+td {
+    text-align: left;
+    padding: 16px;
+    margin: 10px;
 }
 
 tr:nth-child(even) {
-  background-color: #1C1C1C;
+    background-color: #1C1C1C;
 }
 
 ul {
@@ -114,5 +115,5 @@ ul {
 }
 
 li {
-   list-style-type: circle;
+    list-style-type: circle;
 }
