@@ -141,6 +141,7 @@ p a:hover {
  
 #cyto {
     /* height: 235vh;*/
+    /*  ebb: Apparently this is not needed when we set up CSS grid!  */
 }
 
 #back_up a {
