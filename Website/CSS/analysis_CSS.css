@@ -18,10 +18,10 @@ body {
     position: relative;
 }
 
-#menu {
-    margin: 25px;
-    position: absolute;
-    top: 0;
+#menu { 
+   margin-top: 25px;
+/*    position: absolute;
+    top: 0;*/
     left: 0;
 }
 
