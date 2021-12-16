@@ -46,7 +46,18 @@
         </metaTags>
 
         <credit>
-            <creditPoint> </creditPoint>
+            <creditPoint>
+                <creditURL URL="https://freesound.org/people/Timbre/sounds/223372/"
+                    >Remix Background Music</creditURL> by <creditURL
+                        URL="https://freesound.org/people/Timbre/">Timbre</creditURL> of <creditURL
+                            URL="http://freesound.org/">Freesound.org</creditURL>
+            </creditPoint>
+            <creditPoint>
+                <creditURL URL="https://freesound.org/people/InspectorJ/sounds/485076/"
+                    >Rustling Dead Leaves By Hand</creditURL> by <creditURL
+                        URL="https://freesound.org/people/maiasnowdrop/">maiasnowdrop</creditURL> of <creditURL
+                            URL="http://freesound.org/">Freesound.org</creditURL>
+            </creditPoint>
         </credit>
     </about>
 
