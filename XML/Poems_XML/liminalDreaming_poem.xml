@@ -37,7 +37,12 @@
         </metaTags>
 
         <credit>
-            <creditPoint> </creditPoint>
+            <creditPoint>
+                <creditURL
+                    URL="https://www.zapsplat.com/music/crowd-people-lively-banquet-reception-lots-of-talking-laughing-sounds-of-dinnerware-etc/"
+                    >Crowd, people, lively banquet reception, lots of talking, laughing, sounds of dinnerware etc.</creditURL> from
+                <creditURL URL="https://www.zapsplat.com/">ZapSplat</creditURL>
+            </creditPoint>
         </credit>
     </about>
 

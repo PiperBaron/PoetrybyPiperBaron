@@ -11,18 +11,24 @@
       <link href="https://fonts.googleapis.com/css2?family=Amatic+SC" rel="stylesheet" />
       <link href="https://fonts.googleapis.com/css2?family=Bellefair" rel="stylesheet" />
       <link rel="stylesheet" type="text/css" href="../CSS/liminalDreaming_CSS.css" />
-      <script type="text/javascript" src="../Javascript/audio_JS.js"></script>
+      <script type="text/javascript" src="../Javascript/media_toggle_JS.js"></script>
       <script type="text/javascript" src="../Javascript/line_info_toggle_JS.js"></script>
    </head>
    <body>
       <div id="main">
+         
+         <div class="overlay"></div>
+         
+         <video autoplay muted loop id="bg_video">
+            <source src="../Media/liminalDreaming_BG.mp4" type="video/mp4">
+         </video>
          
          
          <div id="title">Liminal Dreaming</div>
          
          <!--#include virtual="../SSI/poems_nav_menu.html" -->
          
-         <audio id="audio" src="../Media/POEMAUDIO.wav"></audio>
+         <audio id="audio" src="../Media/liminalDreaming_audio.mp3"></audio>
          <div id="button_div">
             <button id="audio_button" type="button" onclick="aud_play_pause()"></button>
          </div>
@@ -217,7 +223,12 @@
                   reality.</div>
             </div>
          </section>
-         <div class="credit"> </div>
+         <div class="credit">
+            <a
+               href="https://www.zapsplat.com/music/crowd-people-lively-banquet-reception-lots-of-talking-laughing-sounds-of-dinnerware-etc/"
+               >Crowd, people, lively banquet reception, lots of talking, laughing, sounds of dinnerware etc.</a> from
+            <a href="https://www.zapsplat.com/">ZapSplat</a>
+         </div>
       </div>
    </body>
 </html>
