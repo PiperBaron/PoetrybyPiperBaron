@@ -11,17 +11,23 @@
       <link href="https://fonts.googleapis.com/css2?family=Amatic+SC" rel="stylesheet" />
       <link href="https://fonts.googleapis.com/css2?family=Bellefair" rel="stylesheet" />
       <link rel="stylesheet" type="text/css" href="../CSS/virga_CSS.css" />
-      <script type="text/javascript" src="../Javascript/audio_JS.js"></script>
+      <script type="text/javascript" src="../Javascript/media_toggle_JS.js"></script>
       <script type="text/javascript" src="../Javascript/line_info_toggle_JS.js"></script>
    </head>
    <body>
       <div id="main">
          
+         <div class="overlay"></div>
+         
+         <video autoplay muted loop id="bg_video">
+            <source src="../Media/virga_BG.mp4" type="video/mp4">
+         </video>
+
          <div id="title">Virga</div>
-         
+
          <!--#include virtual="../SSI/poems_nav_menu.html" -->
-         
-         <audio id="audio" src="../Media/POEMAUDIO.wav"></audio>
+
+         <audio id="audio" src="../Media/virga_audio.mp3"></audio>
          <div id="button_div">
             <button id="audio_button" type="button" onclick="aud_play_pause()"></button>
          </div>
@@ -79,7 +85,8 @@
                   </div>
 
                   <div id="l7" class="line">
-                     <span class="inner">paint across the <span class="weather_line">grey sky</span>.</span>
+                     <span class="inner">paint across the <span class="weather_line">grey
+                        sky</span>.</span>
                   </div>
 
                   <div id="l8" class="line">
@@ -143,7 +150,8 @@
                   </div>
 
                   <div id="l22" class="line">
-                     <span class="inner"><span class="weather_line">thunder</span> and <span class="weather_line">gale</span>.</span>
+                     <span class="inner"><span class="weather_line">thunder</span> and <span
+                           class="weather_line">gale</span>.</span>
                   </div>
                </div>
 
@@ -155,7 +163,8 @@
                   </div>
 
                   <div id="l24" class="line">
-                     <span class="inner"><span class="weather_line">Howling</span> like a wolf</span>
+                     <span class="inner"><span class="weather_line">Howling</span> like a
+                        wolf</span>
                   </div>
 
                   <div id="l25" class="line">
@@ -171,7 +180,8 @@
                   </div>
 
                   <div id="l28" class="line">
-                     <span class="inner"><span class="weather_line">frigid</span> that my breath</span>
+                     <span class="inner"><span class="weather_line">frigid</span> that my
+                        breath</span>
                   </div>
 
                   <div id="l29" class="line">
@@ -187,7 +197,8 @@
                   </div>
 
                   <div id="l32" class="line">
-                     <span class="inner">the swirling <span class="weather_line">flurry</span></span>
+                     <span class="inner">the swirling <span class="weather_line"
+                        >flurry</span></span>
                   </div>
 
                   <div id="l33" class="line">
@@ -252,7 +263,12 @@
                   come happened.</div>
             </div>
          </section>
-         <div class="credit"> </div>
+         <div class="credit">
+            <a
+               href="https://www.zapsplat.com/music/distant-rumble-of-thunder-with-light-rain-and-wind-1/"
+               >Distant rumble of thunder with light rain and wind 1</a> from <a
+               href="https://www.zapsplat.com/">ZapSplat</a>
+         </div>
       </div>
    </body>
 </html>

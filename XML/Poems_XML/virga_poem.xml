@@ -38,7 +38,12 @@
         </metaTags>
 
         <credit>
-            <creditPoint> </creditPoint>
+            <creditPoint>
+                <creditURL
+                    URL="https://www.zapsplat.com/music/distant-rumble-of-thunder-with-light-rain-and-wind-1/"
+                    >Distant rumble of thunder with light rain and wind 1</creditURL> from
+                <creditURL URL="https://www.zapsplat.com/">ZapSplat</creditURL>
+            </creditPoint>
         </credit>
     </about>
 
